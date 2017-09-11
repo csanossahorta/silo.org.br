@@ -1,6 +1,12 @@
 <title>{{ page.title }}</title>
 
-<meta name="description" content="{{site.title}} - {{page.title}}">
+{% if page.subtitle %}
+  {% assign subtitle = page.subtitle %}
+{% else %}
+  {% assign subtitle = page.excerpt %}
+{% endif %}
+
+<meta name="description" content="{{site.title}} - {{subtitle}}">
 <meta name="keywords" content="art, arte, latitude, rural">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">

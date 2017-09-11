@@ -2,11 +2,9 @@
   <div id="swipebox-gallery">
     {% for file in site.static_files %}
       {% if file.path contains page.swipebox %}
-        {% unless file.path contains "cover" %}
-          <a href="{{ site.baseurl }}{{ file.path }}" class="swipebox swipebox-item">
-            <img src="{{ site.baseurl }}{{ file.path }}" alt="">
-          </a>
-        {% endunless %}
+        <a href="{{ site.baseurl }}{{ file.path }}" class="swipebox swipebox-item">
+          <img src="{{ site.baseurl }}{{ file.path }}" alt="">
+        </a>
       {% endif %}
     {% endfor %}
   </div>

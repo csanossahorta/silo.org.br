@@ -42,21 +42,19 @@ twitter_user: ""
 
 # prose.io
 prose:
-  media: 'media/posts'
+  media: 'media/images'
   ignore:
     - .gitignore
     - _config.yml
     - _includes
     - _layouts
     - _pages/404.md
-    - _pages/index.md
     - _sass
     - css
     - js
     - CNAME
     - media/favicons
     - media/swipebox
-    - media/covers
   metadata:
     _posts:
       - name: "layout"
@@ -70,8 +68,13 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "nome do projeto"
-          placeholder: "Colocar Aqui o Nome Do Projeto"
+          label: "título da notícia"
+          placeholder: "Colocar Aqui o Título da Sua Notícia"
+      - name: "cover"
+        field:
+          element: "text"
+          label: "imagem de capa"
+          placeholder: "/media/images/cover.jpg"
       - name: "swipebox"
         field:
           element: "text"
@@ -86,14 +89,10 @@ prose:
         field:
           element: "hidden"
           value: "true"
-      - name: "menu"
-        field:
-          element: "hidden"
-          value: "true"
       - name: "title"
         field:
           element: "text"
-          label: "nome do projeto"
+          label: "nome da página"
           placeholder: "Colocar Aqui o Nome Da Página"
       - name: "permalink"
         field:
