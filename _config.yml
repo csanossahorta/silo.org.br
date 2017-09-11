@@ -1,0 +1,102 @@
+# Site
+title: Silo
+
+# URL
+url: http://silo.org.br
+baseurl: ''
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4666
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"
+
+# Data
+social:
+  tumblr: ""
+  pinterest: ""
+  github: "https://github.com/associacaosilo"
+  instagram: ""
+  twitter: ""
+  facebook: ""
+  youtube: ""
+  vimeo: ""
+  soundcloud: ""
+  envelope: "mailto:associacao.silo@gmail.com"
+twitter_user: ""
+
+# prose.io
+prose:
+  media: 'media/posts'
+  ignore:
+    - .gitignore
+    - _config.yml
+    - _includes
+    - _layouts
+    - _pages/404.md
+    - _pages/index.md
+    - _sass
+    - css
+    - js
+    - CNAME
+    - media/favicons
+    - media/swipebox
+    - media/covers
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "nome do projeto"
+          placeholder: "Colocar Aqui o Nome Do Projeto"
+      - name: "swipebox"
+        field:
+          element: "text"
+          label: "prefixo dos arquivos de imagem para serem incluidos na galeria"
+          placeholder: "p1_"
+    _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "menu"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "nome do projeto"
+          placeholder: "Colocar Aqui o Nome Da Página"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "link dessa página"
+          placeholder: "/contato/"
