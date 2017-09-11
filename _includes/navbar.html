@@ -9,6 +9,11 @@
   <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
   <a class="menu-title" href="{{ site.baseurl }}/">{{ site.title }}*</a>
   <div class="menu-pages">
+    {% for page in site.pages %}
+      {% if page.menu == true %}
+        <a class="menu-item" href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
     <div class="menu-social-mobile">
       {% include socialbar.html %}
     </div>

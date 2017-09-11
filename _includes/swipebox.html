@@ -1,5 +1,5 @@
 {% if page.swipebox %}
-  <div id="swipebox-gallery">
+  <div class="swipebox-gallery">
     {% for file in site.static_files %}
       {% if file.path contains page.swipebox %}
         <a href="{{ site.baseurl }}{{ file.path }}" class="swipebox swipebox-item">
