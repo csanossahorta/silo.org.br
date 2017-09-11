@@ -1,37 +1,31 @@
-<div id="navbar-mobile" class="nav-container">
-  <span id="show-menu" class="menu-icon" onclick="showMenu()">
-    <i class="fa fa-bars" aria-hidden="true"></i>
-  </span>
-  <a class="menu-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-</div>
-
-<div id="navbar" class="navbar-hide">
-  <div id="hide-menu" class="menu-icon" onclick="hideMenu()">✖</div>
-  <a class="menu-title" href="{{ site.baseurl }}/">{{ site.title }}*</a>
-  <div class="menu-pages">
-    {% for page in site.pages %}
-      {% if page.menu == true %}
-        <a class="menu-item" href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-    <div class="menu-social-mobile">
-      {% include socialbar.html %}
-    </div>
+<div id="navbar-mobile">
+  <i class="fa fa-bars menu-icon show-menu" aria-hidden="true" onclick="showMenu()"></i>
+  <a class="menu-title" href="{{ site.baseurl }}/">
+    <img src="">
+  </a>
+  <div id="menu-retratil" class="navbar-hide">
+    <div class="menu-icon hide-menu" onclick="hideMenu()">✖</div>
+    {% include menuitems.html %}
   </div>
 </div>
 
-<div class="menu-social-desktop">
-  {% include socialbar.html %}
+<div id="navbar">
+  <a class="menu-title" href="{{ site.baseurl }}/">
+    <img src="">
+  </a>
+  <div class="menu-container">
+    {% include menuitems.html %}
+  </div>
 </div>
 
 <script>
   function showMenu() {
-    document.getElementById('navbar').classList.remove("navbar-hide");
-    document.getElementById('navbar').classList.add("navbar-show");
+    document.getElementById('menu-retratil').classList.remove("navbar-hide");
+    document.getElementById('menu-retratil').classList.add("navbar-show");
   }
 
   function hideMenu() {
-    document.getElementById('navbar').classList.remove("navbar-show");
-    document.getElementById('navbar').classList.add("navbar-hide");
+    document.getElementById('menu-retratil').classList.remove("navbar-show");
+    document.getElementById('menu-retratil').classList.add("navbar-hide");
   }
 </script>
