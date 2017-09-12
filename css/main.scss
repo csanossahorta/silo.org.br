@@ -55,15 +55,6 @@ a {
   }
 }
 
-a.menu-title {
-  font-weight: normal;
-  font-size: $MENU-TITLE-SIZE/1.5;
-  @include media-query(DESKTOP) {
-    font-size: $MENU-TITLE-SIZE;
-    line-height: 1;
-  }
-}
-
 #navbar-mobile {
   display: block;
   z-index: 10;
