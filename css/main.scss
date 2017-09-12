@@ -115,6 +115,9 @@ a.menu-title {
 
 .menu-section {
   border-top: 2px #000 solid;
+  li {
+    text-transform: uppercase;
+  }
 }
 
 #navbar {
