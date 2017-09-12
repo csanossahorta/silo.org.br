@@ -111,6 +111,15 @@ a {
   }
 }
 
+.menu-logo {
+  height: 100%;
+  min-height: 90px;
+  background-image: url("{{site.baseurl}}/media/images/logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
 #navbar {
   padding: 30px 0;
   box-sizing: border-box;
@@ -129,14 +138,18 @@ a {
   .menu-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
     padding: 0 2vw;
-    width: 75%;
+    width: 66%;
   }
 
   .menu-section {
-    width: 30%;
+    width: 20%;
     max-width: 200px;
+    min-width: 120px;
+  }
+  .menu-section+.menu-section {
+    margin-left: 10%;
   }
 }
 
