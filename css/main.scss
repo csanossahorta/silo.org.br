@@ -69,19 +69,21 @@ a {
     background-color: $BACKGROUND;
     top: 0;
     padding-top: $RESPONSIVE-SPACING*2;
-    transition: left 0.3s linear;
+    transition: right 0.3s linear;
   }
 
   .show-menu {
     position: absolute;
-    left: 2 * $RESPONSIVE-SPACING;
+    right: 2 * $RESPONSIVE-SPACING;
     top: 3vw;
+    font-size: 24px;
   }
 
   .hide-menu {
     position: absolute;
     top: $RESPONSIVE-SPACING / 2;
-    right: $RESPONSIVE-SPACING / 2;
+    right: 2 * $RESPONSIVE-SPACING;
+    font-size: 24px;
   }
 
   .menu-section {
@@ -95,13 +97,13 @@ a {
 }
 
 .navbar-hide {
-  left: -100vw;
+  right: -100vw;
   @include media-query(DESKTOP) {
-    left: 0;
+    right: 0;
   }
 }
 .navbar-show {
-  left: 0;
+  right: 0;
 }
 
 .menu-section {
@@ -184,8 +186,6 @@ a {
   font: normal 1.5rem $FAMILY-SANS;
   color: $LINK-COLOR;
   cursor: pointer;
-  text-decoration: none;
-  text-transform: uppercase;
   transition: color $TRANSITION-PERIOD linear;
 
   &:hover {
