@@ -1,36 +1,36 @@
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1R.ttf);
-    font-style: Normal;
-    font-weight: Normal;
+    font-style: normal;
+    font-weight: normal;
 }
 
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1RB.ttf);
-    font-style: Normal;
-    font-weight: Bold;
+    font-style: normal;
+    font-weight: bold;
 }
 
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1RI.ttf);
-    font-style: Italic;
-    font-weight: Normal;
+    font-style: italic;
+    font-weight: normal;
 }
 
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1RBI.ttf);
-    font-style: Italic;
-    font-weight: Bold;
+    font-style: italic;
+    font-weight: bold;
 }
 
 
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1TI.ttf);
-    font-style: Italic;
+    font-style: italic;
     font-weight: 200;
 }
 
@@ -38,34 +38,34 @@
 @font-face {
     font-family: Font1;
     src: url(fonts/selected/Font1T.ttf);
-    font-style: Normal;
+    font-style: normal;
     font-weight: 200;
 }
 
 @font-face {
     font-family: Font2;
     src: url(fonts/selected/Font2R.ttf);
-    font-style: Normal;
-    font-weight: Normal;
+    font-style: normal;
+    font-weight: normal;
 }
 
 @font-face {
     font-family: Font2;
     src: url(fonts/selected/Font2RB.ttf);
-    font-style: Normal;
-    font-weight: Bold;
+    font-style: normal;
+    font-weight: bold;
 }
 
 @font-face {
     font-family: Font3;
     src: url(fonts/selected/Font3R.ttf);
-    font-style: Normal;
-    font-weight: Normal;
+    font-style: normal;
+    font-weight: normal;
 }
 
 @font-face {
     font-family: Font3;
     src: url(fonts/selected/Font3RB.ttf);
-    font-style: Normal;
-    font-weight: Bold;
+    font-style: normal;
+    font-weight: bold;
 }

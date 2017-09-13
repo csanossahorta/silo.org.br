@@ -2,6 +2,7 @@
 ---
 
 @import 'constants';
+@import url('fonts.css');
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -15,11 +16,11 @@ body {
   width: 100%;
   background-color: $BACKGROUND;
 
-  font: normal $TEXT-SIZE-MOBILE $FAMILY-SANS;
+  font: normal $TEXT-SIZE-MOBILE $FONT-TEXT;
   color: $TEXT-COLOR;
 
   @include media-query(DESKTOP) {
-    font: normal $TEXT-SIZE $FAMILY-SANS;
+    font: normal $TEXT-SIZE $FONT-TEXT;
   }
 }
 
@@ -36,14 +37,14 @@ s {
 }
 
 a {
-  font: 900 $LINK-SIZE-MOBILE $FAMILY-SANS;
+  font: 900 $LINK-SIZE-MOBILE $FONT-TEXT;
   color: $LINK-COLOR;
   cursor: pointer;
   text-decoration: none;
   transition: color $TRANSITION-PERIOD linear;
 
   @include media-query(DESKTOP) {
-    font: 900 $LINK-SIZE $FAMILY-SANS;
+    font: 900 $LINK-SIZE $FONT-TEXT;
   }
 
   &:visited {
@@ -108,8 +109,12 @@ a {
 
 .menu-section {
   border-top: 2px #000 solid;
+  padding: 10px 0;
   li {
     text-transform: uppercase;
+    font: normal $MENU-ITEM-SIZE $FONT-MENU;
+    line-height: 1.7;
+    vertical-align: middle;
   }
 }
 
@@ -183,7 +188,7 @@ a {
 }
 
 .menu-icon {
-  font: normal 1.5rem $FAMILY-SANS;
+  font: normal 1.5rem $FONT-MENU;
   color: $LINK-COLOR;
   cursor: pointer;
   transition: color $TRANSITION-PERIOD linear;
