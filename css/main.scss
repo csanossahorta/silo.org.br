@@ -14,6 +14,7 @@ body {
   margin: 0 auto;
   padding: 0;
   width: 100%;
+  overflow-x: hidden;
   background-color: $BACKGROUND;
 
   font: normal $TEXT-SIZE-MOBILE $FONT-TEXT;
@@ -58,6 +59,7 @@ a {
 
 #navbar-mobile {
   display: block;
+  width: 100%;
   z-index: 10;
   position: relative;
   padding: $RESPONSIVE-SPACING 0 $RESPONSIVE-SPACING / 2;
