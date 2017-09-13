@@ -37,15 +37,11 @@ s {
 }
 
 a {
-  font: 900 $LINK-SIZE-MOBILE $FONT-TEXT;
+  font: normal $TEXT-SIZE $FONT-TEXT;
   color: $LINK-COLOR;
   cursor: pointer;
   text-decoration: none;
   transition: color $TRANSITION-PERIOD linear;
-
-  @include media-query(DESKTOP) {
-    font: 900 $LINK-SIZE $FONT-TEXT;
-  }
 
   &:visited {
     color: $LINK-COLOR-VISITED;
@@ -221,7 +217,7 @@ a {
   }
 }
 
-.intro-text {
+.content-text {
   width: 100%;
   box-sizing: border-box;
   margin: 0 auto;
@@ -234,6 +230,25 @@ a {
   @include media-query(DESKTOP) {
     max-width: 700px;
   }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  box-sizing: border-box;
+  width: 90%;
+  border-top: 1px #000 dashed;
+  padding: 12px 0;
+}
+
+.footer-line {
+  line-height: 1.7;
+  vertical-align: middle;
+}
+a.footer-line {
+  text-decoration: underline;
+  font-weight: 200;
 }
 
 .swipebox-gallery {
