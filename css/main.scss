@@ -235,7 +235,12 @@ a {
   }
 }
 
-.news-list {
+.project-list {
+  border-top: 2px #000 solid;
+  padding-top: 70px;
+}
+
+.news-list, .project-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

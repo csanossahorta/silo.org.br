@@ -18,7 +18,16 @@
           </a>
         {% endfor %}
       </section>
-      <section class="projects"></section>
+      <section class="project-list">
+        {% for project in site.data.projects %}
+          {% assign pCover = site.baseurl | append: '/' | append: project.cover %}
+          <a class="list-item" target="_blank" href="{{ site.baseurl }}{{ project.url }}">
+            <div class="list-item-image" style="background-image: url('{{ pCover }}');">
+              <div class="list-item-title">{{ project.title }}</div>
+            </div>
+          </a>
+        {% endfor %}
+      </section>
     </div>
     {% include footer.html %}
   </body>
