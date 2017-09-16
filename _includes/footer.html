@@ -11,3 +11,12 @@
     {% endfor %}
   </div>
 </div>
+
+{% if page.permalink == '/' %}
+  <div class="footer">
+    <div class="footer-line">Financiamento:</div>
+    <a href="https://www.fordfoundation.org/" target="_blank">
+      <div class="footer-line ford-logo"></div>
+    </a>
+  </div>
+{% endif %}

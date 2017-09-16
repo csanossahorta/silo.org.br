@@ -310,6 +310,14 @@ a.footer-line {
   font-weight: 200;
 }
 
+.ford-logo {
+  height: 48px;
+  background-image: url('{{ site.baseurl }}/media/images/ford_logo_black.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+}
+
 .swipebox-gallery {
   display: -webkit-flex;
   display: flex;
