@@ -26,13 +26,13 @@ Atualmente a associação está atuando na Serrinha do Alambari, uma APA – Ár
 </div>
 Nossas atividades se dividem em 4 frentes de ação:
 
-**mínimo impacto ambiental** - realizamos atividades, wokshops, mutirões com temas relacionados a agroecologia, sistemas agroflorestais, sistemas sintrópicos e bioarquitetura.
+<span class="about-subtitle">Mínimo impacto ambiental</span> - realizamos atividades, wokshops, mutirões com temas relacionados a agroecologia, sistemas agroflorestais, sistemas sintrópicos e bioarquitetura.
 
-**protagonismo feminino** - realizamos um encontro feminista anual focado na troca de saberes,  técnicas e tecnologias entre o universo feminino e oferecemos mentoria para projetos realizados por mulheres.
+<span class="about-subtitle">Protagonismo feminino</span> - realizamos um encontro feminista anual focado na troca de saberes,  técnicas e tecnologias entre o universo feminino e oferecemos mentoria para projetos realizados por mulheres.
 
-**residência artística** - oferecemos espaço, tempo e insumos para desenvolvimento de trabalhos artísticos, mentoria para projetos e análise de portfólios
+<span class="about-subtitle">Residência artística</span> - oferecemos espaço, tempo e insumos para desenvolvimento de trabalhos artísticos, mentoria para projetos e análise de portfólios
 
-**tecnologia e autonomia** - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
+<span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
 
 <div class="about-section-wrapper">
   <h3 class="about-section" id="para-quem-fazemos">Para quem fazemos</h3>
