@@ -5,7 +5,9 @@ permalink: /sobre.html
 <div class="about-nav">
   <a class="about-nav-item" href="#o-que-e">O que é</a>
   <a class="about-nav-item" href="#o-que-fazemos">O que fazemos</a>
+  <a class="about-nav-item" href="#para-quem-fazemos">Para quem fazemos</a>
   <a class="about-nav-item" href="#historico">Histórico</a>
+  <a class="about-nav-item" href="#valores">Valores</a>
 </div>
 
 <div class="about-section-wrapper">
@@ -24,13 +26,18 @@ Atualmente a associação está atuando na Serrinha do Alambari, uma APA – Ár
 </div>
 Nossas atividades se dividem em 4 frentes de ação:
 
-**mínimo impacto ambiental** - realizamos atividades, wokshops, mutirões com temas relacionados a agroecologia, sistemas agroflorestais, sistemas sintrópicos e bioarquitetura.
+<span class="about-subtitle">Mínimo impacto ambiental</span> - realizamos atividades, wokshops, mutirões com temas relacionados a agroecologia, sistemas agroflorestais, sistemas sintrópicos e bioarquitetura.
 
-**protagonismo feminino** - realizamos um encontro feminista anual focado na troca de saberes,  técnicas e tecnologias entre o universo feminino e oferecemos mentoria para projetos realizados por mulheres.
+<span class="about-subtitle">Protagonismo feminino</span> - realizamos um encontro feminista anual focado na troca de saberes,  técnicas e tecnologias entre o universo feminino e oferecemos mentoria para projetos realizados por mulheres.
 
-**residência artística** - oferecemos espaço, tempo e insumos para desenvolvimento de trabalhos artísticos, mentoria para projetos e análise de portfólios
+<span class="about-subtitle">Residência artística</span> - oferecemos espaço, tempo e insumos para desenvolvimento de trabalhos artísticos, mentoria para projetos e análise de portfólios
 
-**tecnologia e autonomia** - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
+<span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
+
+<div class="about-section-wrapper">
+  <h3 class="about-section" id="para-quem-fazemos">Para quem fazemos</h3>
+</div>
+Para quem fazemos?
 
 <div class="about-section-wrapper">
   <h3 class="about-section" id="historico">Histórico</h3>
@@ -42,3 +49,8 @@ A Silo  é  uma estação rural que, na atualidade, traz propostas pertinentes �
 Ela reflete por um lado a experiência geracional de filhos e netos de camponeses, gente do campo que se relaciona com as novas tecnologias. Por outro reflete a vivência de uma geração urbana que deseja estar no campo.
 
 A convergência da associação foi possível a partir da convivência compartilhada de já dura cerca de nove anos habitando, trabalhando e conhecendo espaços rurais que se constituem desde uma demanda atual de sobrevivência fora dos grandes centros urbanos e que possuem, de alguma maneira, modos de subsistir que operam desde uma sofisticada dinâmica de involução seja ela cultural ou econômica, podendo criar assim, pequenas e insistentes fissuras nos valores da sociedade atual.
+
+<div class="about-section-wrapper">
+  <h3 class="about-section" id="valores">Valores</h3>
+</div>
+Valores?

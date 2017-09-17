@@ -209,11 +209,15 @@ a {
 .about-nav {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   width: 100%;
   justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 64px;
 
   @include media-query(DESKTOP) {
     flex-direction: row;
+    align-items: flex-end;
   }
 
   .about-nav-item {
@@ -225,6 +229,8 @@ a {
     color: #fff;
     border-radius: 6px;
     transition: background-color $TRANSITION-PERIOD linear;
+    width: 80%;
+    text-align: left;
 
     &:hover {
       background-color: #888;
@@ -232,8 +238,14 @@ a {
 
     @include media-query(DESKTOP) {
       margin: 0;
+      width: 15%;
+      text-align: center;
     }
   }
+}
+
+.about-subtitle {
+  font-family: $FONT-TITLE;
 }
 
 .main-div {
@@ -381,6 +393,7 @@ i.fa-1_5x {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left center;
+  margin-bottom: 24px;
 }
 
 .swipebox-gallery {
