@@ -240,7 +240,7 @@ a {
   padding-top: 70px;
 }
 
-.news-list, .project-list {
+.news-list, .project-list, .people-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -260,6 +260,19 @@ a {
 
     @include media-query(DESKTOP) {
       width: 45%;
+      margin: 0 0 24px;
+    }
+  }
+    
+  .people-list-item {
+    display: block;
+    width: 40%;
+    margin: 0 auto 24px;
+    min-height: 200px;
+    min-width: 260px;
+
+    @include media-query(DESKTOP) {
+      width: 20%;
       margin: 0 0 24px;
     }
   }

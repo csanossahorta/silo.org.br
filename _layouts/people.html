@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="main-div">
+      <section class="people-list">
+        {% for post in site.posts limit: 2 %}
+          {% assign pCover = site.baseurl | append: '/' | append: people.cover %}
+          <div class="people-list-item" href="{{ site.baseurl }}{{ people.url }}">
+            <div class="list-item-image" style="background-image: url('{{ pCover }}');">
+            </div>
+            <div class="list-item-title">{{ people.name }}</div>
+            <div class="content-text">{{ content }}</div>
+          </div>
+        {% endfor %}
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
