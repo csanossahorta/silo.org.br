@@ -195,6 +195,47 @@ a {
   }
 }
 
+.about-section-wrapper {
+  margin-top: 32px;
+
+  .about-section {
+    border-top: 2px #000 solid;
+    width: auto;
+    display: inline;
+    padding: 8px 1px 0;
+  }
+}
+
+.about-nav {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+
+  @include media-query(DESKTOP) {
+    flex-direction: row;
+  }
+
+  .about-nav-item {
+    text-transform: uppercase;
+    font: normal 1rem $FONT-MENU;
+    padding: 8px 12px;
+    margin: 4px 0;
+    background-color: #000;
+    color: #fff;
+    border-radius: 6px;
+    transition: background-color $TRANSITION-PERIOD linear;
+
+    &:hover {
+      background-color: #888;
+    }
+
+    @include media-query(DESKTOP) {
+      margin: 0;
+    }
+  }
+}
+
 .main-div {
   display: block;
   width: 80%;
