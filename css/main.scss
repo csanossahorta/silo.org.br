@@ -317,17 +317,18 @@ a {
     }
   }
 
-  .people-list-item-wrapper {
+  .people-image-wrapper {
     width: 100%;
     padding-top: 100%;
     position: relative;
+    margin-bottom: 15px;
   }
 
   .people-list-item {
     display: block;
     width: 80%;
     margin: 0 auto 24px;
-    padding: 0 10px;
+    padding: 0 1%;
     min-height: 200px;
   
     @include media-query(DESKTOP) {
@@ -353,8 +354,18 @@ a {
     top: 0;
   }
 
+  .people-link {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 10px;
+  }
+
   .people-text {
     padding: 0;
+    p {
+      margin: 0;
+    }
   }
 
   .list-item-title {
