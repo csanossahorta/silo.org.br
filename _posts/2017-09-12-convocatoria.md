@@ -1,6 +1,28 @@
 ---
-title: 'Convocatória'
+title: 'Convocatória: comunicação'
 cover: 'media/images/cover3.jpg'
 category: silo
 ---
-Imaginario Inverso is our ongoing investigation into the industrialization of the social imaginary and the commercialization of scientific knowledge. Through a series of workshops, talks, and exhibitions using conceptual prototyping, futurecasting, reappropriations, and micro-narratives, we propose different frameworks for reflecting on the geopolitics of technology development and the reinterpretation of technologies for more personal uses.
+Queremos selecionar uma/um profissional de comunicação para trabalhar conosco.
+
+Buscamos uma pessoa que viva na região da Mantiqueira, no Vale do Rio Paraíba do Sul ou que se interesse em viver aqui. A pessoa se juntará à equipe da SILO e trabalhará tanto para a associação quanto para as atividades realizadas por ela.
+
+Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração em acordo com a realidade da região. A jornada de trabalho será de cinco horas diárias.
+
+### Buscamos uma pessoa que:
+
+- tenha interesse transdisciplinar, com vontade de cuidar e transformar o mundo, aprender e desaprender coisas. Gente curiosa que goste de contar e ouvir estórias.
+
+- além de saber escrever e editar em língua portuguesa, fale inglês e espanhol (por conta do alcance internacional de nossos projetos).
+
+- saiba se vira: trabalhar com autonomia, gerenciar prioridades e organizar sua rotina.
+
+- tenha disposição para realizar trabalhos em multimídia (edição de vídeo, fotografia, som); saber manejar equipamentos audiovisuais; produzir, pesquisar e editar conteúdos de diferentes narrativas e formatos e gerenciar mídias sociais. Se souber usar ferramentas livres, será ainda melhor!
+
+- trabalhe com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar. É preciso ter respeito por cada uma das diferenças. Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de procedência.
+
+Se você se identificou, escreva para o email [associacao.silo@gmail.com](mailto:associacao.silo@gmail.com) dizendo em no máximo 20 linhas porque você quer trabalhar conosco. Envie também o seu currículo e/ou portfólio em anexo no formato .PDF e links de projetos relevantes.
+
+Após uma primeira seleção de currículos, faremos uma entrevista com as/os candidatas/os.
+
+Vamos receber currículos até o dia XX  de outubro de 2017.

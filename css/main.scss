@@ -217,12 +217,16 @@ a {
 
   @include media-query(DESKTOP) {
     flex-direction: row;
-    align-items: flex-end;
   }
 
   .about-nav-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
     text-transform: uppercase;
     font: normal 1rem $FONT-MENU;
+    vertical-align: middle;
     padding: 8px 12px;
     margin: 4px 0;
     background-color: #000;
@@ -239,12 +243,13 @@ a {
     @include media-query(DESKTOP) {
       margin: 0;
       width: 15%;
+      min-height: 34px;
       text-align: center;
     }
   }
 }
 
-.about-subtitle {
+.about-subtitle, .post-title {
   font-family: $FONT-TITLE;
 }
 
@@ -290,19 +295,28 @@ a {
 
 .project-list {
   border-top: 1px #000 dashed;
-  padding-top: 70px;
+  padding-top: 26px;
 }
 
-.news-list, .project-list, .people-list {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+.list-wrapper {
   width: 100%;
   margin: 0 auto;
   @include media-query(DESKTOP) {
     width: 85%;
   }
+}
+
+.more-news-link {
+  margin: 0;
+  text-align: right;
+}
+
+.home-list, .people-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
 
   .list-item {
     display: block;
@@ -386,6 +400,11 @@ a {
 .people-list {
   box-sizing: border-box;
   justify-content: flex-start;
+  width: 100%;
+  margin: 0 auto;
+  @include media-query(DESKTOP) {
+    width: 85%;
+  }
 }
 
 .footer {

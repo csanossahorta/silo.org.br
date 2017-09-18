@@ -1,6 +1,6 @@
 ---
 title: ’Sobre’
-permalink: /sobre.html
+permalink: /sobre/
 ---
 <div class="about-nav">
   <a class="about-nav-item" href="#o-que-e">O que é</a>
