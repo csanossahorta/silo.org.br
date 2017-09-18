@@ -274,11 +274,10 @@ a {
 }
 
 .content-text {
-  display: block;
   width: 100%;
   box-sizing: border-box;
   margin: 0 auto;
-  padding: 0;
+  padding: 0 20px;
   font: 200 $TEXT-SIZE $FONT-TEXT;
   line-height: 1.2;
   word-spacing: $TEXT-SIZE/10;
@@ -317,7 +316,13 @@ a {
       margin: 0 0 24px;
     }
   }
-    
+
+  .people-list-item-wrapper {
+    width: 100%;
+    padding-top: 100%;
+    position: relative;
+  }
+
   .people-list-item {
     display: block;
     width: 80%;
@@ -343,9 +348,15 @@ a {
     background-position: center;
   }
 
-  .people-image{
-    max-height: 200px;  
+  .people-image {
+    position: absolute;
+    top: 0;
   }
+
+  .people-text {
+    padding: 0;
+  }
+
   .list-item-title {
     position: absolute;
     width: 100%;
@@ -359,8 +370,10 @@ a {
     background: linear-gradient(rgba(0,0,0,0), rgba(32,32,32,0.8));
   }
 }
-.people-list{
-justify-content: flex-start; 
+
+.people-list {
+  box-sizing: border-box;
+  justify-content: flex-start;
 }
 
 .footer {
