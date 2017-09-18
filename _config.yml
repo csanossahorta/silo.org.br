@@ -78,8 +78,8 @@ prose:
       - name: "category"
         field:
           element: "multiselect"
-          label: "categorias do post (usar categoria silo para posts genéricos)"
-          placeholder: " "
+          label: "categorias do post (usar categoria 'silo' para posts genéricos)"
+          placeholder: "clique"
           options:
             - name: 'Silo'
               value: 'silo'
