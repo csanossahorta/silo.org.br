@@ -52,6 +52,7 @@ prose:
     - _pages/404.md
     - _pages/noticias.md
     - _pages/quem-somos.md
+    - _pages/projects
     - _sass
     - css
     - js
