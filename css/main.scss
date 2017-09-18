@@ -350,6 +350,7 @@ a {
   }
 
   .people-image {
+    filter: grayscale(100%);
     position: absolute;
     top: 0;
   }
