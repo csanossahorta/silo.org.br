@@ -70,11 +70,7 @@ prose:
         field:
           element: "hidden"
           value: "true"
-      - name: "title"
-        field:
-          element: "text"
-          label: "título da notícia"
-          placeholder: "titulo da noticia"
+
       - name: "cover"
         field:
           element: "text"
