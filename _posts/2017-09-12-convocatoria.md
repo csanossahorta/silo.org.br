@@ -21,7 +21,7 @@ Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e
 
 - trabalhe com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar. É preciso ter respeito por cada uma das diferenças. Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de procedência.
 
-Se você se identificou, escreva para o email [associacao.silo@gmail.com](mailto:associacao.silo@gmail.com) dizendo em no máximo 20 linhas porque você quer trabalhar conosco. Envie também o seu currículo e/ou portfólio em anexo no formato .PDF e links de projetos relevantes.
+Se você se identificou, escreva para o email [contato@silo.org.br](mailto:contato@silo.org.br) dizendo em no máximo 20 linhas porque você quer trabalhar conosco. Envie também o seu currículo e/ou portfólio em anexo no formato .PDF e links de projetos relevantes.
 
 Após uma primeira seleção de currículos, faremos uma entrevista com as/os candidatas/os.
 
