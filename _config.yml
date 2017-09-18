@@ -46,6 +46,7 @@ prose:
   ignore:
     - .gitignore
     - _config.yml
+    - _data
     - _includes
     - _layouts
     - _pages/404.md

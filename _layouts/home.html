@@ -25,13 +25,15 @@
       <section class="list-wrapper project-list">
         <h2>Projetos:</h2>
         <div class="home-list">
-          {% for project in site.data.projects %}
-            {% assign pCover = site.baseurl | append: '/' | append: project.cover %}
-            <a class="list-item" target="_blank" href="{{ site.baseurl }}{{ project.url }}">
-              <div class="list-item-image" style="background-image: url('{{ pCover }}');">
-                <div class="list-item-title">{{ project.title }}</div>
-              </div>
-            </a>
+          {% for page in site.pages %}
+            {% if page.path contains 'projects' %}
+              {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
+              <a class="list-item" target="_blank" href="{{ site.baseurl }}{{ page.link }}">
+                <div class="list-item-image" style="background-image: url('{{ pCover }}');">
+                  <div class="list-item-title">{{ page.title }}</div>
+                </div>
+              </a>
+            {% endif %}
           {% endfor %}
         </div>
       </section>
