@@ -49,10 +49,12 @@ prose:
     - _includes
     - _layouts
     - _pages/404.md
+    - _pages/noticias.md
     - _sass
     - css
     - js
     - CNAME
+    - TODO.md
     - media/favicons
     - media/swipebox
   metadata:
@@ -74,7 +76,21 @@ prose:
         field:
           element: "text"
           label: "imagem de capa"
-          placeholder: "/media/images/cover.jpg"
+          placeholder: "media/images/cover.jpg"
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "categorias do post"
+          placeholder: "usar silo para posts genéricos"
+          options:
+            - name: 'Silo'
+              value: 'silo'
+            - name: 'Encontrada'
+              value: 'encontrada'
+            - name: 'Interactivos!'
+              value: 'interactivos'
+            - name: 'Residência'
+              value: 'residencia'
       - name: "swipebox"
         field:
           element: "text"
