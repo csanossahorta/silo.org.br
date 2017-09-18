@@ -74,7 +74,7 @@ prose:
         field:
           element: "text"
           label: "título da notícia"
-          placeholder: "Colocar Aqui o Título da Sua Notícia"
+          placeholder: "titulo da noticia"
       - name: "cover"
         field:
           element: "text"
@@ -84,7 +84,7 @@ prose:
         field:
           element: "multiselect"
           label: "categorias do post"
-          placeholder: "usar silo para posts genéricos"
+          placeholder: "silo para posts genericos"
           options:
             - name: 'Silo'
               value: 'silo'
