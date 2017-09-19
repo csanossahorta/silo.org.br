@@ -7,25 +7,7 @@
   <body>
     {% include navbar.html %}
     <div class="main-div">
-      <section class="people-list">
-        {% for page in site.pages %}
-          {% if page.category contains 'people' %}
-            {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
-            <div class="people-list-item">
-              <div class="people-image-wrapper">
-                <div class="list-item-image people-image" style="background-image: url('{{ pCover }}');"></div>
-              </div>
-              <div class="list-item-title people-title">{{ page.title }}</div>
-              {% if page.link %}
-                <a class="people-link" href="http://{{ page.link }}/" target="_blank">
-                  {{ page.link }}
-                </a>
-              {% endif %}
-              <div class="content-text people-text">{{ page.content }}</div>
-            </div>
-          {% endif %}
-       {% endfor %}
-      </section>
+      {% include people-group.html section="people" %}
     </div>
     {% include footer.html %}
   </body>

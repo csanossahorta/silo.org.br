@@ -1,0 +1,20 @@
+<section class="people-list">
+  <h2>{{ include.section }}</h2>
+  {% for page in site.pages %}
+    {% if page.category contains include.section %}
+      {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
+      <div class="people-list-item">
+        <div class="people-image-wrapper">
+          <div class="list-item-image people-image" style="background-image: url('{{ pCover }}');"></div>
+        </div>
+        <div class="list-item-title people-title">{{ page.title }}</div>
+        {% if page.link %}
+          <a class="people-link" href="http://{{ page.link }}/" target="_blank">
+            {{ page.link }}
+          </a>
+        {% endif %}
+        <div class="content-text people-text">{{ page.content }}</div>
+      </div>
+    {% endif %}
+ {% endfor %}
+</section>
