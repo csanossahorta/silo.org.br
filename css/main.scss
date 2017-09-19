@@ -371,6 +371,7 @@ a {
     filter: grayscale(100%);
     position: absolute;
     top: 0;
+    border-radius: 50%;
   }
 
   .people-link {
@@ -398,6 +399,16 @@ a {
     line-height: 1.2;
     color: #fff;
     background: linear-gradient(rgba(0,0,0,0), rgba(32,32,32,0.8));
+  }
+
+  .people-title {
+    position: relative;
+    padding: 0;
+    margin: 10px auto;
+    line-height: 1;
+    border-radius: 5px;
+    background: rgba(255,255,255,0);
+    color: #000;
   }
 }
 
