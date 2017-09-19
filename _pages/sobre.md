@@ -2,14 +2,6 @@
 title: ’Sobre’
 permalink: /sobre/
 ---
-<div class="about-nav">
-  <a class="about-nav-item" href="#o-que-e">O que é</a>
-  <a class="about-nav-item" href="#o-que-fazemos">O que fazemos</a>
-  <a class="about-nav-item" href="#para-quem-fazemos">Para quem fazemos</a>
-  <a class="about-nav-item" href="#historico">Histórico</a>
-  <a class="about-nav-item" href="#valores">Valores</a>
-</div>
-
 <div class="about-section-wrapper">
   <h3 class="about-section" id="o-que-e">O que é</h3>
 </div>

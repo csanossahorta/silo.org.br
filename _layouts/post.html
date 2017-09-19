@@ -11,6 +11,7 @@
         {% unless page.path contains '_pages' %}
           <h2 class="post-title">{{ page.title }}</h2>
         {% endunless %}
+        {% include submenu.html %}
         {{ content }}
         {% include swipebox.html %}
       </section>
