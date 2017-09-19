@@ -5,4 +5,3 @@
 - texto sobre
 - texto bios
 - botões para compartilhar
-- smooth scroll
