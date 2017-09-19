@@ -1,5 +1,5 @@
 ---
-title: ’Sobre’
+title: 'Sobre'
 permalink: /sobre/
 ---
 <div class="about-section-title-wrapper">
