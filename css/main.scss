@@ -211,9 +211,10 @@ a {
 }
 .people-section-title-wrapper {
   margin: 0 0 24px;
+  text-align: center;
 }
 
-.about-nav {
+.about-nav, .people-nav {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -226,7 +227,7 @@ a {
     flex-direction: row;
   }
 
-  .about-nav-item {
+  .nav-item {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -253,6 +254,12 @@ a {
       min-height: 34px;
       text-align: center;
     }
+  }
+}
+.people-nav {
+  justify-content: center;
+  .nav-item {
+    margin: 4px;
   }
 }
 
@@ -421,7 +428,7 @@ a {
 
 .people-list {
   box-sizing: border-box;
-  justify-content: flex-start;
+  justify-content: center;
   margin: 0 auto;
 }
 
