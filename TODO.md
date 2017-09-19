@@ -1,6 +1,5 @@
 ---
 ---
-- resolver email
 - texto sobre
 - texto bios
 - botões para compartilhar
