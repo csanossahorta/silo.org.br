@@ -1,20 +1,24 @@
-<section class="people-list">
-  <h2>{{ include.section }}</h2>
-  {% for page in site.pages %}
-    {% if page.category contains include.section %}
-      {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
-      <div class="people-list-item">
-        <div class="people-image-wrapper">
-          <div class="list-item-image people-image" style="background-image: url('{{ pCover }}');"></div>
+<section class="list-wrapper">
+  <div class="people-section-title-wrapper">
+    <h2 class="people-section-title">{{ include.section }}</h2>
+  </div>
+  <div class="people-list">
+    {% for page in site.pages %}
+      {% if page.category contains include.section %}
+        {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
+        <div class="people-list-item">
+          <div class="people-image-wrapper">
+            <div class="list-item-image people-image" style="background-image: url('{{ pCover }}');"></div>
+          </div>
+          <div class="list-item-title people-title">{{ page.title }}</div>
+          {% if page.link %}
+            <a class="people-link" href="http://{{ page.link }}/" target="_blank">
+              {{ page.link }}
+            </a>
+          {% endif %}
+          <div class="content-text people-text">{{ page.content }}</div>
         </div>
-        <div class="list-item-title people-title">{{ page.title }}</div>
-        {% if page.link %}
-          <a class="people-link" href="http://{{ page.link }}/" target="_blank">
-            {{ page.link }}
-          </a>
-        {% endif %}
-        <div class="content-text people-text">{{ page.content }}</div>
-      </div>
-    {% endif %}
- {% endfor %}
+      {% endif %}
+   {% endfor %}
+  </div>
 </section>

@@ -2,8 +2,8 @@
 title: ’Sobre’
 permalink: /sobre/
 ---
-<div class="about-section-wrapper">
-  <h3 class="about-section" id="o-que-e">O que é</h3>
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="o-que-e">O que é</h3>
 </div>
 Silo – arte e latitude rural é uma associação da sociedade civil que tem como objetivo proporcionar, por meio de distintos projetos, o intercâmbio transdisciplinar entre diferentes saberes – sobretudo arte, ciências e tecnologias, estimulando o cruzamento de técnicas intuitivas com os saberes científicos. 
 
@@ -13,8 +13,8 @@ Tudo isto se dá por meio de programas de residências artísticas, laboratório
 
 Atualmente a associação está atuando na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira.
 
-<div class="about-section-wrapper">
-  <h3 class="about-section" id="o-que-fazemos">O que fazemos</h3>
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="o-que-fazemos">O que fazemos</h3>
 </div>
 Nossas atividades se dividem em 4 frentes de ação:
 
@@ -26,13 +26,13 @@ Nossas atividades se dividem em 4 frentes de ação:
 
 <span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
 
-<div class="about-section-wrapper">
-  <h3 class="about-section" id="para-quem-fazemos">Para quem fazemos</h3>
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="para-quem-fazemos">Para quem fazemos</h3>
 </div>
 Para quem fazemos?
 
-<div class="about-section-wrapper">
-  <h3 class="about-section" id="historico">Histórico</h3>
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="historico">Histórico</h3>
 </div>
 A Silo nasceu em 2016 convergindo projetos que sao realizados desde 2011 a partir de iniciativas de diferentes grupos de interesse.
 
@@ -42,7 +42,7 @@ Ela reflete por um lado a experiência geracional de filhos e netos de camponese
 
 A convergência da associação foi possível a partir da convivência compartilhada de já dura cerca de nove anos habitando, trabalhando e conhecendo espaços rurais que se constituem desde uma demanda atual de sobrevivência fora dos grandes centros urbanos e que possuem, de alguma maneira, modos de subsistir que operam desde uma sofisticada dinâmica de involução seja ela cultural ou econômica, podendo criar assim, pequenas e insistentes fissuras nos valores da sociedade atual.
 
-<div class="about-section-wrapper">
-  <h3 class="about-section" id="valores">Valores</h3>
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="valores">Valores</h3>
 </div>
 Valores?

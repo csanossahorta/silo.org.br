@@ -199,15 +199,18 @@ a {
   }
 }
 
-.about-section-wrapper {
+.about-section-title-wrapper {
   margin-top: 32px;
+}
 
-  .about-section {
-    border-top: 2px #000 solid;
-    width: auto;
-    display: inline;
-    padding: 8px 1px 0;
-  }
+.about-section-title, .people-section-title {
+  border-top: 2px #000 solid;
+  width: auto;
+  display: inline;
+  padding: 8px 1px 0;
+}
+.people-section-title-wrapper {
+  margin: 0 0 24px;
 }
 
 .about-nav {
@@ -307,6 +310,10 @@ a {
   margin: 0 auto;
   @include media-query(DESKTOP) {
     width: 85%;
+  }
+
+  h2 {
+    text-transform: capitalize;
   }
 }
 
@@ -415,11 +422,7 @@ a {
 .people-list {
   box-sizing: border-box;
   justify-content: flex-start;
-  width: 100%;
   margin: 0 auto;
-  @include media-query(DESKTOP) {
-    width: 85%;
-  }
 }
 
 .footer {
