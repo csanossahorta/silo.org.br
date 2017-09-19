@@ -1,7 +1,7 @@
 ---
 title: Lina Lopes
 link: linalopes.info
-cover: 'media/images/people/beringela.jpg'
+cover: 'media/images/people/lina.jpg'
 category: diretoria
 ---
-Uma artista apaixonada.
+Artista e consultora em Mídias Digitais, sua pesquisa abrange os campos de design paramétrico, video mapping, prototipagem, interatividade, wearables, instalações interativas e, mais recentemente, projetos em Biohacking. Dirige o atelier Lilo.Zone voltado ao uso criativo de tecnologia e experiências lúdicas com tecnologia acessível.
