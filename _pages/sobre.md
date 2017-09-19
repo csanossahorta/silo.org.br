@@ -34,7 +34,7 @@ Para quem fazemos?
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">Histórico</h3>
 </div>
-A Silo nasceu em 2016 convergindo projetos que sao realizados desde 2011 a partir de iniciativas de diferentes grupos de interesse.
+A Silo nasceu em 2016 convergindo projetos que são realizados desde 2011 a partir de iniciativas de diferentes grupos de interesse.
 
 A Silo  é  uma estação rural que, na atualidade, traz propostas pertinentes à reocupação do campo e saídas possíveis quanto ao esgotamento geral das cidades. A silo nasce do desejo de promover o trânsito de saberes entre campo e cidade, invertendo a regra que centraliza no meio urbano a produção de pensamento, arte, ciência e tecnologia.
 

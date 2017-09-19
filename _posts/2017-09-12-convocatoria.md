@@ -5,13 +5,13 @@ category: silo
 ---
 Queremos selecionar uma/um profissional de comunicação para trabalhar conosco.
 
-Buscamos uma pessoa que viva na região da Mantiqueira, no Vale do Rio Paraíba do Sul ou que se interesse em viver aqui. A pessoa se juntará à equipe da SILO e trabalhará tanto para a associação quanto para as atividades realizadas por ela.
+Buscamos uma pessoa que viva na região da Mantiqueira, no Vale do Rio Paraíba do Sul ou que se interesse em viver aqui por perto. A pessoa se juntará à equipe da SILO e trabalhará em todos os projetos da associação.
 
-Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração em acordo com a realidade da região. A jornada de trabalho será de cinco horas diárias.
+Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de cinco horas diárias.
 
 ### Buscamos uma pessoa que:
 
-- tenha interesse transdisciplinar, com vontade de cuidar e transformar o mundo, aprender e desaprender coisas. Gente curiosa que goste de contar e ouvir estórias.
+- tenha interesse transdisciplinar, com vontade de cuidar e transformar o mundo e também aprender e desaprender coisas. Gente curiosa que goste de contar e ouvir estórias.
 
 - além de saber escrever e editar em língua portuguesa, fale inglês e espanhol (por conta do alcance internacional de nossos projetos).
 
@@ -25,4 +25,4 @@ Se você se identificou, escreva para o email [contato@silo.org.br](mailto:conta
 
 Após uma primeira seleção de currículos, faremos uma entrevista com as/os candidatas/os.
 
-Vamos receber currículos até o dia XX  de outubro de 2017.
+Vamos receber currículos até o dia 23 de outubro de 2017.

@@ -1,7 +1,6 @@
 ---
 ---
 - resolver email
-- data da convocatória de comunicação
 - texto sobre
 - texto bios
 - botões para compartilhar
