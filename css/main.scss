@@ -349,6 +349,16 @@ a {
     }
   }
 
+  .project-item {
+    @include media-query(DESKTOP) {
+      width: 30%;
+      min-width: 150px;
+      height: 20vw;
+      min-height: 120px;
+      max-height: 230px;
+    }
+  }
+
   .people-image-wrapper {
     width: 100%;
     padding-top: 100%;
@@ -392,6 +402,9 @@ a {
     position: absolute;
     top: 0;
     border-radius: 50%;
+    &:hover {
+      filter: grayscale(100%);
+    }
   }
 
   .people-link {
