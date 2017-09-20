@@ -6,7 +6,7 @@
   lilo zone
   crescente fértil
   instituto procomum
-  innovación ciudadana
+  innovación ciudadana (png)
   medialab prado
   epicentro dalva
   + fundo elas
