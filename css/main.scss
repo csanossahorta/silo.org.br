@@ -52,7 +52,7 @@ a {
   }
 }
 
-#navbar-mobile {
+#menu-mobile {
   display: block;
   width: 100%;
   z-index: 10;
@@ -94,13 +94,13 @@ a {
   }
 }
 
-.navbar-hide {
+.menu-hide {
   left: -100vw;
   @include media-query(DESKTOP) {
     left: 0;
   }
 }
-.navbar-show {
+.menu-show {
   left: 0;
 }
 
@@ -118,13 +118,13 @@ a {
 .menu-logo {
   height: 100%;
   min-height: 90px;
-  background-image: url("{{site.baseurl}}/media/images/logo_vector.png");
+  background-image: url("{{site.baseurl}}/media/images/silo_logo.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
 }
 
-#navbar {
+#menu {
   padding: 30px 0;
   box-sizing: border-box;
   background-color: $MENU-BACKGROUND-COLOR;
@@ -161,7 +161,7 @@ a {
   }
 }
 
-#navbar-mobile ul, #navbar ul {
+#menu-mobile ul, #menu ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
