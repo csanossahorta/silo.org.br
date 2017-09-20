@@ -379,6 +379,12 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    filter: grayscale(100%);
+    transition: filter $TRANSITION-PERIOD linear;
+
+    &:hover {
+      filter: grayscale(0%);
+    }
   }
 
   .people-image {

@@ -1,6 +1,6 @@
 ---
 title: 'Encontrada'
-cover: 'media/images/cover4.jpg'
+cover: 'media/images/encontrada.jpg'
 layout: list
 permalink: /encontrada/
 link: 'http://encontrada.org'
