@@ -1,6 +1,6 @@
 ---
 title: 'Residência'
-cover: 'media/images/residencia.jpg'
+cover: 'media/images/resilience.png'
 layout: list
 permalink: /residencia/
 link: 'http://resilience-residence.com/'
