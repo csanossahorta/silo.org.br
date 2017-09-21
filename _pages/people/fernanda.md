@@ -4,4 +4,4 @@ link: fernandatosta.com
 cover: 'media/images/people/fernanda.jpg'
 category: associads
 ---
-Designer de produto e educadora de marcenaria no projeto socioeducativo do Instituto Tomie Ohtake. Foi mentora na chamada colaborativa que criou mobiliários urbanos efêmeros para a Avenida Paulista e participou com suas oficinas de mobiliário urbano no projeto Casa Fora de Casa em Goiânia, que repensa espaços públicos com a participação da população.
+Designer de produto e educadora de marcenaria no projeto socioeducativo do Instituto Tomie Ohtake. Foi mentora na chamada colaborativa Hackathon Paulista que criou mobiliários urbanos efêmeros para a Avenida Paulista e participou com suas oficinas de mobiliário urbano no projeto Casa Fora de Casa em Goiânia, que repensa espaços públicos com a participação da população.
