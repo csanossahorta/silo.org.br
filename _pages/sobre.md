@@ -1,6 +1,26 @@
 ---
 title: 'Sobre'
 permalink: /sobre/
+parceiras: 
+  - link: https://www.fordfoundation.org/
+    cover: 'media/images/logos/ford_black.svg' 
+  - link: http://crescentefertil.org.br/
+    cover: 'media/images/logos/crescentefertil.jpg'
+  - link: http://medialab-prado.es
+    cover: 'media/images/logos/medialabprado.png'
+  - link: http://www.procomum.org/
+    cover: 'media/images/logos/procomum.png'
+  - link: http://www.fundosocialelas.org/
+    cover: 'media/images/logos/elas.svg'
+  - link: http://www.ciudadania20.org/
+    cover: 'media/images/logos/inovacionciudadana.png'
+  - link: http://www.lilo.zone
+    cover: 'media/images/logos/lilo.svg'  
+  - link: http://www.sitawi.net/
+    cover: 'media/images/logos/sitawi.svg'
+  - link: http://epicentrodalva.com.br/
+    cover: 'media/images/logos/epicentrodalva.png'
+  
 ---
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="o-que-e">O que é</h3>
@@ -50,3 +70,15 @@ A convergência da associação foi possível a partir da convivência compartil
 </div>
 Valores?
 --->
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="parceiras">Parceiras</h3>
+</div>
+
+ <div class="parceiras-container">
+    {% for parceira in page.parceiras%}
+      {% assign pCover = site.baseurl | append: '/' | append: parceira.cover %}
+    <a href="{{parceira.link}}" target="_blank">
+      <div class="parceira-logo" style="background-image: url('{{ pCover }}');"></div>
+    </a>
+    {% endfor %}
+</div>

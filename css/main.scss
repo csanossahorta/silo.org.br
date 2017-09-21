@@ -250,7 +250,7 @@ a {
 
     @include media-query(DESKTOP) {
       margin: 0;
-      width: 25%;
+      width: 18%;
       min-height: 34px;
       text-align: center;
     }
@@ -476,6 +476,14 @@ i.fa-1_5x {
 .ford-logo {
   height: 48px;
   background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+  margin-bottom: 24px;
+}
+
+.parceira-logo {
+  height: 48px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left center;
