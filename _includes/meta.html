@@ -13,7 +13,7 @@
 
 {% assign basepath = site.url | append: site.baseurl %}
 {% if page.cover %}
-  {% assign coverImagePath = basepath | append: page.cover %}
+  {% assign coverImagePath = basepath | append: "/" | append: page.cover %}
 {% else %}
   {% assign coverImagePath = basepath | append: "/media/images/cover.jpg" %}
 {% endif %}
