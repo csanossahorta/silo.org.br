@@ -1,7 +1,7 @@
 ---
 title: Sara Lana
 link: touca.ninja
-cover: 'media/images/people/beringela.jpg'
+cover: 'media/images/people/sara.jpg'
 category: associads
 ---
 Pessoa.
