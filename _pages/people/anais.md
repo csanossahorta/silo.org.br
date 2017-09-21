@@ -1,6 +1,6 @@
 ---
-title: Anais
-link: http://www.anaiskarenin.com/
+title: Anais Karenin
+link: anaiskarenin.com
 cover: 'media/images/people/anais.jpg'
 category: associads
 ---

@@ -1,7 +1,7 @@
 ---
-title: Itala Herta
-link: italaherta.com
+title: Mariana Ramos
+link: .
 cover: 'media/images/people/beringela.jpg'
 category: associads
 ---
-Uma pessoa,
+Pessoa.
