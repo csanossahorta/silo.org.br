@@ -26,10 +26,12 @@ Nossas atividades se dividem em 4 frentes de ação:
 
 <span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
 
+<!---
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="para-quem-fazemos">Para quem fazemos</h3>
 </div>
 Para quem fazemos?
+--->
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">Histórico</h3>
@@ -42,7 +44,9 @@ Ela reflete por um lado a experiência geracional de filhos e netos de camponese
 
 A convergência da associação foi possível a partir da convivência compartilhada de já dura cerca de nove anos habitando, trabalhando e conhecendo espaços rurais que se constituem desde uma demanda atual de sobrevivência fora dos grandes centros urbanos e que possuem, de alguma maneira, modos de subsistir que operam desde uma sofisticada dinâmica de involução seja ela cultural ou econômica, podendo criar assim, pequenas e insistentes fissuras nos valores da sociedade atual.
 
+<!---
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="valores">Valores</h3>
 </div>
 Valores?
+--->

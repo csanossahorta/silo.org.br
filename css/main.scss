@@ -250,17 +250,15 @@ a {
 
     @include media-query(DESKTOP) {
       margin: 0;
-      width: 15%;
+      width: 25%;
       min-height: 34px;
       text-align: center;
     }
   }
 }
 .people-nav {
-  justify-content: center;
-  .nav-item {
-    margin: 4px;
-  }
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 .about-subtitle, .post-title {
