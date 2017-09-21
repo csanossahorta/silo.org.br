@@ -473,13 +473,26 @@ i.fa-1_5x {
   font-size: 1.5em;
 }
 
-.ford-logo {
-  height: 48px;
-  background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: left center;
-  margin-bottom: 24px;
+.parceiras-container {
+  width: 100%;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  a {
+    width: 100%;
+    margin: 12px 0;
+  }
+
+  @include media-query(DESKTOP) {
+    flex-direction: row;
+    a {
+      width: 30%;
+      margin: 0 1% 30px;
+    }
+  }
 }
 
 .parceira-logo {
@@ -487,7 +500,12 @@ i.fa-1_5x {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left center;
-  margin-bottom: 24px;
+  filter: grayscale(100%);
+  transition: filter $TRANSITION-PERIOD linear;
+
+  &:hover {
+    filter: grayscale(0%);
+  }
 }
 
 .swipebox-gallery {

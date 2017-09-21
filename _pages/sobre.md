@@ -7,11 +7,9 @@ parceiras:
   - link: http://crescentefertil.org.br/
     cover: 'media/images/logos/crescentefertil.jpg'
   - link: http://medialab-prado.es
-    cover: 'media/images/logos/medialabprado.png'
+    cover: 'media/images/logos/medialabprado.jpg'
   - link: http://www.procomum.org/
     cover: 'media/images/logos/procomum.png'
-  - link: http://www.fundosocialelas.org/
-    cover: 'media/images/logos/elas.svg'
   - link: http://www.ciudadania20.org/
     cover: 'media/images/logos/inovacionciudadana.png'
   - link: http://www.lilo.zone
@@ -20,7 +18,8 @@ parceiras:
     cover: 'media/images/logos/sitawi.svg'
   - link: http://epicentrodalva.com.br/
     cover: 'media/images/logos/epicentrodalva.png'
-  
+  - link: http://www.fundosocialelas.org/
+    cover: 'media/images/logos/elas.svg'
 ---
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="o-que-e">O que é</h3>
