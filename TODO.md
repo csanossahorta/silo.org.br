@@ -1,4 +1,3 @@
 ---
 ---
 - texto/foto bios
-- botões para compartilhar
