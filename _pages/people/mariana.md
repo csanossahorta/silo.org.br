@@ -1,7 +1,5 @@
 ---
 title: Mariana Ramos
-link: .
+link: 'marianaramos.com'
 cover: 'media/images/people/beringela.jpg'
-category: associads
 ---
-Pessoa.
