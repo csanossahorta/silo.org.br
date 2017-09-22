@@ -107,7 +107,7 @@ a {
 .menu-section {
   border-top: 2px #000 solid;
   padding: 10px 0;
-  li {
+  li a {
     text-transform: uppercase;
     font: normal $MENU-ITEM-SIZE $FONT-MENU;
     line-height: 1.7;
