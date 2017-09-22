@@ -271,6 +271,7 @@ a {
 
 .about-subtitle, .post-title {
   font-family: $FONT-TITLE;
+  font-weight: bold;
 }
 
 .main-div {
@@ -305,7 +306,7 @@ a {
   padding: 0 20px;
   font: 200 $TEXT-SIZE $FONT-TEXT;
   line-height: 1.6;
-  word-spacing: $TEXT-SIZE/10;
+  word-spacing: 0.1rem;
   text-align: justify;
 
   @include media-query(DESKTOP) {
