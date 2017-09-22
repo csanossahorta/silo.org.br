@@ -3,7 +3,7 @@ title: 'Sobre'
 permalink: /sobre/
 parceiras: 
   - link: https://www.fordfoundation.org/
-    cover: 'media/images/logos/ford_black.svg' 
+    cover: 'media/images/logos/ford_color.svg' 
   - link: http://crescentefertil.org.br/
     cover: 'media/images/logos/crescentefertil.jpg'
   - link: http://medialab-prado.es
