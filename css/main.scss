@@ -408,6 +408,8 @@ a {
     position: absolute;
     top: 0;
     border-radius: 50%;
+    height: 100%;
+    min-height: 0;
     &:hover {
       filter: grayscale(100%);
     }
