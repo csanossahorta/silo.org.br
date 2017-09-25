@@ -15,9 +15,9 @@ Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e
 
 - além de saber escrever e editar em língua portuguesa, fale inglês e espanhol (por conta do alcance internacional de nossos projetos).
 
-- saiba se vira: trabalhar com autonomia, gerenciar prioridades e organizar sua rotina.
+- saiba se virar: trabalhar com autonomia, gerenciar prioridades e organizar sua rotina.
 
-- tenha disposição para realizar trabalhos em multimídia (edição de vídeo, fotografia, som); saber manejar equipamentos audiovisuais; produzir, pesquisar e editar conteúdos de diferentes narrativas e formatos e gerenciar mídias sociais. Se souber usar ferramentas livres, será ainda melhor!
+- tenha disposição para realizar trabalhos em multimídia (edição de vídeo, fotografia, som); saiba manejar equipamentos audiovisuais; produzir, pesquisar e editar conteúdos de diferentes narrativas e formatos e gerenciar mídias sociais. Se souber usar ferramentas livres, será ainda melhor!
 
 - trabalhe com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar. É preciso ter respeito por cada uma das diferenças. Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de procedência.
 
