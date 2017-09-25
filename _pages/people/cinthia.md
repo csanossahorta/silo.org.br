@@ -1,6 +1,5 @@
 ---
 title: Cinthia Mendonça
-link: cinthia.mobi
 cover: 'media/images/people/pb_cinthia.jpg'
 category: diretoria
 ---

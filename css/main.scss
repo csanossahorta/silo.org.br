@@ -424,6 +424,12 @@ a {
     padding-bottom: 10px;
   }
 
+  .hidden-link {
+    opacity: 0;
+    pointer-events: none;
+    cursor: default;
+  }
+
   .people-text {
     padding: 0;
     p {
