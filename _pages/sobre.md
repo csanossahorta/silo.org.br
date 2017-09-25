@@ -26,11 +26,11 @@ parceiras:
 </div>
 Silo – arte e latitude rural é uma organização da sociedade civil que tem como objetivo proporcionar, em zonas rurais, o intercâmbio transdisciplinar entre diferentes saberes – sobretudo arte, ciências e tecnologias - estimulando o cruzamento de técnicas intuitivas com os saberes científicos.
 
-A associação conduz iniciativas que se dedicam a acolher e a difundir os saberes do campo e no campo por meio de atividades imersivas. A Silo estimula a adoção de tecnologias de mínimo impacto ambiental na construção de novas economias e estruturas de trabalho; promove o acesso a tecnologia por meio de laboratórios colaborativos para desenvolvimento de projetos e proporciona espaço e estrutura para experimentação artística.
+A associação conduz iniciativas que se dedicam a acolher e a difundir os saberes do campo e no campo por intermédio de atividades imersivas. A Silo estimula a adoção de tecnologias de mínimo impacto ambiental na construção de novas economias e estruturas de trabalho; promove o acesso a tecnologia por meio de laboratórios colaborativos para desenvolvimento de projetos e proporciona espaço e estrutura para experimentação artística.
 
-Tudo isto se dá por meio de programas de residências artísticas, laboratórios de inovação cidadã; espaço multidisciplinar para fabricação (maker, bioconstrução), encontros temáticos, ações educativas, mutirões agroecológicos e atividades voltadas para o público feminino. A gestão da associação tem participação majoritariamente feminina e está comprometida com a equidade de gênero e a garantia do compartilhamento de saberes sem prejuízo ao público feminino.
+Tudo isto acontece mediante programas de residências artísticas, laboratórios de inovação cidadã; espaço multidisciplinar para fabricação (maker, bioconstrução), encontros temáticos, ações educativas, mutirões agroecológicos e atividades voltadas para o público feminino. A gestão da associação tem participação majoritariamente feminina e está comprometida com a equidade de gênero e a garantia do compartilhamento de saberes sem prejuízo ao público feminino.
 
-Atualmente a associação está atuando na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira.
+Atualmente a associação atua na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira.
 
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="o-que-fazemos">O que fazemos</h3>
@@ -43,7 +43,7 @@ Nossas atividades se dividem em 4 frentes de ação:
 
 <span class="about-subtitle">Residência artística</span> - oferecemos espaço, tempo e insumos para desenvolvimento de trabalhos artísticos, mentoria para projetos e análise de portfólios.
 
-<span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. oferecemos assessoria para a execução desse tipo de metodologia.
+<span class="about-subtitle">Tecnologia e autonomia</span> - realizamos laboratórios de inovação cidadã focados no desenvolvimento de projetos de maneira colaborativa a partir de licenças livres. Oferecemos assessoria para a execução desse tipo de metodologia.
 
 <!---
 <div class="about-section-title-wrapper">
