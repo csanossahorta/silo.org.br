@@ -9,7 +9,7 @@ Buscamos uma pessoa que viva na região da Mantiqueira, no Vale do Rio Paraíba 
 
 Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de cinco horas diárias.
 
-### Buscamos uma pessoa que:
+### Desejamos uma pessoa que:
 
 - tenha interesse transdisciplinar, com vontade de cuidar e transformar o mundo e também aprender e desaprender coisas. Gente curiosa que goste de contar e ouvir estórias.
 
