@@ -114,3 +114,28 @@ prose:
           element: "text"
           label: "link dessa página"
           placeholder: "/contato/"
+    _pages/people:
+      - name: "link"
+        field:
+          element: "text"
+          label: "link pra página da pessoa"
+          placeholder: "minhapagina.com.br"
+      - name: "cover"
+        field:
+          element: "text"
+          label: "imagem da pessoa"
+          placeholder: "media/images/people/pessoa.jpg"
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: ""
+          placeholder: "clique aqui"
+          options:
+            - name: 'Diretoria'
+              value: 'diretoria'
+            - name: 'Associadas'
+              value: 'associadas'
+            - name: 'Conselho'
+              value: 'conselho'
+            - name: 'Equipe'
+              value: 'equipe'
