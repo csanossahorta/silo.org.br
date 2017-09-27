@@ -128,7 +128,7 @@ prose:
       - name: "category"
         field:
           element: "multiselect"
-          label: ""
+          label: "sub-grupo organizacional"
           placeholder: "clique aqui"
           options:
             - name: 'Diretoria'
