@@ -127,7 +127,7 @@ prose:
           placeholder: "media/images/people/pessoa.jpg"
       - name: "category"
         field:
-          element: "multiselect"
+          element: "select"
           label: "sub-grupo organizacional"
           placeholder: "clique aqui"
           options:
