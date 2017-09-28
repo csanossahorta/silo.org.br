@@ -4,4 +4,4 @@ link: touca.ninja
 cover: 'media/images/people/pb_sara.jpg'
 category: associadas
 ---
-Desenvolve desde 2007 projetos de natureza interdisciplinar relacionados com som, movimento, música e arte eletrônica.
+Estudou Engenharia Elétrica e d esenvolve projetos de natureza interdisciplinar relacionados com som, movimento, música e arte eletrônica.
