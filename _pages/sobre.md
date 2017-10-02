@@ -1,9 +1,7 @@
 ---
 title: 'Sobre'
 permalink: /sobre/
-parceiras: 
-  - link: https://www.fordfoundation.org/
-    cover: 'media/images/logos/ford_color.svg' 
+parceiras:
   - link: http://crescentefertil.org.br/
     cover: 'media/images/logos/crescentefertil.jpg'
   - link: http://medialab-prado.es
@@ -13,7 +11,7 @@ parceiras:
   - link: http://www.ciudadania20.org/
     cover: 'media/images/logos/inovacionciudadana.png'
   - link: http://www.lilo.zone
-    cover: 'media/images/logos/lilo.svg'  
+    cover: 'media/images/logos/lilo.svg'
   - link: http://www.sitawi.net/
     cover: 'media/images/logos/sitawi.svg'
   - link: http://epicentrodalva.com.br/
@@ -69,6 +67,18 @@ A convergência da associação foi possível a partir da convivência compartil
 </div>
 Valores?
 --->
+<div class="about-section-title-wrapper">
+  <h3 class="about-section-title" id="apoio">Apoio</h3>
+</div>
+
+ <div class="parceiras-container">
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/ford_color.svg' %}
+  <a href="https://www.fordfoundation.org/" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+</div>
+
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="parceiras">Parceiras</h3>
 </div>
