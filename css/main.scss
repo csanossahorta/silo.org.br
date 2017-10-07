@@ -547,6 +547,10 @@ i.fa-1_5x {
     @include media-query(DESKTOP) {
       width: 22%;
     }
+
+    img {
+      width: 100%;
+    }
   }
 }
 
