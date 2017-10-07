@@ -2,9 +2,17 @@
 title: 'Lançamento do Catálogo da Resiliência: Residência Artística '
 cover: 'media/images/cover2.jpg'
 category: silo
+swipebox: LR0
 ---
 
-![](/media/images/resilience_lancamento.jpg)
+
+![Lancamento 1](/media/images/LR01.jpg)
+![Lancamento 2](/media/images/LR02.jpg)
+![Lancamento 3](/media/images/LR03.jpg)
+![Lancamento 4](/media/images/LR04.jpg)
+![Lancamento 5](/media/images/LR05.jpg)
+![Lancamento 6](/media/images/LR06.jpg)
+
 
 Em novembro estaremos em São Paulo (Tijuana - Galeria Vermelho) e no Rio de Janeiro para lançar o catálogo da Resiliência: Residência Artística . 
 resiliência: residência artística é um programa internacional voltado para arte da performance e arte sonora. A primeira edição teve a curadoria de Cinthia Mendonça do Andreas Trobollowitsch.
@@ -16,10 +24,10 @@ Artistas residentes: Bernhard Garnicnig, Gil Delindro, Pierre Fonseca, Sara Lamb
 Textos críticos: Mariana Lage, Michelle Sommer, Icaro Ferraz e Lena Reisner
 Arte, projeto e produção gráfico: Clarice G. Lacerda, Luísa Rabello 
 
-Mais informações: 
-<http://resilience-residence.com/>
-<https://www.facebook.com/resiliencia.residencia/>
+<p align="left">Mais informações: </p>
+<p align="left"><http://resilience-residence.com/></p>
+<p align="left"><https://www.facebook.com/resiliencia.residencia/></p>
 
-sobre os lançamentos da publicação: 
-<https://www.facebook.com/events/1616554285062867/permalink/1627439613974334/>
+<p align="left">sobre os lançamentos da publicação: </p>
+<p align="left"><https://www.facebook.com/events/1616554285062867/permalink/1627439613974334/></p>
 
