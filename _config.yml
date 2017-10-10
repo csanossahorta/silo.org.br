@@ -11,6 +11,7 @@ include: ['_pages']
 # Build settings
 markdown: kramdown
 port: 4666
+future: false
 
 # Defaults
 defaults:
