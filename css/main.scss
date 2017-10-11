@@ -273,9 +273,11 @@ a {
   font-family: $FONT-TITLE;
   font-weight: bold;
 }
+
 .post-title {
   line-height: 1;
-  margin-bottom: 2px;
+  margin-bottom: 8px;
+  text-align: left;
 }
 
 .post-date {
@@ -324,6 +326,18 @@ a {
   @include media-query(DESKTOP) {
     max-width: 700px;
     text-align: justify;
+  }
+
+  a {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+}
+
+.about-nav {
+  a {
+    text-decoration: none;
+    font-weight: normal;
   }
 }
 
