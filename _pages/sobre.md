@@ -47,13 +47,6 @@ A Silo realiza a Resiliência: Residência Artística, um programa de alcance in
 <span class="about-subtitle">Tecnologia e autonomia</span>  
 A Silo realiza laboratórios de inovação cidadã, arte, ciência e tecnologia, focados no desenvolvimento de projetos de maneira colaborativa, sobretudo, a partir do uso de licenças livres. Estes espaços promovem o aprendizado e a troca de saberes de maneira horizontal e experimental, partindo das demandas dos próprios projetos. Nossos laboratórios produzem protótipos, infraestruturas, sistemas, dinâmicas e diferentes tipos de tecnologias sejam elas ligadas ao universo da técnica ou ao universo social, abrangendo áreas como engenharia, economia, arte, educação entre tantas outras. Esses produtos vem a solucionar questões que atingem  às diversas comunidades, incluindo comunidades rurais e periferias.  Além disso oferecemos serviço de mentoria e assessoria para a replicação da metodologia que usamos ajudando  na realização de laboratórios como o nosso em diferentes contextos.
 
-<!---
-<div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="para-quem-fazemos">Para quem fazemos</h3>
-</div>
-Para quem fazemos?
---->
-
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="historico">Histórico</h3>
 </div>
@@ -65,12 +58,19 @@ Ela reflete por um lado a experiência geracional de filhos e netos de camponese
 
 A convergência da associação foi possível a partir da convivência compartilhada de já dura cerca de nove anos habitando, trabalhando e conhecendo espaços rurais que se constituem desde uma demanda atual de projeção de vida  fora dos grandes centros urbanos e que possuem, de alguma maneira, modos de subsistir que operam desde uma sofisticada dinâmica de involução seja ela cultural ou econômica, podendo criar assim, pequenas e insistentes fissuras nos valores da sociedade atual.
 
-<!---
 <div class="about-section-title-wrapper">
-  <h3 class="about-section-title" id="valores">Valores</h3>
+  <h3 class="about-section-title" id="silo">Silo</h3>
 </div>
-Valores?
---->
+O silo é uma infraestrutura rural. Construído de maneira simples ele costuma ser uma espécie de recipiente cavado no solo para armazenar em temperatura adequada cereais ou biomassa. É uma tecnologia bastante eficiente e antiga usada para conservar alimento para humanos e animais.
+
+Há indícios de estruturas de silagem muito antigas, entre os povos que praticavam a agricultura. Como é o caso dos silos encontrados em Januária (MG), no canyon do Rio Peruaçu, afluente da margem esquerda do Rio São Francisco. Estes possuem cerca de 12 mil anos. No sítio arqueológico de Dhra na Jordânia também há vestígios de um silo de cerca de 11,5 mil anos e, nas ruínas do Antigo Egito, foram encontrados grandes silos datados de mais de 5mil anos.
+
+O silo também está presente nas culturas de povos originários de diferentes locais do mundo: como ameríndios, tribos africanas, aborígenes, entre outros. Na região de Cáceres (MT), as populações Aruak do alto Paraguai faziam silos datados entre 1.500 e 300 anos. Os Yawalapiti, como os demais alto-xinguanos que vivem basicamente da agricultura e da pesca, armazenam o polvilho e massa de mandioca em silos no centro das casas.
+
+Nas grandes guerras mundiais a estrutura do silo foi usado para estocar mísseis e, atualmente, ele é usado na estocagem de produtos do agronegócio. É também chamado de silo a grande estrutura construída no Ártico que estoca exemplares de sementes de vários lugares do planeta, construído, segundo a empresa que o mantém, para assegurar a sobrevivência das plantas mais valiosas do mundo.
+
+Acreditamos que levar o nome Silo é trazer à tona o que temos de primordial que é a nossa capacidade de interagir e agir sobre o espaço que vivemos produzindo tecnologia, cultura, comunidades. No entanto, o que nos interessa evidenciar com este nome é, justamente, a escala 1:1 que pode ter nossas ações sobre o meio ambiente em que vivemos, o que garante o equilíbrio entre nossas vidas e a vida do planeta. Ela está ligada a ideia de produção em pequena e média escala que diz respeito a demandas individuais e comunitárias e não somente as industriais. Levar o nome Silo é também disputar o imaginário rural que vem sendo devastado pelas grandes estruturas econômicas e industriais de produção de alimentos em massa para humanos e animais. Sendo assim, o imaginário que disputamos é relativo a uma integração humano e natureza, onde nós agimos nela na mesma medida em que ela age em nós, como sistemas integrados, interdependentes, simbióticos. Nesta relação nós não temos mais valor que a própria natureza porque somos ela própria.
+
 <div class="about-section-title-wrapper">
   <h3 class="about-section-title" id="apoio">Apoio</h3>
 </div>
