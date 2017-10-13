@@ -30,15 +30,15 @@ defaults:
 
 # Data
 social:
-  tumblr: ""
-  pinterest: ""
-  github: "https://github.com/associacaosilo"
-  instagram: ""
-  twitter: ""
   facebook: "https://www.facebook.com/silo.arte.latitude.rural"
+  instagram: ""
+  github: "https://github.com/associacaosilo"
+  twitter: ""
   youtube: ""
   vimeo: ""
   soundcloud: ""
+  tumblr: ""
+  pinterest: ""
   envelope-o: "mailto:contato@silo.org.br"
 twitter_user: ""
 
