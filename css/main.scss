@@ -568,7 +568,11 @@ i.fa-1_5x {
 
   .swipebox {
     margin: 24px 5px 0;
-    width: 47%;
+    width: 45%;
+
+    @include media-query(DESKTOP) {
+      width: 48%;
+    }
 
     img {
       width: 100%;
