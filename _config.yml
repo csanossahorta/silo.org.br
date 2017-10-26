@@ -99,7 +99,7 @@ prose:
           options:
             - name: 'Português'
               value: 'pt'
-            - name: 'Eglish'
+            - name: 'English'
               value: 'en'
       - name: "ref"
         field:
