@@ -143,7 +143,7 @@ prose:
           options:
             - name: 'Português'
               value: 'pt'
-            - name: 'Eglish'
+            - name: 'English'
               value: 'en'
     _pages/people:
       - name: "link"
@@ -183,5 +183,5 @@ prose:
           options:
             - name: 'Português'
               value: 'pt'
-            - name: 'Eglish'
+            - name: 'English'
               value: 'en'

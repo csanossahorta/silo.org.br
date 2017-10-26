@@ -25,11 +25,11 @@
             </a>
           {% endfor %}
         </div>
-        {% assign more_news = 'mais notícias' %}
         {% if page.lang == 'en' %}
-          {% assign more_news = 'more news' %}
+          <a href="/news/"><h3 class="more-news-link">more news...</h3></a>
+        {% else %}
+          <a href="/noticias/"><h3 class="more-news-link">mais notícias...</h3></a>
         {% endif %}
-        <a href="/noticias/"><h3 class="more-news-link">{{ more_news }}...</h3></a>
       </section>
       <section class="list-wrapper project-list">
         {% assign projects = 'Projetos' %}
