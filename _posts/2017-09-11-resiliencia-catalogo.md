@@ -1,8 +1,13 @@
 ---
+published: true
+layout: post
 title: 'Lançamento do Catálogo da Resiliência: Residência Artística '
-cover: 'media/images/cover2.jpg'
-category: silo
+cover: media/images/cover2.jpg
+category:
+  - silo
 swipebox: LR0
+lang: pt
+ref: catalogo-residencia-2017
 ---
 Em novembro estaremos em São Paulo (Tijuana - Galeria Vermelho) e no Rio de Janeiro para lançar o catálogo da Resiliência: Residência Artística.
 
