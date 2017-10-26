@@ -1,7 +1,12 @@
 ---
+published: true
+layout: post
 title: 'Convocatória: comunicação'
-cover: 'media/images/cover3.jpg'
-category: silo
+cover: media/images/cover3.jpg
+category:
+  - silo
+lang: pt
+ref: comunicacao-convocatoria
 ---
 Queremos selecionar uma/um profissional de comunicação para trabalhar conosco.
 
