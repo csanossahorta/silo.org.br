@@ -1,8 +1,8 @@
 ---
 title: 'Notícias'
 layout: list
-permalink: /noticias/
-lang: 'pt'
+permalink: /news/
+lang: 'en'
 ref: 'news'
 ---
 {% include news-list.html %}

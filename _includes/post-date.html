@@ -15,6 +15,10 @@
   {% else %}{% assign month = "Dezembro" %}
 {% endcase %}
 
+{% if page.lang == 'en' %}
+  {% assign month = page.date | date: "%B" %}
+{% endif %}
+
 <h3 class="post-date">
-  {{ day }} de {{ month }} de {{ page.date | date: "%Y" }}
+  {{ day }} {{ month }} - {{ page.date | date: "%Y" }}
 </h3>
