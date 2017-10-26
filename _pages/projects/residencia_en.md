@@ -4,4 +4,6 @@ cover: 'media/images/resilience.png'
 layout: list
 permalink: /residencia/
 link: 'http://resilience-residence.com/'
+lang: en
+ref: residencia-list
 ---
