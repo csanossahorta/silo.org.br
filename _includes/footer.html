@@ -6,9 +6,13 @@
   </div>
 </div>
 
-{% if page.permalink == '/' %}
+{% if page.permalink == '/' or page.permalink == '/en/' %}
   <div class="footer">
-    <div class="footer-line">Apoio:</div>
+    {% assign app_sup = 'Apoio:' %}
+    {% if page.lang == 'en' %}
+      {% assign app_sup = 'Support:' %}
+    {% endif %}
+    <div class="footer-line">{{ app_sup }}</div>
     <a href="https://www.fordfoundation.org/" target="_blank">
       <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/ford_black.svg');"></div>
     </a>

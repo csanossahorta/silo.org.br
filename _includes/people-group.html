@@ -1,9 +1,17 @@
 <section class="list-wrapper" id="{{ include.section }}">
   <div class="people-section-title-wrapper">
-    <h2 class="people-section-title">{{ include.section }}</h2>
+    {% assign section_title = include.section %}
+    {% if page.lang == 'en' %}
+      {% case include.section %}
+        {% when 'diretoria' %}{% assign section_title = 'board' %}
+        {% when 'associadas' %}{% assign section_title = 'associates' %}
+      {% endcase %}
+    {% endif %}
+    <h2 class="people-section-title">{{ section_title }}</h2>
   </div>
   <div class="people-list">
-    {% for page in site.pages %}
+    {% assign pages = site.pages | where:"lang", page.lang %}
+    {% for page in pages %}
       {% if page.category contains include.section %}
         {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
         <div class="people-list-item">

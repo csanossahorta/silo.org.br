@@ -10,7 +10,11 @@
 </div>
 
 <div id="menu">
-  <a class="menu-title" href="{{ site.baseurl }}/">
+  {% assign home_url = site.baseurl %}
+  {% if page.lang == 'en' %}
+    {% assign home_url = site.baseurl | append: '/en' %}
+  {% endif %}
+  <a class="menu-title" href="{{ home_url }}/">
     <div class="menu-logo"></div>
   </a>
   <div class="menu-container">
