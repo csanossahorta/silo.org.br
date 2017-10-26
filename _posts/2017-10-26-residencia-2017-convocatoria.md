@@ -47,6 +47,9 @@ No site disponibilizamos imagens da região e dos possíveis locais de trabalho.
 **Resiliência**  
 Faremos um pequeno recorte de como a noção é definida em diferentes áreas. Na ecologia a resiliência é definida pelo conjunto das seguintes propriedades: quantidade de força externa que um sistema pode suportar de modo a permanecer, através do tempo, com a mesma estrutura e funções; o grau de auto-organização de um sistema e o grau de aprendizado e adaptação de um sistema em resposta a um distúrbio. Na física se refere à propriedade de alguns materiais de acumular energia quando exigidos ou submetidos a estresse sem ocorrer ruptura. Após a tensão poderá ou não haver uma deformação residual - como um elástico ou uma vara de salto em altura, que verga-se até certo limite sem se quebrar e  retorna à forma original dissipando a energia acumulada e lançando o atleta para o alto. Na psicologia: é a capacidade do indivíduo em lidar com problemas, adaptar-se a mudanças, superar obstáculos ou resistir à pressão de situações adversas, encontrando soluções estratégicas para enfrentar e superar as adversidades. 
 
+[[BAIXE A CONVOCATÓRIA]](/media/docs/resilience-residence-2018_convocatoria.pdf){:target="_blank"}
+[[DOWNLOAD FULL DETAILS OF CALL]](/media/docs/resilience-residence-2018_call.pdf){:target="_blank"}
+
 Realização: Silo – Arte e Latitude Rural  
 Contato: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)
 

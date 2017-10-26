@@ -46,6 +46,8 @@ On the site, images of the region and of possible places to work can be found.
 **Resilience**  
 We will briefly outline how the idea is defined in different areas. In ecology resilience is defined by the junction of the following properties: the amount of external force that a system can take so as to remain, over time, with the same structures and functions; a system’s degree of self-organization and the extent to which it learns and adapts in response to a disturbance. In physics, it refers to the property of some materials to accumulate energy under strain or when subject to stress without breaking. After the tension, there may or may not be a residual deformation–as with elastic or a high-jump pole, which bends up to a certain point without breaking and returns to its original form, dissipating the original accumulated energy and launching the athlete high. In psychology, it is the individual’s capacity to deal with problems, adapt to changes, overcome obstacles and resist pressure in adverse situations, finding strategic solutions to face and overcome them.
 
+[[DOWNLOAD FULL DETAILS OF CALL]](/media/docs/resilience-residence-2018_call.pdf){:target="_blank"}
+
 Realization: Silo – Arte e Latitude Rural  
 Contact: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)
 
