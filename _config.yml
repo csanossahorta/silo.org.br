@@ -156,6 +156,11 @@ prose:
           element: "text"
           label: "imagem da pessoa"
           placeholder: "media/images/people/pessoa.jpg"
+      - name: "ref"
+        field:
+          element: "text"
+          label: "referência para páginas bilíngue (igual em todas as línguas)"
+          placeholder: "bio-beringela"
       - name: "category"
         field:
           element: "select"
@@ -170,3 +175,13 @@ prose:
               value: 'conselho'
             - name: 'Equipe'
               value: 'equipe'
+      - name: "lang"
+        field:
+          element: "select"
+          label: "idioma do post"
+          placeholder: "clique aqui"
+          options:
+            - name: 'Português'
+              value: 'pt'
+            - name: 'Eglish'
+              value: 'en'
