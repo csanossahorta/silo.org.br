@@ -6,4 +6,3 @@ published: true
 ref: bio-itala
 lang: en
 ---
-Public relations...

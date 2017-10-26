@@ -7,4 +7,3 @@ published: true
 ref: bio-lina
 lang: en
 ---
-Artist...

@@ -7,4 +7,3 @@ published: true
 ref: bio-fernanda
 lang: en
 ---
-Designer...

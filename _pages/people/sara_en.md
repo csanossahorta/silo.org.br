@@ -7,4 +7,3 @@ published: true
 ref: bio-sara
 lang: en
 ---
-Studied...

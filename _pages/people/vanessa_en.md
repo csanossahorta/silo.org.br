@@ -6,4 +6,3 @@ published: true
 ref: bio-vanessa
 lang: en
 ---
-Woman, lesbian, feminist...

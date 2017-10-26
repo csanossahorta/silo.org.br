@@ -7,4 +7,3 @@ published: true
 ref: bio-thiago
 lang: en
 ---
-Graduated...

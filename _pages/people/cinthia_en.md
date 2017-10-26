@@ -6,4 +6,3 @@ published: true
 ref: bio-cinthia
 lang: en
 ---
-Lives at...

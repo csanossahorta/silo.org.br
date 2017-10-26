@@ -6,4 +6,3 @@ published: true
 ref: bio-mariana
 lang: en
 ---
-Biologist...
