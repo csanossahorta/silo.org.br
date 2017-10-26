@@ -91,6 +91,21 @@ prose:
               value: 'interactivos'
             - name: 'Residência'
               value: 'residencia'
+      - name: "lang"
+        field:
+          element: "select"
+          label: "idioma do post"
+          placeholder: "clique aqui"
+          options:
+            - name: 'Português'
+              value: 'pt'
+            - name: 'Eglish'
+              value: 'en'
+      - name: "ref"
+        field:
+          element: "text"
+          label: "referência para posts bilíngue (igual em todas as línguas)"
+          placeholder: "residencia-convocatoria-2017"
       - name: "swipebox"
         field:
           element: "text"
@@ -110,11 +125,26 @@ prose:
           element: "text"
           label: "nome da página"
           placeholder: "Colocar Aqui o Nome Da Página"
+      - name: "ref"
+        field:
+          element: "text"
+          label: "referência para páginas bilíngue (igual em todas as línguas)"
+          placeholder: "pagina-sobre"
       - name: "permalink"
         field:
           element: "text"
           label: "link dessa página"
           placeholder: "/contato/"
+      - name: "lang"
+        field:
+          element: "select"
+          label: "idioma do post"
+          placeholder: "clique aqui"
+          options:
+            - name: 'Português'
+              value: 'pt'
+            - name: 'Eglish'
+              value: 'en'
     _pages/people:
       - name: "link"
         field:
