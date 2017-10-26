@@ -5,7 +5,7 @@ cover: media/images/cover2.jpg
 category:
   - silo
   - residence
-lang: en
+lang: english
 ref: residence-2017-call
 ---
 This call invites artists and curators who are interested in performance and sound art to apply for **Resilience: Artist in Residence**.

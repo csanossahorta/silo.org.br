@@ -15,7 +15,7 @@
   {% else %}{% assign month = "Dezembro" %}
 {% endcase %}
 
-{% if page.lang == 'en' %}
+{% if page.lang == 'en' or page.lang == 'english' %}
   {% assign month = page.date | date: "%B" %}
 {% endif %}
 
