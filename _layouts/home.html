@@ -9,7 +9,11 @@
     <div class="main-div">
       <section class="content-text">{{ content }}</section>
       <section class="list-wrapper">
-        <a href="/noticias/"><h2>Últimas Notícias</h2></a>
+        {% assign news = 'Últimas Notícias' %}
+        {% if page.lang == 'en' %}
+          {% assign news = 'Latest News' %}
+        {% endif %}
+        <a href="/noticias/"><h2>{{ news }}</h2></a>
         <div class="home-list">
           {% assign posts = site.posts | where:"lang", page.lang %}
           {% for post in posts limit: 2 %}
@@ -21,10 +25,18 @@
             </a>
           {% endfor %}
         </div>
-        <a href="/noticias/"><h3 class="more-news-link">mais notícias...</h3></a>
+        {% assign more_news = 'mais notícias' %}
+        {% if page.lang == 'en' %}
+          {% assign more_news = 'more news' %}
+        {% endif %}
+        <a href="/noticias/"><h3 class="more-news-link">{{ more_news }}...</h3></a>
       </section>
       <section class="list-wrapper project-list">
-        <h2>Projetos:</h2>
+        {% assign projects = 'Projetos' %}
+        {% if page.lang == 'en' %}
+          {% assign projects = 'Projects' %}
+        {% endif %}
+        <h2>{{ projects }}:</h2>
         <div class="home-list">
           {% assign pages = site.pages | where:"lang", page.lang %}
           {% for page in pages %}
