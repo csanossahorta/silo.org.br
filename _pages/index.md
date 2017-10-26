@@ -1,8 +1,11 @@
 ---
+published: true
+layout: home
 title: Silo
 subtitle: Arte e Latitude Rural
-layout: home
-permalink: '/'
+permalink: /
+lang: pt
+ref: silo-home
 ---
 **Silo – arte e latitude rural** é uma organização da sociedade civil que tem como objetivo proporcionar, em zonas rurais, o intercâmbio transdisciplinar entre diferentes saberes – sobretudo arte, ciências e tecnologias - estimulando o cruzamento de técnicas intuitivas com o saberes técnicos e científicos.
 
