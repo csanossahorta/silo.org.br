@@ -1,5 +1,5 @@
 ---
-title: 'Notícias'
+title: 'News'
 layout: list
 permalink: /news/
 lang: 'en'
