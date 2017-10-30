@@ -42,7 +42,7 @@
           {% for page in pages %}
             {% if page.path contains 'projects' %}
               {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
-              <a class="list-item project-item" target="_blank" href="{{ site.baseurl }}{{ page.link }}">
+              <a class="list-item project-item" href="{{ site.baseurl }}{{ page.url }}">
                 <div class="list-item-image" style="background-image: url('{{ pCover }}');">
                 </div>
               </a>
