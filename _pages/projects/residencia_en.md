@@ -2,7 +2,7 @@
 title: 'Residência'
 cover: 'media/images/resilience.png'
 layout: list
-permalink: /residencia/
+permalink: /en/residencia/
 link: 'http://resilience-residence.com/'
 lang: en
 category: residence
