@@ -10,14 +10,15 @@
       <section class="content-text">
         <h2>{{ page.title }}</h2>
         {{ content }}
-        <!-- {% assign link =  'EDIÇÕES ANTERIORES:'  %} --->
-        <!--- {{ link }} --->
-        <a href="{{ site.baseurl }}{{ page.link }}" target="_blank"> {{ page.link }} </a>
+        {% assign link = 'PÁGINA DO ÚLTIMO EVENTO' %}
+        {% if page.lang == 'en' %}
+          {% assign link = 'LATEST EVENT PAGE' %}
+        {% endif %}
+        <a href="{{ site.baseurl }}{{ page.link }}" target="_blank">[ {{ link }} ]</a>
       </section>
       
       <section class="list-wrapper">
         {% assign news = 'Notícias Relacionadas' %}
-        {% assign posts = site.posts | where:"lang", page.lang | where:"category", page.category %}
         {% if page.lang == 'en' %}
           {% assign news = 'Related News' %}
         {% endif %}
