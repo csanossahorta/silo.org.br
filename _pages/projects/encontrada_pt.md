@@ -1,5 +1,5 @@
 ---
-title: 'Encontrada'
+title: 'EncontrADA'
 cover: 'media/images/encontrada.jpg'
 layout: list
 permalink: /encontrada/
@@ -8,6 +8,5 @@ lang: pt
 category: encontrada
 ref: encontrada-list
 ---
-A EncontrADA é um encontro direcionado à pessoas que praticam e pesquisam o feminismo ou desejam estabelecer contato com temas relacionados ao ativismo feminista e a apropriação tecnológica feita pelo universo feminino em distintas esferas.
 
-Acreditamos na existência de muitas práticas feministas e que é possível e interessante o cruzamento entre elas, por isso a atual edição da EncontrADA traz como tema o encontro de gerações entre mulheres e tecnologias, incluindo as ancestrais.
+A Silo realiza a EncontrADA, encontro feminista focado na troca de saberes entre o universo feminino. Por meio desse programa a Silo oferece diferentes cursos lecionados por profissionais mulheres ou pessoas trans e voltado exclusivamente para o público feminino e trans. Estes cursos são de marcenaria, manejo de plantas medicinais, programação de software, eletrônica, mecânica automotiva, ginecologia natural, autodefesa, autocuidado, culinária, costura, sistemas agroflorestais, entre outros. Além disso oferecemos também assessoria ou mentoria para projetos realizados por mulheres com o foco em apoiar a gestão de iniciativas por meio do contato com outras mulheres mais experientes.

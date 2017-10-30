@@ -37,6 +37,13 @@
           {% assign projects = 'Projects' %}
         {% endif %}
         <h2>{{ projects }}:</h2>
+        <!---
+        {% assign project-text = 'Nossas atividades se dividem em 4 frentes de ação:' %}
+        {% if page.lang == 'en' %}
+          {% assign project-text = '' %}
+        {% endif %}
+        {{ project-text }}
+        --->
         <div class="home-list">
           {% assign pages = site.pages | where:"lang", page.lang %}
           {% for page in pages %}

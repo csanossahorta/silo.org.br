@@ -1,5 +1,5 @@
 ---
-title: 'Encontrada'
+title: 'EncontrADA'
 cover: 'media/images/encontrada.jpg'
 layout: list
 permalink: /en/encontrada/

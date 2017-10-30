@@ -8,7 +8,6 @@ lang: pt
 category: residence
 ref: residencia-list
 ---
-RESILIENCE RESIDENCE | Esta residência propôs um estudo estético da resiliência em suas diferentes formas aplicada à pessoa, ambiente, animal ou coisa. Por meio desta chamada aberta convidamos artistas das áreas de Arte da Performance e Arte Sonora. 
-A residência ocorreu entre 01 e 18 de Fevereiro em zona rural localizada na Área de Proteção Ambiental da Serrinha do Alambari, RJ - Brasil - e nos espaços que a circundam: reservas ambientais, comunidades rurais e polo industrial. 
 
-São curadores da residencia: Cinthia Mendonça e Andreas Trobollowitsch
+A Silo realiza a Resiliência: Residência Artística, um programa de alcance internacional. A residência oferece à artistas e curadores espaço, tempo e insumos para desenvolvimento de trabalhos artísticos em ambientes rurais e/ou de resiliência ambiental. Neste programa oferecemos bolsas para desenvolvimento das obras ou pesquisas artísticas. Realizamos uma mostra anual com artistas residentes e convidados. Publicamos anualmente um catálogo dos trabalhos desenvolvidos juntamente com textos de críticos, artistas e curadores convidados. Além disso oferecemos também mentoria para projetos artísticos e análise de portfólios por artistas e curadores profissionais que atuam em nossa rede de trabalho.
+
