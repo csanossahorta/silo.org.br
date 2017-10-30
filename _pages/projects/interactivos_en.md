@@ -5,5 +5,6 @@ layout: list
 permalink: /interactivos/
 link: 'https://interactivos16.github.io/'
 lang: en
+category: interactivos
 ref: interactivos-list
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'News'
-layout: list
+layout: news
 permalink: /news/
 lang: 'en'
 ref: 'news'
 ---
-{% include news-list.html %}
+<!--- {% include news-list.html %} --->

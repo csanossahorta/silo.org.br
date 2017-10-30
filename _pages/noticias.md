@@ -5,4 +5,4 @@ permalink: /noticias/
 lang: 'pt'
 ref: 'news'
 ---
-{% include news-list.html %}
+<!--- {% include news-list.html %} --->
