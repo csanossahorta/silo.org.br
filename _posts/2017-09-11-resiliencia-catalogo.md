@@ -2,9 +2,10 @@
 published: true
 layout: post
 title: 'Lançamento do Catálogo da Resiliência: Residência Artística '
-cover: media/images/cover2.jpg
+cover: media/images/cover5.jpg
 category:
   - silo
+  - residence
 swipebox: LR0
 lang: pt
 ref: catalogo-residencia-2017

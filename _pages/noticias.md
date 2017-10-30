@@ -1,6 +1,6 @@
 ---
 title: 'Notícias'
-layout: list
+layout: news
 permalink: /noticias/
 lang: 'pt'
 ref: 'news'
