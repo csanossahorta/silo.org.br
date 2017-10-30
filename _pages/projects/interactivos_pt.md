@@ -3,7 +3,7 @@ title: 'Interactivos'
 cover: 'media/images/interactivos.jpg'
 layout: list
 permalink: /interactivos/
-link: 'https://interactivos16.github.io/'
+link: 'https://interactivos16.github.io/doc.interactivos16.info/'
 lang: pt
 category: interactivos
 ref: interactivos-list
