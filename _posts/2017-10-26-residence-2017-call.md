@@ -7,6 +7,7 @@ category:
   - residence
 lang: english
 ref: residence-2017-call
+published: false
 ---
 This call invites artists and curators who are interested in performance and sound art to apply for **Resilience: Artist in Residence**.
 

@@ -7,6 +7,7 @@ category:
   - residence
 lang: pt
 ref: residence-2017-call
+published: false
 ---
 Por meio desta chamada convidamos artistas e curadores interessados em arte da performance e arte sonora para se inscreverem na **Resiliência: Residência Artística**.
 
