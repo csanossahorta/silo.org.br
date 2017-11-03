@@ -38,7 +38,7 @@
   {% assign posts = site.posts | where:"ref", page.ref %}
   <div class="language-nav">
   {% for post in posts %}
-    {% unless post.title == page.title %}
+    {% unless post.title == page.title or post.lang == 'en' %}
       <a class="nav-item" href="{{ site.baseurl }}{{ post.url }}">
         {% include iso-to-lang.html iso=post.lang %}
       </a>
