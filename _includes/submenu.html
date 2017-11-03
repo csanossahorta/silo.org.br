@@ -34,7 +34,7 @@
   </div>
 {% endif %}
 
-{% if page.layout == 'post' %}
+{% if page.layout == 'post' and page.lang != 'en' %}
   {% assign posts = site.posts | where:"ref", page.ref %}
   <div class="language-nav">
   {% for post in posts %}
