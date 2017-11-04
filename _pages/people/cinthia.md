@@ -6,24 +6,4 @@ published: true
 ref: bio-cinthia
 lang: pt
 ---
-
-Vive na Serra da Mantiqueira onde é diretora fundadora da Silo – Arte e Latitude Rural. É artista da performance e pesquisadora. Graduou-se  em direção teatral na UFRJ e é mestra em Artes Visuais pela Escola de Belas Artes pela mesma instituição. Atualmente cursa o doutorado em Práticas Artísticas Contemporâneas pela UERJ.   
-<!--- <button onclick="showText()">+</button> --->
-<a class="nav-item" onclick="showText()"> +</a>
-
-<div id="hide-text" style="display: none">
-Com seus trabalhos artísticos esteve em países da América Latina, Europa e cidades nos Estados Unidos. Possui vasta experiência em trabalho transdisciplinar junto a comunidades rurais. É mentora do Laboratório de Innovación Ciudadana, produzido pela Secretaria General Iberoamericana.  Durante cinco anos foi gestora da Nuvem - Estação Rural de Arte e Tecnologia, projeto que obteve através das leis de incentivo à cultura do governo do Estado do Rio e do governo Federal, patrocínio da empresa Vivo e contou com doação (grant) da Ford Foundation.
-</div>
-
-
-
-<script>
-function showText() {
-    var x = document.getElementById("hide-text");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
+Diretora/fundadora/idealizadora da Silo, vive na Serrinha. É artista da performance e pesquisadora, graduada em direção teatral na UFRJ e mestra em Artes Visuais pela mesma instituição. Atualmente cursa o doutorado em Práticas Artísticas Contemporâneas na UERJ. Possui experiência em trabalho transdisciplinar junto a comunidades rurais. É mentora do Laboratório de Innovación Ciudadana produzido pela SEGIB. Durante cinco anos foi gestora/fundadora da Nuvem - Estação Rural de Arte e Tecnologia, projeto que obteve patrocínios através das leis de incentivo à cultura.
