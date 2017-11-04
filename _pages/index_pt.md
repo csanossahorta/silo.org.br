@@ -7,6 +7,6 @@ permalink: /
 lang: pt
 ref: silo-home
 ---
-**Silo – arte e latitude rural** é uma organização da sociedade civil que tem como objetivo proporcionar, em zonas rurais, o intercâmbio transdisciplinar entre diferentes saberes – sobretudo arte, ciências e tecnologias - estimulando o cruzamento de técnicas intuitivas com o saberes técnicos e científicos.
+**Silo – Arte e Latitude Rural** é uma organização da sociedade civil que se dedica a acolher e a difundir projetos culturais em zonas rurais, com o objetivo de proporcionar o intercâmbio transdisciplinar entre diferentes áreas – sobretudo arte, ciências e tecnologias – e estimular o cruzamento entre técnicas intuitivas e saberes científicos.
 
-Atualmente a associação está atuando na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira. Nossas atividades sao ao mesmo tempo de âmbito territorial e global, abrangendo comunidades locais e internacionais.
+Atuamos na Serrinha do Alambari, uma APA – Área de Proteção Ambiental, situada no município de Resende no Estado do Rio de Janeiro, na encosta leste do Parque Nacional de Itatiaia, na Serra da Mantiqueira. Nossas atividades abrangem comunidades locais e internacionais.
