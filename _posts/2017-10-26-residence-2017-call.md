@@ -18,6 +18,7 @@ The residence proposes an esthetic study of resilience, whether it is characteri
 
 In its second edition, the residence welcomes artists and curators who are interested in developing their work in rural spaces and/or in environmental resilience. In 2018 the residence taking place in the Environmental Protected Area of Serrinha do Alambari will also take place in the Plateau of Itatiaia National Park, located at 2,791 metres of altitude.
 
+{% comment %}
 The residence will take place between the **January 27 and February 17, 2018**.
 
 Registration for the residence will take place exclusively via the email: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br). The email subject must state: ***Registration - Resilience: Artist in Residence***.
@@ -35,6 +36,7 @@ If selected, each artist will receive: return tickets from their place of origin
 The residence will take place in two places: two weeks in Serrinha do Alambari and one week In Itatiaia Plateau.
 
 At the end of the residence we will hold an exhibition with the works and afterwards these will be published.
+{% endcomment %}
 
 **Places and Context**  
 The residence will take place in the Environmental Protection Area of Serrinha do Alambari and Itatiaia National Park Plateau, both located in the Serra da Mantiqueira, Rio de Janeiro, Brazil. The spaces surrounding these two areas will also be available to carry out the works: environmental reserves, rural communities and the industrial centre.
@@ -52,10 +54,12 @@ This conservation area is next to an industrial centre bordering the Paraíba do
 **Resilience**  
 We will briefly outline how the idea is defined in different areas. In ecology resilience is defined by the junction of the following properties: the amount of external force that a system can take so as to remain, over time, with the same structures and functions; a system’s degree of self-organization and the extent to which it learns and adapts in response to a disturbance. In physics, it refers to the property of some materials to accumulate energy under strain or when subject to stress without breaking. After the tension, there may or may not be a residual deformation–as with elastic or a high-jump pole, which bends up to a certain point without breaking and returns to its original form, dissipating the original accumulated energy and launching the athlete high. In psychology, it is the individual’s capacity to deal with problems, adapt to changes, overcome obstacles and resist pressure in adverse situations, finding strategic solutions to face and overcome them.
 
+{% comment %}
 [[DOWNLOAD FULL DETAILS OF CALL]](/media/docs/resilience-residence-2018_call.pdf){:target="_blank"}
 
 Realization: Silo – Arte e Latitude Rural  
 Contact: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)
+{% endcomment %}
 
 Support: [Ford Foundation](https://www.fordfoundation.org/){:target="_blank"}  
 Partners: [Crescente Fértil](http://crescentefertil.org.br/){:target="_blank"}, [Lilo.zone](http://www.lilo.zone/){:target="_blank"}
