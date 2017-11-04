@@ -10,7 +10,11 @@ swipebox: LR0
 lang: pt
 ref: catalogo-residencia-2017
 ---
-Em novembro estaremos em São Paulo (Tijuana - Galeria Vermelho) e no Rio de Janeiro para lançar o catálogo da Resiliência: Residência Artística.
+Em novembro estaremos em São Paulo e no Rio de Janeiro para lançar o catálogo da Resiliência: Residência Artística.
+
+Em São Paulo o lançamento será na Tijuana - Galeria Vermelho.
+
+No Rio o lançamento será no dia **28 de novembro**, as 17h no **Espaço Saracura** - Rua Sacadura Cabral, 219.
 
 Resiliência: Residência artística é um programa internacional voltado para arte da performance e arte sonora. A primeira edição teve a curadoria de Cinthia Mendonça e Andreas Trobollowitsch.
 
