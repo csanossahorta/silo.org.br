@@ -12,7 +12,7 @@ ref: catalogo-residencia-2017
 ---
 Em novembro estaremos em São Paulo e no Rio de Janeiro para lançar o catálogo da Resiliência: Residência Artística.
 
-Em São Paulo o lançamento será na Tijuana - Galeria Vermelho.
+Em São Paulo o lançamento será no dia **25 de novembro** na **Banca Tijuana, Galeria Vermelho** - Rua Minas Gerais, 350 - de 14hs às 17hs.
 
 No Rio o lançamento será no dia **28 de novembro**, as 17h no **Espaço Saracura** - Rua Sacadura Cabral, 219.
 
