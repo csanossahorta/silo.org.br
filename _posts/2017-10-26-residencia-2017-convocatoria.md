@@ -7,9 +7,12 @@ category:
   - residence
 lang: pt
 ref: residence-2017-call
-published: false
+published: true
+swipebox: "!&@&"
 ---
 Por meio desta chamada convidamos artistas e curadores interessados em arte da performance e arte sonora para se inscreverem na **Resiliência: Residência Artística**.
+
+![](../media/images/resilience-residence-2018-call/PNII_J_42.jpg)
 
 Esta residência propõe um estudo estético da resiliência seja ela caracterizada como lugar, estado, forma, seja aplicada à pessoa, ambiente, animal ou coisa.
 
@@ -39,17 +42,18 @@ A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do A
 
 A Serrinha do Alambari é parte integrante de uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira, a oeste da estrada para Visconde de Mauá (RJ-163). Esta área tem a particularidade de integrar zona rural e zona de proteção ambiental. A Serrinha conta com cerca de 1.000 habitantes, possui manufatura em pequena e média escala, comércio e atividade turística. A APA (Área de Proteção Ambiental) da Serrinha do Alambari abrange as comunidades de Serrinha e Capelinha, protegendo a parte alta das microbacias dos rios Alambari e Pirapitinga. Sua área total corresponde a 4.500 hectares.
 
+{% include residence-2017-call-gallery-serrinha.html %}
+
 O Planalto do Itatiaia está localizado dentro do território do Parque Nacional do Itatiaia. Primeiro Parque Nacional do Brasil, criado em 1937, situado na Serra da Mantiqueira, o Parque Nacional do Itatiaia possui cerca de 28 mil hectares que abrange os Estados do Rio de Janeiro e Minas Gerais apresentando um relevo caracterizado por montanhas e elevações rochosas, com altitude variando de 600 a 2.791 m, no seu ponto culminante, o Pico das Agulhas Negras. Na região do Planalto do Itatiaia, encontram-se os campos de altitude e os vales suspensos. A área do Parque guarda nascentes de 12 importantes bacias hidrográficas regionais, que drenam para duas bacias principais: a do rio Grande, afluente do rio Paraná, e a do rio Paraíba do Sul, o mais importante do Rio de Janeiro.
 
 Este território preservado é vizinho de um pólo industrial localizado às margens do rio Paraíba do Sul e da rodovia Presidente Dutra que conecta a cidade do Rio de janeiro à cidade de São Paulo.
 
-No site disponibilizamos imagens da região e dos possíveis locais de trabalho.
+{% include residence-2017-call-gallery-planalto.html %}
 
 **Resiliência**  
 Faremos um pequeno recorte de como a noção é definida em diferentes áreas. Na ecologia a resiliência é definida pelo conjunto das seguintes propriedades: quantidade de força externa que um sistema pode suportar de modo a permanecer, através do tempo, com a mesma estrutura e funções; o grau de auto-organização de um sistema e o grau de aprendizado e adaptação de um sistema em resposta a um distúrbio. Na física se refere à propriedade de alguns materiais de acumular energia quando exigidos ou submetidos a estresse sem ocorrer ruptura. Após a tensão poderá ou não haver uma deformação residual - como um elástico ou uma vara de salto em altura, que verga-se até certo limite sem se quebrar e  retorna à forma original dissipando a energia acumulada e lançando o atleta para o alto. Na psicologia: é a capacidade do indivíduo em lidar com problemas, adaptar-se a mudanças, superar obstáculos ou resistir à pressão de situações adversas, encontrando soluções estratégicas para enfrentar e superar as adversidades. 
 
 [[BAIXE A CONVOCATÓRIA]](/media/docs/resilience-residence-2018_convocatoria.pdf){:target="_blank"}  
-
 
 Realização: Silo – Arte e Latitude Rural  
 Contato: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)

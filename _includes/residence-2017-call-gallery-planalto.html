@@ -1,0 +1,17 @@
+<div class="swipebox-gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains "PNI_" %}
+      <a href="{{ site.baseurl }}{{ file.path }}" class="swipebox swipebox-residence-call-gallery-planalto"  title="Planalto do Itatiaia">
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="Planalto do Itatiaia">
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script type="text/javascript">
+  (function($) {
+    $( '.swipebox-residence-call-gallery-planalto' ).swipebox({
+      hideBarsDelay : 3000000
+    });
+  })(jQuery);
+</script>
