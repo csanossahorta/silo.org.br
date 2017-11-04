@@ -44,13 +44,13 @@ A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do A
 
 A Serrinha do Alambari é parte integrante de uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira, a oeste da estrada para Visconde de Mauá (RJ-163). Esta área tem a particularidade de integrar zona rural e zona de proteção ambiental. A Serrinha conta com cerca de 1.000 habitantes, possui manufatura em pequena e média escala, comércio e atividade turística. A APA (Área de Proteção Ambiental) da Serrinha do Alambari abrange as comunidades de Serrinha e Capelinha, protegendo a parte alta das microbacias dos rios Alambari e Pirapitinga. Sua área total corresponde a 4.500 hectares.
 
-{% include residence-2017-call-gallery-serrinha.html %}
+{% include swipebox.html prefix="serrinha_" subtitle="Serrinha do Alambari" %}
 
 O Planalto do Itatiaia está localizado dentro do território do Parque Nacional do Itatiaia. Primeiro Parque Nacional do Brasil, criado em 1937, situado na Serra da Mantiqueira, o Parque Nacional do Itatiaia possui cerca de 28 mil hectares que abrange os Estados do Rio de Janeiro e Minas Gerais apresentando um relevo caracterizado por montanhas e elevações rochosas, com altitude variando de 600 a 2.791 m, no seu ponto culminante, o Pico das Agulhas Negras. Na região do Planalto do Itatiaia, encontram-se os campos de altitude e os vales suspensos. A área do Parque guarda nascentes de 12 importantes bacias hidrográficas regionais, que drenam para duas bacias principais: a do rio Grande, afluente do rio Paraná, e a do rio Paraíba do Sul, o mais importante do Rio de Janeiro.
 
 Este território preservado é vizinho de um pólo industrial localizado às margens do rio Paraíba do Sul e da rodovia Presidente Dutra que conecta a cidade do Rio de janeiro à cidade de São Paulo.
 
-{% include residence-2017-call-gallery-planalto.html %}
+{% include swipebox.html prefix="PNI_" subtitle="Planalto do Itatiaia" %}
 
 {% comment %}
 [[BAIXE A CONVOCATÓRIA]](/media/docs/resilience-residence-2018_convocatoria.pdf){:target="_blank"}  
