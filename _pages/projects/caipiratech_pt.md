@@ -8,6 +8,4 @@ lang: pt
 category: caipiratechlab
 ref: caipiratechlab-list
 ---
-
-Como iniciativa da Silo o programa CaipiraTechLab oferece atividades que trabalham com o conceito de mínimo impacto ambiental ou que impactam positivamente o meio ambiente. Estas são técnicas e tecnologias ancestrais, contemporâneas, intuitivas e científicas. Realizamos atividades para crianças, jovens e adultos. Oferecemos cursos, mutirões com temas relacionados a agroecologia, sistemas agroflorestais, agricultura sintrópica, bioarquitetura, geração de energia, entre outros. Além disso oferecemos também assessoria para realização de mutirões na construção de infraestruturas e atividades educativas. Contamos com uma rede de profissionais extremamentes capacitados e comprometidos com questões ambientais.
-
+Através do programa CaipiraTechLab oferecemos cursos, mutirões e realizamos encontros com temas relacionados a agroecologia, sistemas agroflorestais, bioarquitetura, geração de energia, entre outros. Além disso oferecemos também assessoria para a construção de infraestruturas e realização de atividades educativas em zonas rurais. Contamos com uma rede de profissionais extremamente capacitados e comprometidos com as questões ambientais.   
