@@ -15,7 +15,9 @@ Letra normal
 
 Aqui irei adicionar um link: [Instagram da Silo](http://instagram.com/silo.arte.e.latitude.rural "Instagram da Silo")
 
-![FOTO DA SILO.jpg]({{site.baseurl}}/media/images/FOTO DA SILO.jpg)
+Veja nossa galeria de fotos:
+
+
 
 
 
