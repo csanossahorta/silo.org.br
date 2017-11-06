@@ -1,6 +1,11 @@
 ---
 published: true
 layout: post
+category:
+  - silo
+lang: pt
+swipebox: p1
+cover: media/images/cover2.jpg
 ---
 ## A New Post
 
