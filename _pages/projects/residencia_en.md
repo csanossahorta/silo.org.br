@@ -8,7 +8,4 @@ lang: en
 category: residence
 ref: residencia-list
 ---
-RESILIENCE RESIDENCE | The residency proposes a esthetic study of resilience in its different forms applied to people, environment, animal or thing. Through this call, we invited artists for Performance Art and Sound Art.  
-The residence took place between 01 and 18 February in a rural zone located in the Environmental Protection Area of Serrinha do Alambari, RJ - Brazil - and in the spaces that surround it: environmental reserves, rural communities and industrial zones.
-
-Curators of the residence: Cinthia Mendonça e Andreas Trobollowitsch
+Silo organises Resilience: Artist in Residence, which is a programme with an international call for participants. The residency offers artists and curators space and other resources for creation and experimentation. On this programme we offer financial support  for the development of artistic works. Every year we hold an exhibition with artists in residence, guests and publish a catalogue.
