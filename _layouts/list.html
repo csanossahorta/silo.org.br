@@ -10,9 +10,9 @@
       <section class="content-text">
         <h2>{{ page.title }}</h2>
         {{ content }}
-        {% assign link = 'PÁGINA DO ÚLTIMO EVENTO' %}
+        {% assign link = 'ÚLTIMO EVENTO' %}
         {% if page.lang == 'en' %}
-          {% assign link = 'LATEST EVENT PAGE' %}
+          {% assign link = 'LATEST EVENT' %}
         {% endif %}
         <a href="{{ site.baseurl }}{{ page.link }}" target="_blank">[ {{ link }} ]</a>
       </section>
