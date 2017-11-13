@@ -17,6 +17,7 @@ The residence proposes an esthetic study of resilience, whether it is characteri
 
 In its second edition, the residence welcomes artists and curators who are interested in developing their work in rural spaces and/or in environmental resilience. In 2018 the residence taking place in the Environmental Protected Area of Serrinha do Alambari will also take place in the Plateau of Itatiaia National Park, located at 2,791 metres of altitude.
 
+{% comment %}
 The residence will take place between the **January 27 and February 17, 2018**.
 
 Registration for the residence will take place exclusively via the email: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br). The email subject must state: ***Registration - Resilience: Artist in Residence***.
@@ -34,6 +35,7 @@ If selected, each artist will receive: return tickets from their place of origin
 The residence will take place in two places: two weeks in Serrinha do Alambari and one week In Itatiaia Plateau.
 
 At the end of the residence we will hold an exhibition with the works and afterwards these will be published.
+{% endcomment %}
 
 **Places and Context**  
 The residence will take place in the Environmental Protection Area of Serrinha do Alambari and Itatiaia National Park Plateau, both located in the Serra da Mantiqueira, Rio de Janeiro, Brazil. The spaces surrounding these two areas will also be available to carry out the works: environmental reserves, rural communities and the industrial centre.
@@ -48,10 +50,12 @@ This conservation area is next to an industrial centre bordering the Paraíba do
 
 {% include swipebox.html prefix="PNI_" subtitle="Planalto do Itatiaia" %}
 
+{% comment %}
 [[DOWNLOAD FULL DETAILS OF CALL]](/media/docs/resilience-residence-2018_call.pdf){:target="_blank"}
 
 Realization: Silo – Arte e Latitude Rural  
 Contact: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)
+{% endcomment %}
 
 Support: [Ford Foundation](https://www.fordfoundation.org/){:target="_blank"}  
 Partners: [Crescente Fértil](http://crescentefertil.org.br/){:target="_blank"}, [Lilo.zone](http://www.lilo.zone/){:target="_blank"}
