@@ -18,8 +18,7 @@ Esta residência propõe um estudo estético da resiliência seja ela caracteriz
 
 Em sua segunda edição a residência acolherá artistas e curadores interessados em desenvolver seus trabalhos em espaços rurais e/ou de resiliência ambiental. Em 2018 a residência que ocorre na Área de Proteção Ambiental da Serrinha do Alambari, também ocorrerá no Planalto do Parque Nacional do Itatiaia, localizada a 2.791 metros de altitude.
 
-{% comment %}
-A residência ocorrerá entre os dias **27 de janeiro e 17 de fevereiro de 2018**.
+A residência ocorrerá entre os dias **23 de fevereiro e 15 de março de 2018**.
 
 As Inscrições para a residência serão feitas exclusivamente através do email: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br). No assunto do email deve constar: ***Inscrição para residência - Resiliência: Residência Artística***.
 
@@ -27,7 +26,7 @@ O email deve conter:
 - arquivo em formato PDF com proposta de projeto artístico, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4). 
 - arquivo em formato PDF com dados pessoais da pessoa e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + documentação do trabalho artístico (portfólio) + currículo + link da homepage e demais referências caso houver (máx. 10 MB).
 
-Prazo limite para as inscrições: **10 de dezembro de 2017**.
+Prazo limite para as inscrições: **30 de dezembro de 2017**.
 
 **Condições**  
 A residência ocorrerá no período de 3 semanas entre os dias 27 de janeiro e 17 de fevereiro.
@@ -37,7 +36,6 @@ A residência ocorrerá em dois espaços: 2 semanas na Serrinha do Alambari e 1 
 
 No final da residência realizamos uma mostra com os trabalhos desenvolvidos.
 Após a residência haverá uma publicação sobre/com os trabalhos.
-{% endcomment %}
 
 **Locais e Contexto**  
 A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do Alambari e o Planalto do Parque Nacional do Itatiaia, ambos localizados na Serra da Mantiqueira, Rio de Janeiro, Brasil. Os espaços que circundam estas duas áreas também estarão disponíveis para a realização dos trabalhos: reservas ambientais, comunidades rurais e polo industrial.
@@ -52,12 +50,10 @@ Este território preservado é vizinho de um pólo industrial localizado às mar
 
 {% include swipebox.html prefix="PNI_" subtitle="Planalto do Itatiaia" %}
 
-{% comment %}
 [[BAIXE A CONVOCATÓRIA]](/media/docs/resilience-residence-2018_convocatoria.pdf){:target="_blank"}  
 
 Realização: Silo – Arte e Latitude Rural  
 Contato: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br)
-{% endcomment %}
 
 Apoio: [Ford Foundation](https://www.fordfoundation.org/){:target="_blank"}  
 Parcerias: [Crescente Fértil](http://crescentefertil.org.br/){:target="_blank"}, [Lilo.zone](http://www.lilo.zone/){:target="_blank"}
