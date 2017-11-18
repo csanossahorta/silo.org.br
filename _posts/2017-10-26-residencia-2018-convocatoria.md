@@ -14,8 +14,6 @@ Por meio desta chamada convidamos artistas e curadores interessados em arte da p
 
 ![](../media/images/resilience-residence-2018-call/PNII_J_42.jpg)
 
-Por	 meio	 desta	 chamada	 convidamos	 artistas	 e	 curadores	 interessados	 em	 arte	 da	performance	e	arte	sonora	para	se inscreverem na	Resiliência:	Residência	Artística.
-
 Em	 sua	 segunda	 edição	 a	 residência	 acolherá	 artistas	 e	 curadores	 interessados	 em	
 desenvolver	 seus	 trabalhos	em	espaços	 rurais e/ou	 de	 resiliência	ambiental **entre os dias 22 de fevereiro e 14 de março de 2018**.
 
