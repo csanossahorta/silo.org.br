@@ -14,28 +14,28 @@ Por meio desta chamada convidamos artistas e curadores interessados em arte da p
 
 ![](../media/images/resilience-residence-2018-call/PNII_J_42.jpg)
 
-Em sua segunda edição a residência acolherá artistas e curadores interessados em desenvolver seus trabalhos em espaços rurais e/ou de resiliência ambiental. Em 2018 a residência ocorrerá na Área de Proteção Ambiental da Serrinha do Alambari e no Planalto do Parque Nacional do Itatiaia, localizado a 2.791 metros de altitude.
+Por	 meio	 desta	 chamada	 convidamos	 artistas	 e	 curadores	 interessados	 em	 arte	 da	performance	e	arte	sonora	para	se inscreverem na	Resiliência:	Residência	Artística.
 
-A residência será entre os dias **22 de fevereiro e 14 de março de 2018**.
+Em	 sua	 segunda	 edição	 a	 residência	 acolherá	 artistas	 e	 curadores	 interessados	 em	
+desenvolver	 seus	 trabalhos	em	espaços	 rurais e/ou	 de	 resiliência	ambiental **entre os dias 22 de fevereiro e 14 de março de 2018**.
 
-Em suas edições a residência propõe um estudo sobre a estética da resiliência seja ela caracterizada como lugar, estado, forma, seja aplicada à pessoa, ambiente, animal ou coisa.
+Em	suas	edições	a	residência	propõe	um	estudo	sobre	a	estética	da	resiliência	seja	ela	caracterizada	como	lugar,	estado,	forma, seja	aplicada	à	pessoa,	ambiente,	animal	ou	coisa.
 
-As Inscrições para a residência serão feitas exclusivamente através do email: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br). No assunto do email deve constar: ***Inscrição para residência - Resiliência: Residência Artística***.
+As Inscrições para a residência serão feitas exclusivamente através do email: [resilience.residence@silo.org.br](mailto:resilience.residence@silo.org.br). No assunto do email deve constar: ***Inscrição para residência - Resiliência: Residência Artística***. O email deve conter:
 
-Além disso, o email deve conter:
-- arquivo em formato PDF com proposta de projeto artístico, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4). 
-- arquivo em formato PDF com dados pessoais da pessoa e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + portfólio + currículo + link da homepage e demais referências, caso houver (máx. 10 MB).
+- Arquivo em formato PDF com proposta artística, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4). 
+- Arquivo em formato PDF com dados pessoais da pessoa e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + portfólio + currículo + link da homepage e demais referências, caso houver (máx. 10 MB).
 
 Prazo limite para as inscrições: **30 de dezembro de 2017**.
 
 **Condições**  
-A residência ocorrerá no período de 3 semanas entre os dias **22 de fevereiro e 14 de março**. Se selecionada ou selecionado, cada artista receberá: passagens - ida e volta - de seu local de origem, alojamento privado ou compartilhado com uma pessoa, estúdios compartilhados, alimentação gratuita e a quantia de R$ 2.000,00 por projeto.
+Se	selecionada	ou	selecionado,	cada	artista	receberá:	passagens	- ida	e	volta	- de	seu	local de	 origem,	 alojamento	 privado	 ou compartilhado	 com	 uma	 pessoa,	 estúdios	compartilhados,	alimentação	gratuita	e	a	quantia	de	R$	2.000,00	por	projeto.	
 
-No final da residência realizamos uma mostra com os trabalhos desenvolvidos. 
-Após a residência haverá uma publicação.
+No	final	da	residência	realizamos	uma	mostra	com	os	trabalhos	desenvolvidos.	
+Após	a	residência	haverá	uma	publicação.
 
 **Locais e Contexto**  
-A residência acontecerá entre a Área de Proteção Ambiental da Serrinha do Alambari e o Planalto do Parque Nacional do Itatiaia, ambos localizados na Serra da Mantiqueira, RJ, Brasil, entre as cidades de Rio de Janeiro e São Paulo. O entorno também estará disponível para a realização dos trabalhos: reservas ambientais, comunidades rurais e polo industrial.
+A	residência	acontecerá	entre	a	Área	de	Proteção	Ambiental	da	Serrinha	do	Alambari	e	o	Planalto	do	Parque	Nacional	do	Itatiaia, ambos	localizados	na	Serra	da	Mantiqueira, RJ,	Brasil,	entre	as	 cidades	 de	Rio	 de	 Janeiro	e	São	 Paulo.	O	entorno	 também	estará	disponível	para	a	realização	dos	trabalhos:	reservas	ambientais,	comunidades	rurais	e	polo	industrial.	
 
 A Serrinha do Alambari é parte integrante de uma Área de Proteção Ambiental (APA), situada no município de Resende (RJ), na encosta leste do Parque Nacional de Itatiaia, Serra da Mantiqueira, a oeste da estrada para Visconde de Mauá (RJ-163). Esta área tem a particularidade de integrar zona rural e zona de proteção ambiental. A Serrinha conta com cerca de 1.000 habitantes, possui manufatura em pequena e média escala, comércio e atividade turística. A APA (Área de Proteção Ambiental) da Serrinha do Alambari abrange as comunidades de Serrinha e Capelinha, protegendo a parte alta das microbacias dos rios Alambari e Pirapitinga. Sua área total corresponde a 4.500 hectares.
 
