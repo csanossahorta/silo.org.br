@@ -24,6 +24,10 @@ Gil Delindro, vive em Berlin. Seu trabalho multidisciplinar está focado na rela
 
 ![R1.gil1.jpg]({{site.baseurl}}/media/images/R1.gil1.jpg)
 
+<div class="video-wrapper video-wrapper-16x9">
+<iframe src="https://player.vimeo.com/video/213031149" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 
 
 
