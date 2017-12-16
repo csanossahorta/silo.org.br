@@ -1,6 +1,11 @@
+{% assign home_url = site.baseurl %}
+{% if page.lang == 'en' %}
+  {% assign home_url = site.baseurl | append: '/en' %}
+{% endif %}
+
 <div id="menu-mobile">
   <i class="fa fa-bars menu-icon show-menu" aria-hidden="true" onclick="showMenu()"></i>
-  <a class="menu-title" href="{{ site.baseurl }}/">
+  <a class="menu-title" href="{{ home_url }}/">
     <div class="menu-logo"></div>
   </a>
   <div id="menu-retratil" class="menu-hide">
@@ -10,10 +15,6 @@
 </div>
 
 <div id="menu">
-  {% assign home_url = site.baseurl %}
-  {% if page.lang == 'en' %}
-    {% assign home_url = site.baseurl | append: '/en' %}
-  {% endif %}
   <a class="menu-title" href="{{ home_url }}/">
     <div class="menu-logo"></div>
   </a>
