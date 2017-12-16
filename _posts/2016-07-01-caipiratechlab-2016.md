@@ -21,5 +21,5 @@ Em parceria com o Sítio Bicho Solto que integra a Associação Agroecológica d
 [[FOTOS]](https://www.flickr.com/photos/151197945@N07/albums/72157679168514796){:target="_blank"}
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="http://player.vimeo.com/video/46611303?byline=0&portrait=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+    <iframe src="//player.vimeo.com/video/46611303?byline=0&portrait=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
