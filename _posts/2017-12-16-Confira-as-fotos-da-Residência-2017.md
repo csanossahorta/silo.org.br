@@ -3,7 +3,7 @@ published: true
 layout: post
 ref: fotos-residencia-2017
 lang: pt
-cover: media/images/cover7.png
+cover: media/images/cover1.png
 category:
   - silo
   - residencia
@@ -48,9 +48,3 @@ Sara Lambranho (Santo André,1983) vive na Cidade do México. Estudou Artes e de
 [Saiba mais sobre as pesquisas de 2017](http://resilience-residence.com)
 
 [Veja aqui a convocatória de 2018](https://silo.org.br/residencia-2018-convocatoria/)
-
-
-
-
-
-
