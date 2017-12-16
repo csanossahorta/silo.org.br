@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: 'Convocatória para Resiliência: Residência Artística 2018'
 cover: media/images/cover2.jpg
@@ -7,8 +8,7 @@ category:
   - residence
 lang: pt
 ref: residence-2017-call
-published: true
-swipebox: "!&@&"
+swipebox: '!&@&'
 ---
 Por meio desta chamada convidamos artistas e curadores interessados em arte da performance e arte sonora para se inscreverem na **Resiliência: Residência Artística**.
 
@@ -23,6 +23,8 @@ As Inscrições para a residência serão feitas exclusivamente através do emai
 
 - Arquivo em formato PDF com proposta artística, plano de trabalho, desenhos, esquemas e etc (imagens e texto máx. 3 páginas A4). 
 - Arquivo em formato PDF com dados pessoais da pessoa e contato (nome, endereço, nacionalidade, data de nascimento, email, telefone) + portfólio + currículo + link da homepage e demais referências, caso houver (máx. 10 MB).
+
+Idiomas para a inscrição: português, inglês ou espanhol.
 
 Prazo limite para as inscrições: **30 de dezembro de 2017**.
 
