@@ -3,7 +3,7 @@ published: true
 layout: post
 ref: fotos-residencia-2017
 lang: pt
-cover: media/images/cover1.jpg
+cover: media/images/cover7.jpg
 category:
   - silo
   - residencia
