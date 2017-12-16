@@ -17,7 +17,7 @@ Nesta atividade tratamos da Economia das Sementes dentro do manejo cotidiano do 
 
 Em parceria com o Sítio Bicho Solto que integra a Associação Agroecológica de Teresópolis, o CaipiraTech Lab abriu inscrições para uma vivência Agroecologica na zona rural de Teresópolis entre os dias 18 e 19 de junho de 2016.
 
-<iframe width="420" height="315"
+<iframe 
 src="https://www.youtube.com/watch?v=LjUiDoQEb9o">
 </iframe>
  
