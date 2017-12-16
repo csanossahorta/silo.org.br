@@ -90,7 +90,7 @@ prose:
             - name: 'Interactivos!'
               value: 'interactivos'
             - name: 'Residência'
-              value: 'residencia'
+              value: 'residence'
       - name: "lang"
         field:
           element: "select"
