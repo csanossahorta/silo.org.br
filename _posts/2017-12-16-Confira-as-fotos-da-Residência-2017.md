@@ -49,6 +49,7 @@ Sara Lambranho, de Santo André, SP, vive na Cidade do México. Estudou Artes e 
 
 
 
+
 [Saiba mais sobre as pesquisas de 2017](http://resilience-residence.com)
 
 [Veja aqui a convocatória de 2018](https://silo.org.br/residencia-2018-convocatoria/)
