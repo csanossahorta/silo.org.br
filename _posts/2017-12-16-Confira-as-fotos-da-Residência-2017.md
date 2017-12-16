@@ -26,9 +26,11 @@ Gil Delindro (Porto, 1989) vive em Berlin. Seu trabalho multidisciplinar está f
 
 
 
+
 Bernhard Garnicnig vive e trabalha em Viena, Áustria (1983). Co-fundador e curador da bregenz biennale, co-editor fundador do continentcontinent.cc e "very artistic director" do Palais des Beaux Arts Wien, Bernhard faz uso do institucional como prática artística. Ele está interessado em estruturas de convivência e tenta sinceramente fazer coisas paradoxais funcionarem para ver o que acontece.
 
 ![R1.Bernhard2.jpg]({{site.baseurl}}/media/images/R1.Bernhard2.jpg)
+
 
 
 
@@ -38,9 +40,11 @@ Violeta Pavão (Bocaina de Minas,1990) vive entre Penedo e Rio de Janeiro. É me
 
 
 
+
 Sara Lambranho (Santo André,1983) vive na Cidade do México. Estudou Artes e design e utiliza elementos da arquitetura em seus trabalhos artísticos. http://cargocollective.com/saralambranho/. Para a Resiliência, Sara propôs a performance "Entre dois".
 
 ![R1.sara.PNG]({{site.baseurl}}/media/images/R1.sara.PNG)
+
 
 
 
