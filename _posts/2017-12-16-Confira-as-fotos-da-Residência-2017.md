@@ -7,7 +7,6 @@ cover: media/images/cover7.jpg
 category:
   - silo
   - residence
-swipebox: residencia2017
 ---
 Em fevereiro de 2017, a Silo, Arte e Latitude Rural realizou a primeira Resiliência: Residência Artistica. Recebemos cerca de 200 inscrições de artistas do mundo todo. Foram selecionados 4 artistas e uma artista local foi convidada para participar do programa. 
 
@@ -23,11 +22,6 @@ Pierre Fonseca, de Belo Horizonte, é formado em Artes Visuais, e desenvolve tra
 Gil Delindro, vive em Berlin. Seu trabalho multidisciplinar está focado na relação conflituosa entre ego, natureza e tecnologia. Gil trabalha sobretudo com arte sonora onde usa elementos brutos e processos analógicos auto-construídos, criando um som muito físico, direto e forte.
 
 ![R1.gil1.jpg]({{site.baseurl}}/media/images/R1.gil1.jpg)
-
-<div class="video-wrapper video-wrapper-16x9">
-<iframe src="https://player.vimeo.com/video/213031149" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 
 
 
