@@ -27,7 +27,7 @@ Gil Delindro, vive em Berlin. Seu trabalho multidisciplinar está focado na rela
 
 Bernhard Garnicnig vive e trabalha em Viena, Áustria,. Co-fundador e curador da bregenz biennale, co-editor fundador do continentcontinent.cc e "very artistic director" do Palais des Beaux Arts Wien, Bernhard faz uso do institucional como prática artística. Ele está interessado em estruturas de convivência e tenta sinceramente fazer coisas paradoxais funcionarem para ver o que acontece.
 
-![R1.Bernhard2.jpg]({{site.baseurl}}/media/images/R1.Bernhard2.jpg)
+![residencia2017 (3).jpg]({{site.baseurl}}/media/images/residencia2017 (3).jpg)
 
 
 
