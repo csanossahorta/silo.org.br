@@ -12,6 +12,8 @@ parceiras:
     cover: media/images/logos/procomum.png
   - link: 'http://www.ciudadania20.org/'
     cover: media/images/logos/inovacionciudadana.png
+  - link: 'http://segib.org/'
+    cover: media/images/logos/segib.svg
   - link: 'http://www.lilo.zone'
     cover: media/images/logos/lilo.svg
   - link: 'http://www.sitawi.net/'
