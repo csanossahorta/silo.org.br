@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: 'Confira as fotos da Residência 2017'
 ref: fotos-residencia-2017
 lang: pt
 cover: media/images/cover7.jpg
@@ -17,19 +18,14 @@ Pierre Fonseca, de Belo Horizonte, é formado em Artes Visuais, e desenvolve tra
 ![R1.pierre.jpg]({{site.baseurl}}/media/images/R1.pierre.jpg)
 
 
-
-
 Gil Delindro, vive em Berlin. Seu trabalho multidisciplinar está focado na relação conflituosa entre ego, natureza e tecnologia. Gil trabalha sobretudo com arte sonora onde usa elementos brutos e processos analógicos auto-construídos, criando um som muito físico, direto e forte.
 
 ![R1.gil1.jpg]({{site.baseurl}}/media/images/R1.gil1.jpg)
 
 
-
 Bernhard Garnicnig vive e trabalha em Viena, Áustria,. Co-fundador e curador da bregenz biennale, co-editor fundador do continentcontinent.cc e "very artistic director" do Palais des Beaux Arts Wien, Bernhard faz uso do institucional como prática artística. Ele está interessado em estruturas de convivência e tenta sinceramente fazer coisas paradoxais funcionarem para ver o que acontece.
 
-![residencia2017 (3).jpg]({{site.baseurl}}/media/images/residencia2017 (3).jpg)
-
-
+![residencia2017 (3).jpg]({{site.baseurl}}/media/images/R1.Bernhard2.jpg)
 
 
 Violeta Pavão, de Bocaina de Minas, vive entre Penedo e Rio de Janeiro. É mestranda em Artes Visuais e seu trabalho está, sobretudo, com a Arte da Perfomance. Para a Resiliência Violeta propôs a performance s u l c á, uma pesquisa sobre ações decolonizadoras.
@@ -37,17 +33,11 @@ Violeta Pavão, de Bocaina de Minas, vive entre Penedo e Rio de Janeiro. É mest
 ![R1.violeta.jpg]({{site.baseurl}}/media/images/R1.violeta.jpg)
 
 
-
-
 Sara Lambranho, de Santo André, SP, vive na Cidade do México. Estudou Artes e design e utiliza elementos da arquitetura em seus trabalhos artísticos. http://cargocollective.com/saralambranho/. Para a Resiliência, Sara propôs a performance "Entre dois".
 
-![R1.sara.PNG]({{site.baseurl}}/media/images/R1.sara.PNG)
+![R1.sara.PNG]({{site.baseurl}}/media/images/R1.sara.jpg)
 
 
-
-
-
-
-[Saiba mais sobre as pesquisas de 2017](http://resilience-residence.com)
+[Saiba mais sobre as pesquisas de 2017](http://resilience-residence.com){:target="_blank"}
 
 [Veja aqui a convocatória de 2018](https://silo.org.br/residencia-2018-convocatoria/)
