@@ -72,6 +72,11 @@ prose:
         field:
           element: "hidden"
           value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título do post"
+          placeholder: "Colocar Aqui o Nome do Post"
       - name: "cover"
         field:
           element: "text"
