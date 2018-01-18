@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-title: 'Download do Catálogo da Resiliência: Residência Artística 2017'
+title: 'Catálogo da Resiliência: Residência Artística 2017'
 category:
   - residence
 lang: pt
 ref: catalogo residencia 2017
-cover: ' media/images/cover10.jpg'
+cover: 'media/images/cover10.jpg'
 ---
 
 Finalmente está disponível para download o catálogo da Resiliência: Residência Artística 2017. Participaram desta publicação os residentes Sara Lambranho, Pierre Souza Fonseca, Violeta Pavão, Gil Delindro e Bernhard Garnicnig.
