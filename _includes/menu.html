@@ -4,12 +4,12 @@
 {% endif %}
 
 <div id="menu-mobile">
-  <i class="fa fa-bars menu-icon show-menu" aria-hidden="true" onclick="showMenu()"></i>
+  <i id="show-menu" class="fa fa-bars menu-icon show-menu" aria-hidden="true"></i>
   <a class="menu-title" href="{{ home_url }}/">
     <div class="menu-logo"></div>
   </a>
   <div id="menu-retratil" class="menu-hide">
-    <div class="menu-icon hide-menu" onclick="hideMenu()">✖</div>
+    <div id="hide-menu" class="menu-icon hide-menu">✖</div>
     {% include menu-items.html %}
   </div>
 </div>
@@ -23,14 +23,4 @@
   </div>
 </div>
 
-<script>
-  function showMenu() {
-    document.getElementById('menu-retratil').classList.remove("menu-hide");
-    document.getElementById('menu-retratil').classList.add("menu-show");
-  }
-
-  function hideMenu() {
-    document.getElementById('menu-retratil').classList.remove("menu-show");
-    document.getElementById('menu-retratil').classList.add("menu-hide");
-  }
-</script>
+<script src="{{ site.baseurl }}/js/menu.js"></script>

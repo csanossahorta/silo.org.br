@@ -1,3 +1,9 @@
+window.onload = function() {
+  $( ".nav-item" ).click(function(event) {
+    scrollToId(event.target.getAttribute('data-id'));
+  });
+}
+
 function scrollToId(mId) {
   var elementTop = document.querySelector(mId).getBoundingClientRect().top;
   window.scrollBy( {top: elementTop, left: 0, behavior: 'smooth'} );
