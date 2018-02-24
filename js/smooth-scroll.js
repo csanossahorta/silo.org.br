@@ -1,8 +1,8 @@
-window.onload = function() {
+$(window).on('load', function() {
   $( ".nav-item" ).click(function(event) {
     scrollToId(event.target.getAttribute('data-id'));
   });
-}
+});
 
 function scrollToId(mId) {
   var elementTop = document.querySelector(mId).getBoundingClientRect().top;
