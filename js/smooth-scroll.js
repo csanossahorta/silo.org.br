@@ -1,7 +1,5 @@
-$(window).on('load', function() {
-  $( ".nav-item" ).click(function(event) {
-    scrollToId(event.target.getAttribute('data-id'));
-  });
+$( ".nav-item" ).click(function(event) {
+  scrollToId(event.target.getAttribute('data-id'));
 });
 
 function scrollToId(mId) {
