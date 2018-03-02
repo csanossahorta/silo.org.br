@@ -3,7 +3,7 @@
 {% if page.subtitle %}
   {% assign subtitle = page.subtitle %}
 {% else %}
-  {% assign subtitle = page.excerpt %}
+  {% assign subtitle = page.content | strip_html | truncatewords: 25 %}
 {% endif %}
 
 <meta name="description" content="{{site.title}} - {{subtitle}}">

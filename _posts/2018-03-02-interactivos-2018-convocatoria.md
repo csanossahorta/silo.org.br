@@ -11,7 +11,7 @@ ref: interactivos-2018-call
 ---
 ![](/media/images/i18_cover00.jpg)
 
-A Silo - Arte e Latitude rural apresenta o **Interactivos?’ 18: Tecnosfera Rural - Repensando a Vida no Campo** 
+A Silo - Arte e Latitude rural apresenta o **Interactivos?’18: Tecnosfera Rural - Repensando a Vida no Campo**
 
 Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colaboradores em um laboratório rural localizado na Serrinha do Alambari - RJ, de **14 a 28 de junho 2018**.
 
