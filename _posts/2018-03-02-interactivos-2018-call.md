@@ -8,7 +8,6 @@ category:
   - interactivos
 lang: en
 ref: interactivos-2018-call
-swipebox:
 ---
 Silo - Arte e Latitude rural ​presents **Interactivos?’18: Rural Tecnosphere-Rethinking Life in the Countryside**.
 

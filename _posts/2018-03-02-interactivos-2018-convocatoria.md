@@ -1,14 +1,13 @@
 ---
 published: true
 layout: post
-title: 'Convocatória para Interactivos?’ 18: Tecnosfera Rural’
+title: 'Convocatória para Interactivos?’18: Tecnosfera Rural'
 cover: media/images/cover17.jpg
 category:
   - silo
   - interactivos
 lang: pt
 ref: interactivos-2018-call
-swipebox:
 ---
 A ​Silo - Arte e Latitude rural ​apresenta o **Interactivos?’ 18: Tecnosfera Rural - Repensando a Vida no Campo** 
 
