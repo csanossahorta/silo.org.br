@@ -9,21 +9,23 @@ category:
 lang: pt
 ref: interactivos-2018-call
 ---
-A ​Silo - Arte e Latitude rural ​apresenta o **Interactivos?’ 18: Tecnosfera Rural - Repensando a Vida no Campo** 
+![](/media/images/i18_cover00.jpg)
 
-Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colaboradores em um laboratório rural localizado na Serrinha do Alambari - RJ, de ​**14 a 28 de junho 2018**​.
-Até o dia ​**08 de abril**​, profissionais de diferentes áreas de atuação, artistas, pesquisadores e desenvolvedores podem inscrever projetos que tragam proposições ao mundo rural. As pessoas selecionadas receberão transporte, hospedagem, alimentação, ajuda de custo, apoio técnico e colaboradores especializados para o desenvolvimento de suas propostas.
+A Silo - Arte e Latitude rural apresenta o **Interactivos?’ 18: Tecnosfera Rural - Repensando a Vida no Campo** 
 
-Inscreva-se através deste [[​formulário​]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
+Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colaboradores em um laboratório rural localizado na Serrinha do Alambari - RJ, de **14 a 28 de junho 2018**.
+
+Até o dia **08 de abril**, profissionais de diferentes áreas de atuação, artistas, pesquisadores e desenvolvedores podem inscrever projetos que tragam proposições ao mundo rural. As pessoas selecionadas receberão transporte, hospedagem, alimentação, ajuda de custo, apoio técnico e colaboradores especializados para o desenvolvimento de suas propostas.
+
+Inscreva-se através deste [[formulário]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
 
 [[BAIXE A CONVOCATÓRIA]](/media/docs/interactivos_convocatoria_2018_PT.pdf){:target="_blank"}  
 
-
-
 [[Formulario de inscripción]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
 
-
 [[DESCARGUE LA CONVOCATORIA EN ESPAÑOL]](/media/docs/interactivos_convocatoria_2018_ES.pdf){:target="_blank"}  
+
+![](/media/images/i18_cover01.jpg)
 
 Realização: Silo – Arte e Latitude Rural  
 Contato: [interactivos@silo.org.br](mailto:interactivos@silo.org.br)
