@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: 'Call for Interactivos?’18: Rural Technosphere'
 cover: media/images/cover17.jpg
