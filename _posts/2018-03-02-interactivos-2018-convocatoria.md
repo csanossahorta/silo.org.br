@@ -17,13 +17,11 @@ Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colabo
 
 Até o dia **08 de abril**, profissionais de diferentes áreas de atuação, artistas, pesquisadores e desenvolvedores podem inscrever projetos que tragam proposições ao mundo rural. As pessoas selecionadas receberão transporte, hospedagem, alimentação, ajuda de custo, apoio técnico e colaboradores especializados para o desenvolvimento de suas propostas.
 
-Inscreva-se através deste [[formulário]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
+[[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/interactivos_convocatoria_2018_PT.pdf){:target="_blank"}  
 
-[[BAIXE A CONVOCATÓRIA]](/media/docs/interactivos_convocatoria_2018_PT.pdf){:target="_blank"}  
+[[DESCARGUE LA CONVOCATORIA - ESPAÑOL]](/media/docs/interactivos_convocatoria_2018_ES.pdf){:target="_blank"}  
 
-[[Formulario de inscripción]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
-
-[[DESCARGUE LA CONVOCATORIA EN ESPAÑOL]](/media/docs/interactivos_convocatoria_2018_ES.pdf){:target="_blank"}  
+[[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
 
 ![](/media/images/i18_cover01.jpg)
 

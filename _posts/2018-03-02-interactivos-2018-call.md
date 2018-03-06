@@ -17,9 +17,9 @@ Silo - Arte e Latitude rural presents **Interactivos?’18: Rural Tecnosphere-Re
 
 Until **April 8**, professionals from different fields, artists, researchers and developers can submit proposal for projects. The selected persons will receive transport, lodging, food, material support, technical support and specialized collaborators to develop their proposals.
 
-Sign up [[here]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
+[[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/interactivos_2018_call_EN.pdf){:target="_blank"}
 
-[[DOWNLOAD FULL DETAILS OF CALL]](/media/docs/interactivos_2018_call_EN.pdf){:target="_blank"}  
+[[SEND A PROPOSAL]](https://goo.gl/forms/B2lip0DfmriUkpF13){:target="_blank"}
 
 ![](/media/images/i18_cover01.jpg)
 
