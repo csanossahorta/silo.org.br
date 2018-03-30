@@ -38,6 +38,6 @@ Violeta Pavão, de Bocaina de Minas, vive entre Penedo e Rio de Janeiro. É mest
 ![]({{site.baseurl}}/media/images/R1.sara.jpg)
 
 
-[Saiba mais sobre as pesquisas de 2017](http://resilience-residence.com){:target="_blank"}
+[Saiba mais sobre as pesquisas de 2017](https://resilience.silo.org.br/){:target="_blank"}
 
 [Veja aqui a convocatória de 2018](https://silo.org.br/residencia-2018-convocatoria/)

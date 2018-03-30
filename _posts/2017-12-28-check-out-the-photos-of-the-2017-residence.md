@@ -39,6 +39,6 @@ Violeta Pavão (Brasil) lives between Penedo and Rio de Janeiro. She holds a Mas
 ![]({{site.baseurl}}/media/images/R1.sara.jpg)
 
 
-[Know more about the 2017 Research](http://resilience-residence.com/)
+[Read more about the 2017 Research](https://resilience.silo.org.br/){:target="_blank"}
  
 [Find here the 2018 Call](https://silo.org.br/residence-2018-call/)
