@@ -4,6 +4,7 @@ cover: 'media/images/caipiratechlab.png'
 layout: list
 permalink: /caipiratechlab/
 link: 'https://www.flickr.com/photos/151197945@N07/albums/72157679168514796'
+link-text: 'DOCUMENTAÇÃO'
 lang: pt
 category: caipiratechlab
 ref: caipiratechlab-list

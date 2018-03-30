@@ -3,7 +3,8 @@ title: 'Residência'
 cover: 'media/images/resilience.png'
 layout: list
 permalink: /en/residencia/
-link: 'http://resilience-residence.com/'
+link: 'https://resilience.silo.org.br/'
+link-text: 'DOCUMENTATION'
 lang: en
 category: residence
 ref: residencia-list

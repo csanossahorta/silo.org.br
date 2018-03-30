@@ -4,6 +4,7 @@ cover: 'media/images/encontrada.jpg'
 layout: list
 permalink: /encontrada/
 link: 'http://encontrada.org'
+link-text: 'ÚLTIMO EVENTO'
 lang: pt
 category: encontrada
 ref: encontrada-list
