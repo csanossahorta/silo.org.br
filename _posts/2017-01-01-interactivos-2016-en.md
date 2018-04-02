@@ -17,5 +17,5 @@ The five projects developed addressed issues on agroecology, sanitation, water c
 
 Check out some photos below and visit the project documentation website.
 
-[[PROJECTS]](https://interactivos16.github.io/doc.interactivos16.info/){:target="_blank"}  
+[[PROJECTS]](https://associacaosilo.github.io/doc.interactivos16.info/){:target="_blank"}  
 [[PICTURES]](https://www.flickr.com/photos/interactivos16/){:target="_blank"}
