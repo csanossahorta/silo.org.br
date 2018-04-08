@@ -15,7 +15,7 @@ A Silo - Arte e Latitude rural apresenta o **Interactivos?’18: Tecnosfera Rura
 
 Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colaboradores em um laboratório rural localizado na Serrinha do Alambari - RJ, de **14 a 28 de junho 2018**.
 
-Até o dia **08 de abril**, profissionais de diferentes áreas de atuação, artistas, pesquisadores e desenvolvedores podem inscrever projetos que tragam proposições ao mundo rural. As pessoas selecionadas receberão transporte, hospedagem, alimentação, ajuda de custo, apoio técnico e colaboradores especializados para o desenvolvimento de suas propostas.
+Até o dia **15 de abril**, profissionais de diferentes áreas de atuação, artistas, pesquisadores e desenvolvedores podem inscrever projetos que tragam proposições ao mundo rural. As pessoas selecionadas receberão transporte, hospedagem, alimentação, ajuda de custo, apoio técnico e colaboradores especializados para o desenvolvimento de suas propostas.
 
 [[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/interactivos_convocatoria_2018_PT.pdf){:target="_blank"}  
 
