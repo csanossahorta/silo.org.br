@@ -24,7 +24,7 @@ As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, ap
 [[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}
 
 
-**Confira abaixo os PROJETOS que serão desenvolvidos.**
+E confira abaixo os **projetos** que serão desenvolvidos.
 
 ------------------------------------------------------------------------------------------------------ 
 
