@@ -69,7 +69,7 @@ Profissionais com conhecimentos em mecânica ou eletromecânica, soldagem, engen
 -------------------------------------------------------------------------------------------------------       
         
 **PROJETO GERMINAÇÃO**  
-ANDRÉIA PREVIATO BOTELHO,  | Santos, São Paulo , Brasil.  
+ANDRÉIA PREVIATO BOTELHO  | Santos, São Paulo , Brasil.  
   
 ![](/media/images/germinacao.jpg)
   
@@ -89,7 +89,7 @@ DANIELA SERRUYA KOHN | Belo Horizonte, Minas Gerais, Brasil.
 
 Criar uma estação de Fermentação de alimentos e bebidas fazendo um intercâmbio de experimentos e técnicas através do cultivo, cuidado e observação dos microbiomas dos alimentos em processo fermentativo.Trabalhar com a transformação de excedentes de hortas e plantas alimentícias não convensionais em alimentos medicinais e probióticos artesanais.Como resultado faremos uma publicação on-line com receitas a base de fermentaçao. 
  
-**Perfil Colaboradoras/es: **
+**Perfil Colaboradoras/es:**
 Agricultora/es, cozinheira/os, artistas, marceneiras/os, biólogas/os, estudantes, engenheiras/os de alimento, moradores da Serrinha, ilustradoras/es, designer de web, e demais interessados na pesquisa. 
 
   
