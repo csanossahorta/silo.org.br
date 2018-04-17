@@ -23,7 +23,7 @@ And sign up as a collaborator [[here]](https://goo.gl/forms/amYApFsHuv0P8ES62){:
 [[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/collaborators_2018call_en.pdf){:target="_blank"}
 
 
-##PROJECTS
+__PROJECTS__
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
@@ -35,7 +35,10 @@ Creation of a small laboratory for the cultivation of biofertilizers: liquid fer
 **Profile for Collaborators:**  
 People who work in the fields, coffee growers, people who have home gardens or other crops, professionals in agricultural technology, people who have knowledge in hydroponics.
 
+
   
+-------------------------------------------------------------------------------------------------------      
+    
     
       
       
@@ -48,7 +51,10 @@ Elaboration of a manual outlining practical solutions for human settlements or a
 								
 **Profile for Collaborators:** 
 Production engineers or material engineers; Designers with experience in the use of natural material; Bioconstructors or architects with experience in the use of bamboo; Woodworkers; Representatives of ancestral communities (mainly Puri Indians); Permaculturists; Illustrators; Graphic designers; Content Editors; Photographers.
+
   
+-------------------------------------------------------------------------------------------------------      
+    
     
       
       
@@ -62,7 +68,10 @@ Construction of an efficient compost system for rapid and uniform decomposition,
 **Profile for Collaborators:**
 Professionals with knowledge in mechanics or electromechanics, welding, chemist technicians or chemical engineers, students, permaculture specialists and enthusiasts..
   
-    
+
+  
+-------------------------------------------------------------------------------------------------------      
+      
       
       
 
@@ -78,6 +87,9 @@ Engineers; students or people interested in agroecology, agroforestry, permacult
 
   
     
+  
+-------------------------------------------------------------------------------------------------------      
+  
       
       
 
@@ -93,7 +105,10 @@ Farmers, cooks, artists, carpenters, biologists, students, food engineers, Serri
  
   
     
-      
+ 
+  
+-------------------------------------------------------------------------------------------------------      
+       
       
 
 **ROTA-MNESIS**
@@ -109,6 +124,9 @@ Investigation of the intrinsic need to make and use maps in a rural iconographic
 **Profile for Collaborators:**  
 People with experience or interest in a community and collaborative methodology. People with cartographic knowledge (technological-scientific notions); knowledge in the pictorial representation of space; knowledge of painting and drawing (of aesthetics, color, composition, techniques).
 
+  
+-------------------------------------------------------------------------------------------------------      
+  
 
 Realization: Silo – Arte e Latitude Rural  
 Contact: [interactivos@silo.org.br](mailto:interactivos@silo.org.br)

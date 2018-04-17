@@ -24,7 +24,7 @@ As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, ap
 [[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}
 
 
-##PROJETOS
+__PROJETOS__
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
@@ -36,8 +36,9 @@ Criação de um pequeno laboratório para cultivo de biofertilizantes, ou seja, 
 **Perfil de Colaboradoras/es:**  
 Pessoas que tenham relação com o mundo rural, cafeicultores, pessoas que tenham hortas caseiras ou outros cultivos, profissionais da área de  tecnologia agropecuária e pessoas que tenham conhecimento em hidroponia, engenheiros químicos, especialistas em biofertilizantes, moradores da Serrinha e demais interessados na pesquisa. 
   
--------------------------------------------------------------------------------------------------------    
-
+  
+-------------------------------------------------------------------------------------------------------      
+  
 **NGUARA - GUIA PARA A CONSTRUÇÃO DE ABRIGOS ANIMAIS E HUMANOS**  
 DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO DA COSTA E GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.  
   
@@ -48,8 +49,10 @@ Elaboração de um manual de soluções práticas para assentamentos humano
 **Perfil Colaboradoras/es:**
 Engenheira/o de produção ou materiais; designer com experiência em utilização de material natural; bioconstrutora/or ou arquiteta/o com experiência na utilização de bambu; marceneira/o; tepresentantes de comunidades ancestrais (principalmente indígenas da etnia Puri); permacultor/a; ilustrador/a; editor/a gráfico/a; editor/a de conteúdo; fotógrafo para registros, moradores da Serrinha e demais interesados na pesquisa.
   
+  
 -------------------------------------------------------------------------------------------------------
-      
+   
+   
 **FULL COMPOST**    
 OSCAR BRACAMONTE | Santa Fé, Argentina.  
   
@@ -59,8 +62,9 @@ Construção de um sistema de compostagem eficiente de decomposição rápida e
 
 **Perfil Colaboradoras/es:**					
 Profissionais com conhecimentos em mecânica ou eletromecânica, soldagem, engenheiros químicos ou técnicos em químicos, agricultores, estudantes, permacultores, moradores da Serrinha e demais interessados na pesquisa. 
+
   
--------------------------------------------------------------------------------------------------------     
+-------------------------------------------------------------------------------------------------------       
         
 **PROJETO GERMINAÇÃO**  
 ANDRÉIA PREVIATO BOTELHO,  | Santos, São Paulo , Brasil.  
@@ -71,9 +75,11 @@ Implementação de micro módulos agroflorestais utilizando técnicas como a da 
  
 Perfil Colaboradoras/es: 
 Engenheira/os, estudantes ou pessoas interessadas em agroecologia, agrofloresta, permacultura, biodinâmica, plantio em áreas rurais e produção de alimentos, profissional de design, produção audiovisual, gente que gosta de trabalho braçal, moradores da Serrinha e demais interessados na pesquisa.
-
+  
+  
 -------------------------------------------------------------------------------------------------------
-
+  
+  
 **FERMENTADOS _ COZINHA NÔMADE**  
 DANIELA SERRUYA KOHN | Belo Horizonte, Minas Gerais, Brasil.  
   
@@ -84,8 +90,8 @@ Criar uma estação de Fermentação de alimentos e bebidas fazendo um inter
 **Perfil Colaboradoras/es: **
 Agricultora/es, cozinheira/os, artistas, marceneiras/os, biólogas/os, estudantes, engenheiras/os de alimento, moradores da Serrinha, ilustradoras/es, designer de web, e demais interessados na pesquisa. 
 
-
--------------------------------------------------------------------------------------------------------    
+  
+-------------------------------------------------------------------------------------------------------      
       
 **ROTA-MNESIS**  
 ANA HENRIQUES BROTAS | Lisboa, Portugal.  
@@ -97,7 +103,10 @@ Investigação da necessidade intrínseca de fazer e usar mapas numa realidade i
    
 **Perfil Colaboradoras/es:**
 Pessoas com experiência ou interesse por uma metodologia comunitária e colaborativa. Pessoas com conhecimento cartográfico (noções tecnológico-científicas); conhecimento na representação pictórica do espaço; conhecimento de pintura e desenho (de estética, cor, composição, técnicas). Antropólogas/os, sociólogas/os, professores, moradores da Serrinha e demais interessados na pesquisa. 
+ 
   
+-------------------------------------------------------------------------------------------------------      
+   
 
   
 Realização: Silo – Arte e Latitude Rural  
