@@ -31,7 +31,7 @@ For questions or problems with the form, email: interactivos@silo.org.br
 
 **PROJETOS**
 
-**LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**
+**LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
 
 ![](/media/images/biofertilizantes.jpg)
@@ -41,8 +41,11 @@ Creation of a small laboratory for the cultivation of biofertilizers: liquid fer
 **Profile for Collaborators:**  
 People who work in the fields, coffee growers, people who have home gardens or other crops, professionals in agricultural technology, people who have knowledge in hydroponics.
 
-
-**NGUARA - GUIDE TO THE CONSTRUCTION OF ANIMAL AND HUMAN COVERINGS**
+  
+    
+      
+      
+**NGUARA - GUIDE TO THE CONSTRUCTION OF ANIMAL AND HUMAN COVERINGS**  
 DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO DA COSTA E GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.	
 
 ![](/media/images/bambu.jpg)
@@ -51,8 +54,11 @@ Elaboration of a manual outlining practical solutions for human settlements or a
 								
 **Profile for Collaborators:** 
 Production engineers or material engineers; Designers with experience in the use of natural material; Bioconstructors or architects with experience in the use of bamboo; Woodworkers; Representatives of ancestral communities (mainly Puri Indians); Permaculturists; Illustrators; Graphic designers; Content Editors; Photographers.
-
-**FULL COMPOST **
+  
+    
+      
+      
+**FULL COMPOST**
 OSCAR BRACAMONTE | Santa Fé, Argentina
 
 ![](/media/images/fullcompost.jpg)
@@ -61,7 +67,10 @@ Construction of an efficient compost system for rapid and uniform decomposition,
 
 **Profile for Collaborators:**
 Professionals with knowledge in mechanics or electromechanics, welding, chemist technicians or chemical engineers, students, permaculture specialists and enthusiasts..
-
+  
+    
+      
+      
 
 **PROJETO GERMINAÇÃO**
 ANDRÉIA PREVIATO BOTELHO | Santos, São Paulo , Brasil
@@ -73,9 +82,12 @@ Implementation of agroforestry micro modules using techniques such as hugelkultu
 **Profile for Collaborators:**
 Engineers; students or people interested in agroecology, agroforestry, permaculture, biodynamics, planting in rural areas and food production; design professionals; audiovisual producers; people who enjoy manual labor.
 
+  
+    
+      
+      
 
-
-**FERMENTADOS | COZINHA NÔMADE**
+**FERMENTADOS _ COZINHA NÔMADE**
 DANIELA SERRUYA KOHN | Belo Horizonte, Minas Gerais, Brasil
 
 ![](/media/images/fermentados.jpg)
@@ -85,10 +97,13 @@ Create a Food and Beverage Fermentation Station by exchanging experiments and te
 **Profile for Collaborators:**
 Farmers, cooks, artists, carpenters, biologists, students, food engineers, Serrinha residents, illustrators, web designers, and others interested in research.
  
-
+  
+    
+      
+      
 
 **ROTA-MNESIS**
-**por ANA HENRIQUES BROTAS | Lisboa, Portugal**
+ANA HENRIQUES BROTAS | Lisboa, Portugal
 
 ![](/media/images/mapas.jpg)
 
