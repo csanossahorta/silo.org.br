@@ -25,7 +25,8 @@ As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, ap
 
 
 **Confira abaixo os PROJETOS que serão desenvolvidos.**
-------------------------------------------------------------------------------------------------------- 
+
+------------------------------------------------------------------------------------------------------ 
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.

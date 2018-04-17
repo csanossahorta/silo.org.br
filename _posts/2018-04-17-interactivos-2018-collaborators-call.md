@@ -17,10 +17,10 @@ Until **15 may**, professionals from different fields can submit proposals to co
 The selected collaborators will receive lodging and food for the duration of the event.
 
 
-And sign up as a collaborator [[here]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}.
 
 [[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/collaborators_2018call_en.pdf){:target="_blank"}
 
+Sign up as a collaborator [[here]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}.
   
   
   **See below for the selected PROJECTS.**
