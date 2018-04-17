@@ -16,20 +16,14 @@ Until **15 may**, professionals from different fields can submit proposals to co
 
 The selected collaborators will receive lodging and food for the duration of the event.
 
-** See below for the selected projects.**
+**See below for the selected projects.**
 
 And sign up as a collaborator [[here]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}.
-
-For questions or problems with the form, email: interactivos@silo.org.br
-
-[[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/colaboradores_convocatoria2018_pt.pdf){:target="_blank"}  
-
-[[DESCARGUE LA CONVOCATORIA - ESPAÑOL]](/media/docs/colaboradores_convocatoria2018_es.pdf){:target="_blank"}  
 
 [[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/collaborators_2018call_en.pdf){:target="_blank"}
 
 
-**PROJETOS**
+#PROJECTS
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.

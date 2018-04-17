@@ -17,10 +17,6 @@ As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, ap
 
 **Confira abaixo os projetos que serão desenvolvidos.**
 
-E inscreva-se através deste [[formulário]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}.
-
-Dúvidas ou problemas com o formulário, entre em contato por email: interactivos@silo.org.br
-
 [[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/colaboradores_convocatoria2018_pt.pdf){:target="_blank"}  
 
 [[DESCARGUE LA CONVOCATORIA - ESPAÑOL]](/media/docs/colaboradores_convocatoria2018_es.pdf){:target="_blank"}  
@@ -28,7 +24,7 @@ Dúvidas ou problemas com o formulário, entre em contato por email: interactivo
 [[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}
 
 
-**PROJETOS**
+#PROJETOS
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
