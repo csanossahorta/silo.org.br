@@ -15,7 +15,7 @@ Até o dia **15 de maio**, receberemos candidaturas para colaboradoras/es que de
 
 As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, apoio técnico/teórico.
 
-**Confira abaixo os projetos que serão desenvolvidos.**
+  
 
 [[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/colaboradores_convocatoria2018_pt.pdf){:target="_blank"}  
 
@@ -23,11 +23,9 @@ As pessoas selecionadas receberão hospedagem, alimentação, ajuda de custo, ap
 
 [[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://goo.gl/forms/amYApFsHuv0P8ES62){:target="_blank"}
 
-  
--------------------------------------------------------------------------------------------------------      
-  
 
-__PROJETOS__
+**Confira abaixo os PROJETOS que serão desenvolvidos.**
+------------------------------------------------------------------------------------------------------- 
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
