@@ -23,7 +23,7 @@ And sign up as a collaborator [[here]](https://goo.gl/forms/amYApFsHuv0P8ES62){:
 [[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/collaborators_2018call_en.pdf){:target="_blank"}
 
 
-#PROJECTS
+##PROJECTS
 
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
