@@ -42,7 +42,7 @@ Pessoas que tenham relação com o mundo rural, cafeicultores, pessoas que tenha
 -------------------------------------------------------------------------------------------------------      
   
 **NGUARA - GUIA PARA A CONSTRUÇÃO DE ABRIGOS ANIMAIS E HUMANOS**  
-DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO DA COSTA E GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.  
+DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO COSTA e GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.  
   
 ![](/media/images/bambu.jpg)
   
@@ -69,7 +69,7 @@ Profissionais com conhecimentos em mecânica ou eletromecânica, soldagem, engen
 -------------------------------------------------------------------------------------------------------       
         
 **PROJETO GERMINAÇÃO**  
-ANDRÉIA PREVIATO BOTELHO  | Santos, São Paulo , Brasil.  
+ANDRÉIA PREVIATO BOTELHO e FILIPE RAMOS | Santos, São Paulo , Brasil.  
   
 ![](/media/images/germinacao.jpg)
   

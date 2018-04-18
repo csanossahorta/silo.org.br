@@ -45,7 +45,7 @@ People who work in the fields, coffee growers, people who have home gardens or o
       
       
 **NGUARA - GUIDE TO THE CONSTRUCTION OF ANIMAL AND HUMAN COVERINGS**  
-DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO DA COSTA E GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.	
+DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO COSTA e GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.	
 
 ![](/media/images/bambu.jpg)
 
@@ -78,7 +78,7 @@ Professionals with knowledge in mechanics or electromechanics, welding, chemist 
       
 
 **PROJETO GERMINAÇÃO**
-ANDRÉIA PREVIATO BOTELHO | Santos, São Paulo , Brasil
+ANDRÉIA PREVIATO BOTELHO e FILIPE RAMOS | Santos, São Paulo , Brasil
 
 ![](/media/images/germinacao.jpg)
 
