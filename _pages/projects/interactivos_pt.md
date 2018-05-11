@@ -3,7 +3,7 @@ title: 'Interactivos?'
 cover: 'media/images/interactivos.jpg'
 layout: list
 permalink: /interactivos/
-link: 'https://associacaosilo.github.io/doc.interactivos16.info/'
+link: 'https://associacaosilo.github.io/doc.interactivos16/'
 link-text: 'DOCUMENTAÇÃO'
 lang: pt
 category: interactivos
