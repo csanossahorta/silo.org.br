@@ -30,7 +30,7 @@ Sign up as a collaborator [[here]](https://goo.gl/forms/g9lV6sxxVyAf4JsO2){:targ
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
 
-![](/media/images/biofertilizantes.jpg)
+![](/media/images/interactivos18/biofertilizantes.jpg)
 
 Creation of a small laboratory for the cultivation of biofertilizers: liquid fertilizers with a lot of balanced energy and minerals prepared from fresh manure, dissolved in water and enriched with milk and molasses, fermented in plastic tanks, under an anaerobic system and enriched with mineral salts such as sulfates of magnesium, zinc, copper, etc. We also aim to manufacture Ajidol (which is an organic product that has insecticidal effects), Ash Broth (natural Fungicide), and develop efficient microorganisms to make manure tea and biostimulants with aloe vera.
 
@@ -47,7 +47,7 @@ People who work in the fields, coffee growers, people who have home gardens or o
 **NGUARA - GUIDE TO THE CONSTRUCTION OF ANIMAL AND HUMAN COVERINGS**  
 DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO COSTA e GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.	
 
-![](/media/images/bambu.jpg)
+![](/media/images/interactivos18/bambu.jpg)
 
 Elaboration of a manual outlining practical solutions for human settlements or animal shelters using ancestral techniques (such as Nguara Puris) and contemporary techniques (biodynamics, permaculture, syntropy) emphasizing the use of natural materials like bamboo. The goal is to compile technologies that may be useful in creating these shelters and group them together in a guide to encourage the use of sustainable technologies for the creation of rural human settlements. As a prototype we will develop something like a chicken coop and a small temporary shelter.
 								
@@ -63,7 +63,7 @@ Production engineers or material engineers; Designers with experience in the use
 **FULL COMPOST**
 OSCAR BRACAMONTE | Santa Fé, Argentina
 
-![](/media/images/fullcompost.jpg)
+![](/media/images/interactivos18/fullcompost.jpg)
 
 Construction of an efficient compost system for rapid and uniform decomposition, with great economies of scale, rapid transformation of waste into economic income, capable of transforming a great variety of waste into compost. The objective is to build a device that requires less space, time and that can also treat any organic waste.
 
@@ -80,7 +80,7 @@ Professionals with knowledge in mechanics or electromechanics, welding, chemist 
 **PROJETO GERMINAÇÃO**
 ANDRÉIA PREVIATO BOTELHO e FILIPE RAMOS | Santos, São Paulo , Brasil
 
-![](/media/images/germinacao.jpg)
+![](/media/images/interactivos18/germinacao.jpg)
 
 Implementation of agroforestry micro modules using techniques such as hugelkulture and mulching with the objective of developing possible low-cost low-maintenance alternatives for agriculture, collaborating for forest enrichment, valuing the oral tradition, supporting food security and variety by implementing planned planting systems with fruit, herbal and native species of the region.
  
@@ -98,7 +98,7 @@ Engineers; students or people interested in agroecology, agroforestry, permacult
 **FERMENTADOS _ COZINHA NÔMADE**
 DANIELA SERRUYA KOHN | Belo Horizonte, Minas Gerais, Brasil
 
-![](/media/images/fermentados.jpg)
+![](/media/images/interactivos18/fermentados.jpg)
 
 Create a Food and Beverage Fermentation Station by exchanging experiments and techniques through the cultivation, care and observation of the microbiomes of the food in the fermentation process. Work with the transformation of surpluses of unconventional vegetables and herbs into medicinal foods and artisan probiotics . As a result we will make an online publication with recipes based on fermentation.
  
@@ -116,7 +116,7 @@ Farmers, cooks, artists, carpenters, biologists, students, food engineers, Serri
 **ROTA-MNESIS**
 ANA HENRIQUES BROTAS | Lisboa, Portugal
 
-![](/media/images/mapas.jpg)
+![](/media/images/interactivos18/mapas.jpg)
 
 Since memories influence our perception of space, how is this process translated into a depiction?
    

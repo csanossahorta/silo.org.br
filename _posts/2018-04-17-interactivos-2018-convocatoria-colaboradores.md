@@ -31,7 +31,7 @@ E confira abaixo os **projetos** que serão desenvolvidos.
 **LAB DE FERTILIZAÇÃO A BASE DE BIOFERTILIZANTES**  
 ANDRES MAURICIO MONCAYO | Chachagüí, Nariño, Colombia.
 
-![](/media/images/biofertilizantes.jpg)
+![](/media/images/interactivos18/biofertilizantes.jpg)
 
 Criação de um pequeno laboratório para cultivo de biofertilizantes, ou seja, adubos líquidos com muita energia equilibrada e harmonia mineral preparada a partir de esterco fresco de gado, dissolvida em água e enriquecida com leite e melaço, fermentada em tanques de plástico, sob sistema anaeróbico e enriquecida com sais minerais; como sulfatos de magnésio, zinco, cobre, etc.. Também pretendemos fabricar Ajidol (que é um produto orgânico que tem efeitos inseticidas); Caldo de Cinzas (Fungicida natural); E desenvolver microrganismos MM eficientes, fazer chá esterco e bioestimulantes de babosa.
 
@@ -44,7 +44,7 @@ Pessoas que tenham relação com o mundo rural, cafeicultores, pessoas que tenha
 **NGUARA - GUIA PARA A CONSTRUÇÃO DE ABRIGOS ANIMAIS E HUMANOS**  
 DANIEL DA SILVA ALMEIDA, TOMMI EDNARDO COSTA e GABRIELA DI SESSA |  Resende, Rio de Janeiro, Brasil.  
   
-![](/media/images/bambu.jpg)
+![](/media/images/interactivos18/bambu.jpg)
   
 Elaboração de um manual de soluções práticas para assentamentos humanos ou abrigo animal utilizando técnicas ancestrais (a exemplos dos Nguara Puris) e contemporâneas (biodinâmica, permacultura, sintropia) enfatizando o uso de materia prima abundante como o bambu. O objetivo é fazer uma compilação de tecnologias que podem ser úteis na criação desses abrigos agrupadas em um guia para incentivar ao uso de tecnologias sustentáveis para a criação de assentamentos humanos rurais. Como protótipo desenvolvemos um galinheiro e um pequeno abrigo temporário. 
 								
@@ -58,7 +58,7 @@ Engenheira/o de produção ou materiais; designer com experiência em utilizac�
 **FULL COMPOST**    
 OSCAR BRACAMONTE | Santa Fé, Argentina.  
   
-![](/media/images/fullcompost.jpg)
+![](/media/images/interactivos18/fullcompost.jpg)
   
 Construção de um sistema de compostagem eficiente de decomposição rápida e uniforme, com grande economia de escala, rápida transformação de resíduos em renda econômica, com utilização de grande variedade de matérias para transformar-los em composto. O objetivo é construir um dispositivo que ocupa pouco espaço, tempo e que também seja capaz de tratar qualquer resíduo orgânico.
 
@@ -71,7 +71,7 @@ Profissionais com conhecimentos em mecânica ou eletromecânica, soldagem, engen
 **PROJETO GERMINAÇÃO**  
 ANDRÉIA PREVIATO BOTELHO e FILIPE RAMOS | Santos, São Paulo , Brasil.  
   
-![](/media/images/germinacao.jpg)
+![](/media/images/interactivos18/germinacao.jpg)
   
 Implementação de micro módulos agroflorestais utilizando técnicas como a da hugelkulture (plantio em colinas) e o plantio direto na palha (mulchem), com o objetivo de desenvolver alternativas possíveis de baixo custo e manutenção, colaborando para o enriquecimento florestal, valorizando a tradição oral, apoiando a segurança e variedade alimentar implantando sistemas de plantio planejado com espécies frutíferas, fitoterápicas e nativas da região.
  
@@ -85,7 +85,7 @@ Engenheira/os, estudantes ou pessoas interessadas em agroecologia, agrofloresta,
 **FERMENTADOS _ COZINHA NÔMADE**  
 DANIELA SERRUYA KOHN | Belo Horizonte, Minas Gerais, Brasil.  
   
-![](/media/images/fermentados.jpg)
+![](/media/images/interactivos18/fermentados.jpg)
 
 Criar uma estação de Fermentação de alimentos e bebidas fazendo um intercâmbio de experimentos e técnicas através do cultivo, cuidado e observação dos microbiomas dos alimentos em processo fermentativo.Trabalhar com a transformação de excedentes de hortas e plantas alimentícias não convensionais em alimentos medicinais e probióticos artesanais.Como resultado faremos uma publicação on-line com receitas a base de fermentaçao. 
  
@@ -98,7 +98,7 @@ Agricultora/es, cozinheira/os, artistas, marceneiras/os, biólogas/os, estudante
 **ROTA-MNESIS**  
 ANA HENRIQUES BROTAS | Lisboa, Portugal.  
   
-![](/media/images/mapas.jpg)
+![](/media/images/interactivos18/mapas.jpg)
   
 Sendo que as memórias influenciam a nossa perceção do espaço, como é que este processo é traduzido numa representação?
 Investigação da necessidade intrínseca de fazer e usar mapas numa realidade iconográfica rural, profundamente interligada com a memória. Através de uma metodologia participativa e comunitária, este projeto pretende potenciar uma linguagem pictórica de representação espacial baseada na exploração empírica das rotas pedestres locais.
