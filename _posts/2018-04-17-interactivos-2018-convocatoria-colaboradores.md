@@ -4,7 +4,6 @@ layout: post
 title: 'Convocatória para Colaboradores | Interactivos?’18: Tecnosfera Rural'
 cover: media/images/cover18.jpg
 category:
-  - silo
   - interactivos
 lang: pt
 ref: interactivos-collaborators-2018-call
@@ -13,7 +12,7 @@ ref: interactivos-collaborators-2018-call
 A **Silo - Arte e Latitude Rural** apresenta **Interactivos?’ 18: Tecnosfera Rural - Repensando a Vida no Campo** onde serão desenvolvidos 6 projetos com o aporte de colaboradores em um laboratório rural localizado na Serrinha do Alambari - RJ, de **14 a 28 de junho 2018**. 
 Até o dia **15 de maio**, receberemos candidaturas para colaboradoras/es que desejam participar diretamente da criação e do desenvolvimento dos projetos selecionados com proposições para o mundo rural.
 
-As pessoas selecionadas receberão hospedagem, alimentação, apoio técnico/teórico.
+As pessoas selecionadas receberão hospedagem e alimentação durante o evento.
 
   
 
