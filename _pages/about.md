@@ -12,12 +12,20 @@ parceiras:
     cover: media/images/logos/procomum.png
   - link: 'http://www.ciudadania20.org/'
     cover: media/images/logos/inovacionciudadana.png
+  - link: 'http://segib.org/'
+    cover: media/images/logos/segib.svg
   - link: 'http://www.lilo.zone'
-    cover: media/images/logos/lilo.svg
+    cover: media/images/logos/lilo.png
   - link: 'http://www.sitawi.net/'
     cover: media/images/logos/sitawi.svg
   - link: 'http://epicentrodalva.com.br/'
     cover: media/images/logos/epicentrodalva.png
+  - link: 'https://oama.eco.br/'
+    cover: media/images/logos/oama.jpg
+  - link: 'https://ludmilalacerdabarros.com/'
+    cover: media/images/logos/ludmila.png
+  - link: 'https://remarkablestudio.com/'
+    cover: media/images/logos/remarkable.png
   - link: 'http://www.fundosocialelas.org/'
     cover: media/images/logos/elas.svg
 ref: pagina-sobre
