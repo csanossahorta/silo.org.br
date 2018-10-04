@@ -1,6 +1,6 @@
 ---
 title: Fernanda Tosta
-link: fernandatosta.com
+link: https://fernandatosta.com
 cover: media/images/people/pb_fernanda.jpg
 category: associadas
 published: true

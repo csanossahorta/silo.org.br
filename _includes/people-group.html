@@ -20,8 +20,11 @@
           </div>
           <div class="list-item-title people-title">{{ page.title }}</div>
           {% if page.link %}
-            <a class="people-link" href="http://{{ page.link }}/" target="_blank">
-              {{ page.link }}
+            <a class="people-link" href="{{ page.link }}" target="_blank">
+              {{ page.link | replace: "https://www.", ""
+                           | replace: "http://www.", ""
+                           | replace: "https://", ""
+                           | replace: "http://", "" }}
             </a>
           {% else %}
             <a class="people-link hidden-link" href="" target="_blank">___</a>

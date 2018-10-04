@@ -1,6 +1,6 @@
 ---
 title: Lina Lopes
-link: linalopes.info
+link: http://www.linalopes.info
 cover: media/images/people/pb_lina.jpg
 category: associadas
 published: true
