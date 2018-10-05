@@ -1,6 +1,6 @@
 ---
 title: Cinthia Mendonça
-link: https://cinthia.ml
+link: https://cinthia.mobi
 cover: media/images/people/pb_cinthia.jpg
 category: associadas
 published: true
