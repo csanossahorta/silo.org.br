@@ -3,7 +3,7 @@ published: true
 layout: post
 title: EncontrADA Diálogo - 2019
 draft: true
-cover: media/images/cover12.jpg
+cover: media/images/cover15.jpg
 category:
   - encontrada
 lang: pt
