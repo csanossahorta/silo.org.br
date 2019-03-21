@@ -15,5 +15,4 @@ Destinado para mulheres líderes de todo o Brasil, o curso ofereceu conceitos e 
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe src="https://player.vimeo.com/video/325659761?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<script src="https://player.vimeo.com/api/player.js"></script>
 </div>
