@@ -1,8 +1,13 @@
 ---
 published: true
 layout: post
-title: 'EncontrADA 2019: Diálogo'
+title: EncontrADA Diálogo - 2019
 draft: true
+cover: media/images/cover12.jpg
+category:
+  - encontrada
+lang: pt
+ref: encontrada-dialogo-2019
 ---
 Entre os dias 14 e 18 de fevereiro de 2019 a **Silo - Arte e Latitude Rural** em parceria com o Nansen Center para a Paz e o Diálogo realizaram na Serrinha do Alambari um treinamento de Diálogo e Transformação de Conflitos.
 
