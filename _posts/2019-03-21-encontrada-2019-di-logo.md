@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: EncontrADA Diálogo - 2019
+title: 'EncontrADA 2019: Diálogo'
 draft: true
 cover: media/images/cover15.jpg
 category:
