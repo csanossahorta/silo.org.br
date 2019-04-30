@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Call for Interactivos?’19: Rural Science'
-cover: media/images/cover13.jpg
+cover: media/images/cover20.jpg
 category:
   - silo
   - interactivos
@@ -21,9 +21,7 @@ Until **May 31**, professionals from different fields, artists, scientists and r
 
 [[SEND A PROPOSAL]](https://forms.gle/ZXiwYFkuPFkz3HV77){:target="_blank"}
 
-
 ![](/media/images/i19_cover02.png)
-
 Realization: Silo – Arte e Latitude Rural  
 Contact: [interactivos@silo.org.br](mailto:interactivos@silo.org.br)
 
