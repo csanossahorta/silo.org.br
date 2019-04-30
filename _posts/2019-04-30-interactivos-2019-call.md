@@ -9,7 +9,7 @@ category:
 lang: en
 ref: interactivos-2019-call
 ---
-![](/media/images/i19_cover00.png)
+![](/media/images/i19_cover01.png)
 
 Silo - Arte e Latitude rural, with the support of Serrapilheira Institute, presents: **Interactivos?’19: Rural Science**.
 
@@ -23,7 +23,6 @@ Until **May 31**, professionals from different fields, artists, scientists and r
 
 
 ![](/media/images/i19_cover02.png)
-
 
 Realization: Silo – Arte e Latitude Rural  
 Contact: [interactivos@silo.org.br](mailto:interactivos@silo.org.br)

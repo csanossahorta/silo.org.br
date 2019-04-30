@@ -21,11 +21,10 @@ Até o dia **31 de maio de 2019**, pessoas de diferentes áreas de atuação, c
 
 [[DESCARGUE LA CONVOCATORIA - ESPAÑOL]](/media/docs/interactivos_convocatoria_2019_ES.pdf){:target="_blank"}  
 
-[[FORMULÁRIO DE INSCRIÇÃO | FORMULARIO DE INSCRIPCÍON]](https://forms.gle/ZXiwYFkuPFkz3HV77){:target="_blank"}
+[[FORMULÁRIO DE INSCRIÇÃO / FORMULARIO DE INSCRIPCÍON]](https://forms.gle/ZXiwYFkuPFkz3HV77){:target="_blank"}
 
 
 ![](/media/images/i19_cover02.png)
-
 
 Realização: Silo – Arte e Latitude Rural  
 Contato: [interactivos@silo.org.br](mailto:interactivos@silo.org.br)
