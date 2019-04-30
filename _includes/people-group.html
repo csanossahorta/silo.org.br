@@ -12,7 +12,7 @@
   <div class="people-list">
     {% assign pages = site.pages | where:"lang", page.lang %}
     {% for page in pages %}
-      {% if page.category contains include.section %}
+      {% if page.category == include.section %}
         {% assign pCover = site.baseurl | append: '/' | append: page.cover %}
         <div class="people-list-item">
           <div class="people-image-wrapper">

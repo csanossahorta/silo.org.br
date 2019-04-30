@@ -2,7 +2,7 @@
 title: Lina Lopes
 link: http://www.linalopes.info
 cover: media/images/people/pb_lina.jpg
-category: associadas
+category: associadas-fundadoras
 published: true
 ref: bio-lina
 lang: pt

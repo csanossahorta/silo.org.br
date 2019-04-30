@@ -1,7 +1,7 @@
 ---
 title: Itala Herta
 cover: media/images/people/pb_itala.jpg
-category: associadas
+category: associadas-fundadoras
 published: true
 ref: bio-itala
 lang: pt
