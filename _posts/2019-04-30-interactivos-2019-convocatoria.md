@@ -15,7 +15,7 @@ A Silo - Arte e Latitude rural, com o apoio do Instituto Serrapilheira, apresent
 
 Serão selecionadas 5 propostas para serem desenvolvidas com o aporte de colaboradores e mentores cientistas em um laboratório rural localizado na Serrinha do Alambari - RJ, de **03 a 17 de agosto de 2019**. 
 
-Até o dia **31 de maio de 2019**, pessoas de diferentes áreas de atuação, cientistas, artistas, pesquisadores e educadores podem inscrever projetos. As pessoas selecionadas receberão transporte, hospedagem, alimentação e contarão com mentoria de cientistas e divulgadores da ciência, além da participação de colaboradores para o desenvolvimento de suas propostas.
+Até o dia **02 de junho de 2019**, pessoas de diferentes áreas de atuação, cientistas, artistas, pesquisadores e educadores podem inscrever projetos. As pessoas selecionadas receberão transporte, hospedagem, alimentação e contarão com mentoria de cientistas e divulgadores da ciência, além da participação de colaboradores para o desenvolvimento de suas propostas.
 
 [[BAIXE A CONVOCATÓRIA - PORTUGUÊS]](/media/docs/interactivos_convocatoria_2019_PT.pdf){:target="_blank"}  
 
