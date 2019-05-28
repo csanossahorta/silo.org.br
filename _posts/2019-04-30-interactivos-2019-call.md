@@ -15,7 +15,7 @@ Silo - Arte e Latitude rural, with the support of Serrapilheira Institute, prese
 
 5 projects will be selected to be developed with the contribution of collaborators and scientists mentors in a rural laboratory located in Serrinha do Alambari - RJ - Brazil, **from 03 to 17 August 2019**. 
 
-Until **May 31**, professionals from different fields, artists, scientists and researchers can submit proposals for projects. The selected projects will receive transport, lodging, food, material support and mentoring of scientists, help with scientific documentation, as well as collaborators to develop their proposals.
+Until **2nd June**, professionals from different fields, artists, scientists and researchers can submit proposals for projects. The selected projects will receive transport, lodging, food, material support and mentoring of scientists, help with scientific documentation, as well as collaborators to develop their proposals.
 
 [[DOWNLOAD DETAILS OF CALL - ENGLISH]](/media/docs/interactivos_2019_call_EN.pdf){:target="_blank"}
 
