@@ -1,5 +1,5 @@
 ---
-title: 'Interactivos?''
+title: 'Interactivos?'
 cover: 'media/images/interactivos.jpg'
 layout: list
 permalink: /interactivos/
