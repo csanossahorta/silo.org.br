@@ -51,7 +51,7 @@ JOAQUÍN PÁEZ | Córdoba, Argentina.
 O projeto visa aprofundar uma pesquisa sobre a técnica de fotografia fotossintética através da experimentação interdisciplinar. Seu objetivo é aperfeiçoar a técnica para a produção artística. O processo de experimentação será desenvolvido através de tentativa e erro, fazendo cópias em folhas de árvores e estudando de forma detalhada os resultados de cada teste.
 
 **Perfil Colaboradoras/es:**
-Artistas, químicas/os orgánicas/os, biólogas/os con experiencia de campo en la zona, especialista en resinas naturales, designer gráfica/o, residentes da Serrinha y demás interesados en la investigación. Todas/os con experiencia o interés por una metodología colaborativa e interdisciplinaria, curiosas/os y de mente abierta. 
+Artistas, fotógrafas/os, engenheiras/os químicas/os, biólogas/os, botânicas/os, especialista em resinas naturais, designer gráfico, moradores da Serrinha e demais interessadas/os. 
   
   
 -------------------------------------------------------------------------------------------------------   
@@ -63,7 +63,7 @@ PROJETO COSMOS | Manaus, AM , Brasil.
   
 Como aproveitar o sentimento de encanto gerado pela prática de observar o céu noturno para a construção de conhecimento? O objetivo é investigar e construir uma atividade que posso somar junto à prática de observar o céu noturno com telescópios e/ou planetários móveis.  O Projeto Cosmos já trabalha com oficinas de divulgação científica em escolas públicas, e agora queremos cocriar uma imersão em Astronomia aberta ao público livre e que seja empática, acolhedora, encantadora e construtiva.
 
-**Perfil Colaboradoras/es: **
+**Perfil Colaboradoras/es:**
 Artistas em geral (músicos, atores, artistas visuais, ilustradores, artistas circenses,etc), pessoas que trabalhem com construção de narrativas (roteiristas, youtubers, escritores, contadores de histórias, criadores de jogos digitais ou de tabuleiro, etc.), pessoas que trabalhem com divulgação científica para o grande público (trabalhem com planetários, museus de ciência, educomunicação, etc), moradores da serrinha, astrônomos, antropólogos, astrólogos e demais interessados.
   
   
