@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Convocatória para Colaboradores | Interactivos?’19: Ciência na Roça'
-cover: media/images/cover17.jpg
+cover: media/images/cover16.jpg
 category:
   - silo
   - interactivos

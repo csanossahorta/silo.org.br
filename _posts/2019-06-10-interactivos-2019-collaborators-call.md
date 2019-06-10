@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Call for Collaborators | Interactivos?’19: Rural Sciences'
-cover: media/images/cover17.jpg
+cover: media/images/cover16.jpg
 category:
   - silo
   - interactivos
@@ -28,7 +28,7 @@ Sign up as a collaborator [[here]](https://forms.gle/PXNXAU6viLPdstZ77){:target=
 
 ------------------------------------------------------------------------------------------------------ 
 
-**ECHOES | LOW COST EQUIPMENT FOR BIOACÚSTIC ANALYSIS**  
+**ECHOES, LOW COST EQUIPMENT FOR BIOACÚSTIC ANALYSIS**  
 KEILA ZACHÉ and FABIANA DUFFRAYER | Rio de Janeiro, RJ, Brasil.
 
 ![](/media/images/ecos.jpg)
