@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Convocatória para Colaboradores | Interactivos?’19: Ciência na Roça'
-cover: media/images/cover18.jpg
+cover: media/images/cover17.jpg
 category:
   - silo
   - interactivos
@@ -29,7 +29,7 @@ E confira abaixo os **projetos** que serão desenvolvidos.
 
 ------------------------------------------------------------------------------------------------------ 
 
-**ECOS | APARATO DE BAIXO CUSTO PARA ANÁLISE BIOACÚSTICA**  
+**ECOS, APARATO DE BAIXO CUSTO PARA ANÁLISE BIOACÚSTICA**  
 KEILA ZACHÉ e FABIANA DUFFRAYER | Rio de Janeiro, RJ, Brasil.
 
 ![](/media/images/ecos.jpg)

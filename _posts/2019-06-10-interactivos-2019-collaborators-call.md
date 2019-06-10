@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Call for Collaborators | Interactivos?’19: Rural Sciences'
-cover: media/images/cover18.jpg
+cover: media/images/cover17.jpg
 category:
   - silo
   - interactivos
