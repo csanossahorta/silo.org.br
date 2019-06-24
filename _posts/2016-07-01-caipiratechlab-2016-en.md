@@ -18,6 +18,3 @@ In partnership with Sítio Bicho Solto, which is part of the Agroecological Asso
 
 [[MORE PICTURES]](https://www.flickr.com/photos/151197945@N07/albums/72157679168514796){:target="_blank"}
 
-
-Oi
-
