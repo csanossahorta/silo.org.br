@@ -1,6 +1,7 @@
 ---
+published: true
 layout: post
-title: "CaipiraTech Lab 2016: Seed Economies"
+title: 'CaipiraTech Lab 2016: Seed Economies'
 cover: media/images/cover1.jpg
 category:
   - silo
@@ -16,3 +17,7 @@ In this activity we dealt with *Seed Economies* within the daily management of a
 In partnership with Sítio Bicho Solto, which is part of the Agroecological Association of Teresópolis, CaipiraTech Lab opened a program for an Agroecological experience in the rural area of Teresópolis between June 18 and 19, 2016.
 
 [[MORE PICTURES]](https://www.flickr.com/photos/151197945@N07/albums/72157679168514796){:target="_blank"}
+
+
+Oi
+
