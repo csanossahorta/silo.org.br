@@ -485,9 +485,10 @@ a {
 
   .list-item-title {
     position: absolute;
+    box-sizing: border-box;
     width: 100%;
     bottom: 0;
-    padding: 8px 0;
+    padding: 12px 12%;
     border-radius: 5px;
     font: normal $LINK-SIZE $FONT-TITLE;
     text-align: center;
