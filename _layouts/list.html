@@ -10,9 +10,11 @@
       <section class="content-text">
         <h2>{{ page.title }}</h2>
         {{ content }}
-        <a href="{{ site.baseurl }}{{ page.link }}" target="_blank">
-          [ {{ page.link-text }} ]
-        </a>
+        {% if page.link and page.link-text %}
+          <a href="{{ site.baseurl }}{{ page.link }}" target="_blank">
+            [ {{ page.link-text }} ]
+          </a>
+        {% endif %}
       </section>
       
       <section class="list-wrapper">
