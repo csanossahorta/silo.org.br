@@ -3,7 +3,6 @@ title: 'Interactivos?'
 cover: 'media/images/interactivos.jpg'
 layout: list
 permalink: /interactivos/
-link: 'https://interactivos.silo.org.br/'
 lang: pt
 category: interactivos
 ref: interactivos-list
