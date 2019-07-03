@@ -38,7 +38,7 @@ O meio ambiente possui uma diversidade de linguagens e apresenta uma plasticidad
 Por isso Ecos propõe o desenvolvimento de um equipamento de gravação sonora automática para ambientes terrestres - com bom desempenho, replicável e de baixo custo - baseado em um modelo pré-existente. Durante o lab vamos verificar a composição sonora diária de uma localidade e aferir a eficácia do protótipo híbrido desenvolvido a partir das análises dos sinais sonoros em softwares específicos para essa finalidade, teste de estatística básica e a geração de gráficos.  
 
 **Perfil de Colaboradoras/es:**  
-Artistas, artistas sonoros, músicos, ornitólogos, pessoas com conhecimento de eletrônica, programação, aptidão e interesse em estudos de campo, equipamentos sonoros e biologia.  
+Artistas, artistas sonoros, músicos, pessoas com conhecimento de eletrônica, programação, aptidão e interesse em estudos de campo, equipamentos sonoros e biologia.  
   
   
 -------------------------------------------------------------------------------------------------------      
