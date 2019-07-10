@@ -13,6 +13,7 @@ Anualmente realizamos um laboratório para o desenvolvimento de projetos de mane
 **Veja a documentação das edições passadas:**
   
 [![](/media/images/interactivos18.jpg)](https://interactivos.silo.org.br/2018){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/silolatitude/albums){:target="_blank"}
   
 [![](/media/images/interactivos16.jpg)](https://interactivos.silo.org.br/2016){:target="_blank"}
 Mais fotos [aqui](https://www.flickr.com/photos/interactivos16/){:target="_blank"}
