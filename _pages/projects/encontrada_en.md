@@ -3,10 +3,13 @@ title: 'EncontrADA'
 cover: 'media/images/encontrada.jpg'
 layout: list
 permalink: /en/encontrada/
-link: 'http://encontrada.org'
-link-text: 'LATEST EVENT'
 lang: en
 category: encontrada
 ref: encontrada-list
 ---
 Silo organises EncontrADA, a feminist event focussed on the exchange of knowledge between different feminist and feminine realities. By means of this programme, we offer different courses aimed at technical learning, given by professionals from different areas. Furthermore, we offer assistance or mentorship on projects carried out by women or transgender people.
+  
+  
+**LATEST EVENTS:**
+  
+[![](/media/images/encontrada16.jpg)](http://encontrada.org){:target="_blank"}
