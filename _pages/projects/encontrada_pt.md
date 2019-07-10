@@ -14,8 +14,8 @@ A Silo realiza a EncontrADA, encontro feminista focado na troca de saberes entre
 [![](/media/images/encontrada19.jpg)](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
   
 [![](/media/images/encontrada17.jpg)](http://encontrada.org){:target="_blank"}
-[Fotos da EncontrADA 2017](https://www.flickr.com/photos/152202556@N06/with/36762989454/){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/with/36762989454/){:target="_blank"}
   
 [![](/media/images/encontrada16.jpg)](https://encontrada.hotglue.me/2016/){:target="_blank"}
-[Fotos da EncontrADA 2016](https://www.flickr.com/photos/152202556@N06/albums/72157685722066836){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/152202556@N06/albums/72157685722066836){:target="_blank"}
 
