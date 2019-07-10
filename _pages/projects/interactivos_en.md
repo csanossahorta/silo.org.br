@@ -13,6 +13,7 @@ Every year we organise a laboratory for the development of collaborative open so
 **Past editions documentation:**
   
 [![](/media/images/interactivos18.jpg)](https://interactivos.silo.org.br/2018){:target="_blank"}
+More pictures [here](https://www.flickr.com/photos/silolatitude/albums){:target="_blank"}
   
 [![](/media/images/interactivos16.jpg)](https://interactivos.silo.org.br/2016){:target="_blank"}
 More pictures [here](https://www.flickr.com/photos/interactivos16/){:target="_blank"}
