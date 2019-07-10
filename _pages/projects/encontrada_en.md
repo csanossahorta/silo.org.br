@@ -16,3 +16,5 @@ Silo organises EncontrADA, a feminist event focussed on the exchange of knowledg
   
 [![](/media/images/encontrada17.jpg)](http://encontrada.org){:target="_blank"}
 [Pictures EncontrADA 2017](https://www.flickr.com/photos/152202556@N06/with/36762989454/){:target="_blank"}
+  
+[![](/media/images/encontrada16.jpg)](http://encontrada.org){:target="_blank"}
