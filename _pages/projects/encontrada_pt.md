@@ -13,5 +13,5 @@ A Silo realiza a EncontrADA, encontro feminista focado na troca de saberes entre
 
 [![](/media/images/encontrada19.jpg)](https://silo.org.br/encontrada-2019-di-logo/){:target="_blank"}
   
-[![](/media/images/encontrada16.jpg)](http://encontrada.org){:target="_blank"}
+[![](/media/images/encontrada17.jpg)](http://encontrada.org){:target="_blank"}
 [Fotos da EncontrADA Saberes Ancestrais](https://www.flickr.com/photos/152202556@N06/with/36762989454/){:target="_blank"}
