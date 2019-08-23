@@ -26,5 +26,7 @@ Brasil (Rio, 2016), Pulso (SP, 2016), Dia da Música (Rio, 2015), Eletronika (BH
 
 Em 2017 curou Disco é Cultura, exposição no Castelinho do Flamengo dedicada a analisar a influência do disco de vinil e do toca-discos na arte contemporânea brasileira. A exposição ganhou em 2109 uma remontagem, intitulada Lado B: o disco de vinil na arte contemporânea brasileira, no Sesc Belenzinho. Em 2016, assinou a curadoria da exposição de sound art brasileira Gambiarra Sonora no centro cultural alemão Festspielhaus Hellerau, em Dresden. A próxima exposição com sua curadoria irá acontecer no MAM-RJ entre novembro de 2019 e março de 2020, reunindo trabalhos do acervo do museu que se relacionam com o som.
 
-### VALOR DO INVESTIMENTO: R$480,00 (incluindo hospedagem e alimentação)
+  
+**VALOR DO INVESTIMENTO:** R$480,00 (incluindo hospedagem e alimentação)
+  
 INTERESSADOS ENTRE EM CONTATO ATRAVÉS DO **contato@silo.org.br**
