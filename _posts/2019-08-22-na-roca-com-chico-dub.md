@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Na ROÇA com Chico Dub'
-cover: media/images/cover10.jpg
+cover: media/images/cover13.jpg
 category:
   - silo
 lang: pt
