@@ -8,11 +8,11 @@ category: interactivos
 ref: interactivos-list
 ---
 Anualmente realizamos um laboratório para o desenvolvimento de projetos de maneira colaborativa a partir do uso de licenças livres, promovendo o aprendizado e a troca de saberes de maneira horizontal e experimental, partindo das demandas dos próprios projetos. Nosso laboratório produz diferentes tipos de tecnologias sejam elas ligadas ao universo técnico ou ao universo social, abrangendo áreas como engenharia, economia, ciências sociais, arte, educação entre tantas outras. Além disso oferecemos serviço de mentoria e assessoria para a replicação da metodologia que usamos em diferentes contextos.
-
-[![](/media/images/interactivos19.jpg)](https://interactivos.silo.org.br/2019){:target="_blank"}
-Mais fotos [aqui](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
   
 **Veja a documentação das edições passadas:**
+  
+[![](/media/images/interactivos19.jpg)](https://interactivos.silo.org.br/2019){:target="_blank"}
+Mais fotos [aqui](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
   
 [![](/media/images/interactivos18.jpg)](https://interactivos.silo.org.br/2018){:target="_blank"}
 Mais fotos [aqui](https://www.flickr.com/photos/silolatitude/albums){:target="_blank"}
