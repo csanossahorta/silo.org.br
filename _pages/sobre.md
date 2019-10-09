@@ -24,12 +24,8 @@ parceiras:
     cover: media/images/logos/oama.jpg
   - link: 'https://ludmilalacerdabarros.com/'
     cover: media/images/logos/ludmila.png
-  - link: 'https://remarkablestudio.com/'
-    cover: media/images/logos/remarkable.png
   - link: 'http://www.fundosocialelas.org/'
     cover: media/images/logos/elas.svg
-  - link: 'https://serrapilheira.org'
-    cover: media/images/logos/serrapilheira.png
   - link: 'https://oco.arq.br'
     cover: media/images/logos/oco.png
 ref: pagina-sobre
@@ -89,6 +85,13 @@ O nome Silo faz referÃªncia a nossa capacidade de interagir e agir sobre o espaÃ
     <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
+  
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/serrapilheira.png' %} 
+   <a href="https://serrapilheira.org" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+  
 </div>
 
 <div class="about-section-title-wrapper">
