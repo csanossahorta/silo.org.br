@@ -24,8 +24,8 @@ parceiras:
     cover: media/images/logos/oama.jpg
   - link: 'https://ludmilalacerdabarros.com/'
     cover: media/images/logos/ludmila.png
-  - link: 'https://remarkablestudio.com/'
-    cover: media/images/logos/remarkable.png
+  - link: 'https://oco.arq.br'
+    cover: media/images/logos/oco.png
   - link: 'http://www.fundosocialelas.org/'
     cover: media/images/logos/elas.svg
 ref: pagina-sobre
@@ -85,6 +85,14 @@ The name Silo refers to our capacity to interact with and act on the space we li
     <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
     </div>
   </a>
+  
+    
+  {% assign pCover = site.baseurl | append: '/' | append: 'media/images/logos/serrapilheira.png' %} 
+   <a href="https://serrapilheira.org" target="_blank">
+    <div class="parceira-logo" style="background-image: url('{{ pCover }}');">
+    </div>
+  </a>
+  
 </div>
 
 <div class="about-section-title-wrapper">
