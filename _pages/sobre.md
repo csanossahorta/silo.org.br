@@ -24,10 +24,10 @@ parceiras:
     cover: media/images/logos/oama.jpg
   - link: 'https://ludmilalacerdabarros.com/'
     cover: media/images/logos/ludmila.png
-  - link: 'http://www.fundosocialelas.org/'
-    cover: media/images/logos/elas.svg
   - link: 'https://oco.arq.br'
     cover: media/images/logos/oco.png
+  - link: 'http://www.fundosocialelas.org/'
+    cover: media/images/logos/elas.svg
 ref: pagina-sobre
 lang: pt
 ---
