@@ -28,6 +28,10 @@ parceiras:
     cover: media/images/logos/remarkable.png
   - link: 'http://www.fundosocialelas.org/'
     cover: media/images/logos/elas.svg
+  - link: 'https://serrapilheira.org'
+    cover: media/images/logos/serrapilheira.png
+  - link: 'https://oco.arq.br'
+    cover: media/images/logos/oco.png
 ref: pagina-sobre
 lang: pt
 ---
