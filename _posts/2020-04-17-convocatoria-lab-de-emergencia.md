@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Convocatória para o Laboratório de Emergência | COVID-19'
-cover: media/images/cover21.jpg
+cover: media/images/cover1.jpg
 category:
   - silo
   - interactivos
@@ -11,7 +11,8 @@ ref: lab-de-emergencia-2019-convocatoria
 ---
 <br>
 
-  
+![](/media/images/lab_emergencia_cover1.png)
+
 Dada a situação de isolamento devido ao coronavírus, convidamos você a criar iniciativas colaborativas nos próximos 12 dias em quatro fases:
   
 * Chamada de ideias e propostas:  mapeamento de necessidades e coleta de boas propostas para enfrentar a situação atual por meio de uma chamada aberta. Podem ser novas ideias ou projetos que estão em andamento em outros lugares. Ou iniciativas que estão trabalhando em pequena escala e desejam expandir seu alcance.
@@ -88,6 +89,7 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
 * Desenvolvimento de um primeiro protótipo. Até Sexta-feira 01.05
 * Apresentação dos primeiros resultados e proposta de implementação. Sábado 02.05 (manhã e tarde)
   
+![](lab_emergencia_post1.jpg)
   
 ---
           
@@ -96,7 +98,10 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
 Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. Criamos um guia para facilitar e orientar esta documentação.
   
   --- 
-     
+    
+
+![](/media/images/lab_emergencia_perguntasfrequentes.png)
+    
 **[PERGUNTAS FREQUENTES](https://labdeemergencia.silo.org.br/perguntas-frequentes/)**
 
 Se você tiver alguma outra dúvida, escreva-nos para: [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"}.
