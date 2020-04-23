@@ -11,8 +11,9 @@ ref: lab-de-emergencia-2020-convocatoria-colab
 ---
 <br>
 
-## INSCREVA-SE!
-# CONVOCATÓRIA PARA COLABORADOR.S
+![](/media/images/lab_emergencia_post2.png)
+
+# INSCREVA-SE!
   
 Até o dia 25 de abril, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento
 de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
