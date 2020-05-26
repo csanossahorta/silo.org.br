@@ -11,7 +11,8 @@ Every year we organise a laboratory for the development of collaborative open so
 
   
 **Past editions documentation:**
-
+[![](/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/){:target="_blank"}
+  
 [![](/media/images/interactivos19.jpg)](https://interactivos.silo.org.br/2019){:target="_blank"}
 More pictures [here](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
   
