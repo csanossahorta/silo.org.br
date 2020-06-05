@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Chamada para Projetos | Laboratório de Emergência | 2a ed.'
-cover: media/images/cover4.jpg
+cover: media/images/cover5.jpg
 category:
   - interactivos
 lang: pt
