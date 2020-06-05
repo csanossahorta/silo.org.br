@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'Call for Projects | Emergency Lab | 2nd ed.'
+title: 'Call for Projects | Emergency Lab | 2ed.'
 cover: media/images/cover5.jpg
 category:
   - interactivos
@@ -10,7 +10,7 @@ ref: lab-emergencia-2ed-call
 ---
 
 
-![](https://labdeemergencia.silo.org.br/2ed/media/images/covers/call_for_projects.png)
+![https://labdeemergencia.silo.org.br/2ed](https://labdeemergencia.silo.org.br/2ed/media/images/covers/call_for_projects.png)
 
 **Silo - Arte e Latitude Rural** and [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, in partnership with [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"},[Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, **Lab Coco**, [Datalabe](https://datalabe.org/){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"},
 [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"},[Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} present:
