@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Confira a documentação | 2ed. | Laboratório de Emergência | COVID–19 '
-cover: media/images/cover7.jpg
+cover: media/images/cover8.jpg
 category:
   - interactivos
 lang: pt
@@ -11,6 +11,8 @@ ref: lab-emergencia-2ed-doc
 
 
 ![https://labdeemergencia.silo.org.br/2ed](/media/images/lde_2ed.png)
+
+Confira aqui a documentação da [2ed. do Lab de Emergência](https://labdeemergencia.silo.org.br/2ed)
 
 **2ª Edição do Laboratório de Emergência _ COVID–19 _ RECONFIGURANDO O FUTURO** uniu pessoas que acreditam na colaboração e na inovação em um espaço virtual para levantarem juntas soluções para os complexos problemas que enfrentam suas comunidades diante dos impactos da pandemia da COVID–19. 
 
