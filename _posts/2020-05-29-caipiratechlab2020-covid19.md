@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 'CaipiraTech Lab: Conheça a produção de nosso vizinhos!'
+title: 'CaipiraTech Lab: Conheça a produção de nossos vizinhos!'
 cover: media/images/cover3.jpg
 category:
   - silo
