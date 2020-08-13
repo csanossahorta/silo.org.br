@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Call for Projects | Emergency Lab | 3ed.'
-cover: media/images/cover8.jpg
+cover: media/images/cover9.jpg
 category:
   - interactivos
 lang: en
