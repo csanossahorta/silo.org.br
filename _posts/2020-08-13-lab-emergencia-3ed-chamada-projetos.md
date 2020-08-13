@@ -28,12 +28,12 @@ A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} com apo
 
 
 
-FAÇA [AQUI](/3ed/media/docs/PT_PROJETOS_CHAMADA_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA
+FAÇA [AQUI](https://labdeemergencia.silo.org.br/3ed/media/docs/PT_PROJETOS_CHAMADA_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA
 
 
 Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/dRvbwmcL9kHfyxiPA){:target="_blank"}
 
 
 Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
-ou acesse [PERGUNTAS FREQUENTES](/3ed/pt/dicas/perguntas-frequentes)
+ou acesse [PERGUNTAS FREQUENTES](https://labdeemergencia.silo.org.br/3ed/pt/dicas/perguntas-frequentes)
 
