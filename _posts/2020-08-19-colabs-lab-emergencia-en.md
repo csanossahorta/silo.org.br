@@ -31,10 +31,10 @@ Applications can be submitted until **August 21** by collaborators who wish to p
 See below the projects that will be developed.
 
 
-DOWNLOAD THE CALL [HERE](/3ed/media/docs/PT_CHAMADA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} 
+DOWNLOAD THE CALL [HERE](https://labdeemergencia.silo.org.br/3ed/media/docs/ES_CONVOCATORIA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} 
 
 
 And apply through this [FORM](https://forms.gle/PDsXuab7rGmGCwxL9){:target="_blank"}
   
   
-For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](/3ed/pt/dicas/perguntas-frequentes-colabs)
+For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](https://labdeemergencia.silo.org.br/3ed/pt/dicas/perguntas-frequentes-colabs/)
