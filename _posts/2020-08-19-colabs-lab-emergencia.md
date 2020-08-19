@@ -17,26 +17,15 @@ A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} com apo
 
 **3a Edição do Laboratório de Emergência \| COVID–19 \| INFLEXÃO: ESTRATÉGIAS E NOVAS NARRATIVAS**, onde serão selecionadas 12 propostas para serem desenvolvidas com o aporte de colaboradoras/es em um laboratório solidário online, a se realizar do **24 ao 30 de agosto de 2020**.
 
-**CALENDÁRIO:**
-  
-* **Chamada de projetos      _** 13.08 a 16.08 (5ª feira a domingo)
-* **Seleção de projetos      _** 17.08 e 18.08
-* **Chamada de colaboradores _** 19.08 a 21.08 (4ª a 6ª feira)
-* **Estruturação das equipes _** 23.08 (domingo)
-* **Laboratório              _** 24.08 a 30.08 (2ª feira a domingo)
-* **Apresentações            _** 30.08 \| 15h (domingo)
-
-
-**3ª Edição do Laboratório de Emergência _ COVID–19** onde serão desenvolvidas 16 propostas com o aporte de colaborador.s, desenvolvedor.s e mentor.s em um laboratório solidário online, a se realizar do **24 ao 30 de agosto de 2020**. 
 
 Até o dia **21 de agosto, sexta-feira**, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
 
 
-FAÇA [AQUI](/3ed/media/docs/PT_CHAMADA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
+FAÇA [AQUI](https://labdeemergencia.silo.org.br/3ed/media/docs/PT_CHAMADA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
 
 
 Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/PDsXuab7rGmGCwxL9){:target="_blank"}
   
   
 Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
-ou acesse [PERGUNTAS FREQUENTES](/3ed/pt/dicas/perguntas-frequentes-colabs)
+ou acesse [PERGUNTAS FREQUENTES](https://labdeemergencia.silo.org.br/3ed/pt/dicas/perguntas-frequentes-colabs/)
