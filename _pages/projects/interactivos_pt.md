@@ -11,6 +11,8 @@ Anualmente realizamos um laboratório para o desenvolvimento de projetos de mane
   
 **Veja a documentação das edições passadas:**
   
+[![](/media/images/lab_emergencia_3ed.png)](https://labdeemergencia.silo.org.br/3ed){:target="_blank"}
+  
 [![](/media/images/lab_emergencia_2ed.png)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
    
 [![](/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
