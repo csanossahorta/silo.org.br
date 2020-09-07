@@ -87,7 +87,7 @@ No momenta da inscrição via formulário a pessoa interessada pode optar por co
 * mercado estabelecido (mínimo 1 ano) 
 * residir na região de abrangência do Vale do Rio Paraíba e Serra da mantiqueira
 
-**O candidato à bolsa se compromete à:**
+**O candidato à bolsa se compromete a:**
 * participar integralmente dos 3 módulos do curso
 * estar disponível para acompanhamento nos 9 meses posteriores ao curso: responder emails, mensagens, formulários, entrevistas e eventualmente receber visitas de nossas/os pesquisadoras/es;
 * se comprometer a replicar os aprendizados, levando-os para comunidade/grupo por meio de conversas, oficinas ou práticas cotidianas;
