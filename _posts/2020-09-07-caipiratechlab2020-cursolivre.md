@@ -18,33 +18,39 @@ ref: caipiratechlab20_cursolivre
 O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse aqui o [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/eDjPBK263p1X2kJ97){:target="_blank"}
 
 
+![](/media/images/c20_1o_cursolivre_POST_20.jpg)
+
 ## Programação
-  
+
+
 Oferecemos 22h00min de formação organizadas em 3 módulos: Gestão, Finanças e Comunicação. Haverá também um encontro de abertura e outro de encerramento. Os encontros serão sempre entre 16:00 e 18:00h. 
 
-Cada encontro contará com uma/um facilitadora/or específica/o, com experiência de vida e trabalho ligada ao tema do módulo. O curso reveza entre troca de conhecimento por meios técnicos como apresentação de slides, planilhas, gráficos e exercícios e meios narrativos: histórias de vida e de práticas cotidianas. As aulas acontecem com interatividade entre os participantes e momentos para práticas e partilha de questões. Abaixo o cronograma:
+Cada encontro contará com uma/um facilitadora/or específica/o, com experiência de vida e trabalho ligada ao tema do módulo. O curso reveza entre troca de conhecimento por meios técnicos como apresentação de slides, planilhas, gráficos e exercícios e meios narrativos: histórias de vida e de práticas cotidianas. As aulas acontecem com interatividade entre os participantes e momentos para práticas e partilha de questões. 
+  
+Abaixo o cronograma:
 
-**Dia 20 de setembro: Encontro de abertura**
+**Encontro de abertura – 20 de setembro**
 
 **Módulo 1: Gestão - 21, 22 e 23 de setembro de 16:00 à 18:00h**
-* dia 21 - Trabalho cooperativado e produção ecológica de média e larga escala - Cooperativa de Produção Agropecuária Nova Santa Rita (Coopan), MST Rio Grande do Sul - com Indiane Rubenich (Coopan)
-* dia 22 - Como criar e trabalhar a partir do [recurso] que se tem - MST Santa Catarina - com Neiva Vieira (MST)
-* dia 23 - Metodologias para organização de grupos e tomada de decisão - com a especialista em Pedagogia da Cooperação e Metodologias Colaborativas, Mari do Espírito Santo.
+* **Dia 21** - Trabalho cooperativado e produção ecológica de média e larga escala - Cooperativa de Produção Agropecuária Nova Santa Rita (Coopan), MST Rio Grande do Sul - com Indiane Rubenich (Coopan)
+* **Dia 22** - Como criar e trabalhar a partir do [recurso] que se tem - MST Santa Catarina - com Neiva Vieira (MST)
+* **Dia 23** - Metodologias para organização de grupos e tomada de decisão - com a especialista em Pedagogia da Cooperação e Metodologias Colaborativas, Mari do Espírito Santo.
 
 
 **Módulo 2: Finanças - 28, 29, 30 de setembro de 16:00 à 18:00h**
-* dia 28 - Cadernetas agroecológicas e fortalecimento das mulheres agricultoras - GT Mulheres da Articulação de de Agroecologia do Rio de Janeiro - com Renata Solto, Yasmim Villaseca e Vanessa Schottz. 
-* dia 29 - Análise Econômico-Ecológica de Agroecossistemas - Método LUME - com Paulo Neto 
-* dia 30 - Organização da produção agrícola: custos, valores e logística: aprendizados de uma Comunidade que Sustenta a Agricultura (CSA-Brasil) - com Ariel Molina.
+* **Dia 28** - Cadernetas agroecológicas e fortalecimento das mulheres agricultoras - GT Mulheres da Articulação de de Agroecologia do Rio de Janeiro - com Renata Solto, Yasmim Villaseca e Vanessa Schottz. 
+* **Dia 29** - Análise Econômico-Ecológica de Agroecossistemas - Método LUME - com Paulo Neto 
+* **Dia 30** - Organização da produção agrícola: custos, valores e logística: aprendizados de uma Comunidade que Sustenta a Agricultura (CSA-Brasil) - com Ariel Molina.
 
 **Módulo 3: Comunicação - 05, 06 e 07 de outubro de 16:00 à 18:00h**
-* dia 05 - Identidades e comunicação afetiva  - ANA - Articulação Nacional de Agroecologia - com Nathália Almeida.
-* dia 06 - Criação de peças gráficas e divulgação nas redes sociais - Campanha Permanente Contra os Agrotóxicos - com Angélica Almeida 
-* dia 07 - Produção e edição de imagens e vídeos - Silo - Arte e Latitude Rural - com Sara Lana  
+* **Dia 05** - Identidades e comunicação afetiva  - ANA - Articulação Nacional de Agroecologia - com Nathália Almeida.
+* **Dia 06** - Criação de peças gráficas e divulgação nas redes sociais - Campanha Permanente Contra os Agrotóxicos - com Angélica Almeida 
+* **Dia 07** - Produção e edição de imagens e vídeos - Silo - Arte e Latitude Rural - com Sara Lana  
 
-**Dia 08 de outubro  - Encontro de Encerramento**
+**Encontro de Encerramento – Dia 08 de outubro**
 
-
+![](/media/images/c20_1o_cursolivre_POST_10.jpg)
+  
 ## Quem pode participar? 
   
 Podem participar grupos, organizações e unidades de referência/produção ou indivíduo que fazem parte do sistema agroalimentar (pessoas que cuidam do cultivo, do beneficiamento, do escoamento, da venda desses produtos) da região.
@@ -58,7 +64,7 @@ Após o curso, será disponibilizado material didático do conteúdo abordado, p
 
 Não deixe a internet ser um empecilho à sua participação! Se houver necessidade, podemos fornecer orientações, antes do curso, para que todas e todos aprendam a utilizar as plataformas e estruturas necessárias! Basta sinalizar essa necessidade no campo “Informações complementares, dúvidas e comentários“ no formulário de inscrição.
 
-**Ao participar, você autoriza o uso e divulgação da sua imagem para os fins aqui mencionados.
+**Ao participar, você autoriza o uso e divulgação da sua imagem para os fins aqui mencionados.**
 
   
 ## Concessão do auxílio à participação e ao acompanhamento
