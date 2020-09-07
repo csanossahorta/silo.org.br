@@ -19,7 +19,6 @@ O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse aq
 
 ---
 
-![](/media/images/c20_1o_cursolivre_POST_20.jpg)
 
 ## Programação
 
@@ -50,7 +49,6 @@ Abaixo o cronograma:
 
 **Encontro de Encerramento – Dia 08 de outubro**
 
-![](/media/images/c20_1o_cursolivre_POST_10.jpg)
   
 ---
 
@@ -59,8 +57,9 @@ Abaixo o cronograma:
 Podem participar grupos, organizações e unidades de referência/produção ou indivíduo que fazem parte do sistema agroalimentar (pessoas que cuidam do cultivo, do beneficiamento, do escoamento, da venda desses produtos) da região.
 Serão 15 participantes no total. O curso é gratuito e a inscrição é realizada por meio deste formulário. Haverá emissão de certificado para os participantes.
 
+---
 
-Estruturas digitais e material didático
+## Estruturas digitais e material didático
 O curso será integralmente ministrado na modalidade virtual, em videoconferências online através da plataforma Zoom. Todas as aulas serão gravadas e, após o curso, serão disponibilizadas publicamente em nosso canal do Youtube*. A comunicação/partilha de materiais entre os participantes e equipe de organização acontecerá através de grupo no Whatsapp, pasta no Google Drive, E-mail.
 
 Após o curso, será disponibilizado material didático do conteúdo abordado, para dar suporte aos participantes na hora de replicarem os aprendizados junto aos seus grupos/organizações.
