@@ -8,7 +8,7 @@ category:
   - caipiratechlab
 swipebox: c20_1o_cursolivre
 lang: pt
-ref: caipiratechlab20_cursolivre
+ref: curso-livre_caipiratechlab
 ---
 
 ![](/media/images/c20_cursolivre_banner.jpg)
@@ -17,6 +17,7 @@ ref: caipiratechlab20_cursolivre
   
 O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse aqui o [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/eDjPBK263p1X2kJ97){:target="_blank"}
 
+---
 
 ![](/media/images/c20_1o_cursolivre_POST_20.jpg)
 
@@ -51,6 +52,8 @@ Abaixo o cronograma:
 
 ![](/media/images/c20_1o_cursolivre_POST_10.jpg)
   
+---
+
 ## Quem pode participar? 
   
 Podem participar grupos, organizações e unidades de referência/produção ou indivíduo que fazem parte do sistema agroalimentar (pessoas que cuidam do cultivo, do beneficiamento, do escoamento, da venda desses produtos) da região.
@@ -65,6 +68,8 @@ Após o curso, será disponibilizado material didático do conteúdo abordado, p
 Não deixe a internet ser um empecilho à sua participação! Se houver necessidade, podemos fornecer orientações, antes do curso, para que todas e todos aprendam a utilizar as plataformas e estruturas necessárias! Basta sinalizar essa necessidade no campo “Informações complementares, dúvidas e comentários“ no formulário de inscrição.
 
 **Ao participar, você autoriza o uso e divulgação da sua imagem para os fins aqui mencionados.**
+
+---
 
   
 ## Concessão do auxílio à participação e ao acompanhamento
@@ -92,6 +97,8 @@ No momenta da inscrição via formulário a pessoa interessada pode optar por co
 (caso tenha restrição para participar em algum dos dias, um outro membro do seu coletivo/organização/grupo familiar poderá participar no lugar, mediante análise. se este for o caso, por favor indique no formulário de inscrição, no campo ”Informações complementares, dúvidas e comentários”.)
 
   
+---
+
 ## Finalidade do curso livre 
   
 * Incentivar sistemas agroalimentares orientados pela agroecologia, em transição ou da agricultura familiar.
@@ -99,8 +106,10 @@ No momenta da inscrição via formulário a pessoa interessada pode optar por co
 * Compartilhar ferramentas (de gestão e produção) e conhecimentos (tecnológico, científico e popular) para profissionalizar ou agregar qualidade ao trabalho que já vêm sendo feito, na região, ligados ao cultivo e oferta de alimentos saudáveis, justos e sustentáveis.
 * Informar e conscientizar sobre o funcionamento dos sistemas agroalimentares, sua importância e maneiras de sustentá-lo a médio e longo prazo. 
 
+---
 
-## APRESENTAÇÃO DO PROGRAMA 
+
+## Apresentação do programa
 
 CaipiraTechLab é um programa da Silo que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
 
