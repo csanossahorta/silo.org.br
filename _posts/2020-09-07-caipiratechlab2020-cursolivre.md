@@ -15,7 +15,7 @@ ref: caipiratechlab20_cursolivre
 
 ## Inscrições
   
-O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse o formulário:  
+O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse aqui o [FORMULÁRIO DE INSCRIÇÃO](https://forms.gle/eDjPBK263p1X2kJ97){:target="_blank"}
 
 
 ## Programação
