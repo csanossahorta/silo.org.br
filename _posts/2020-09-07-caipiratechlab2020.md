@@ -23,7 +23,7 @@ O período de inscrição é de 07 a 14 de setembro. Para inscrever-se acesse aq
 ## Programação
 
 
-Oferecemos 22h00min de formação organizadas em 3 módulos: Gestão, Finanças e Comunicação. Haverá também um encontro de abertura e outro de encerramento. Os encontros serão sempre entre 16:00 e 18:00h. 
+Oferecemos 22h de formação organizadas em 3 módulos: Gestão, Finanças e Comunicação. Haverá também um encontro de abertura e outro de encerramento. Os encontros serão sempre entre 16h e 18h. 
 
 Cada encontro contará com uma/um facilitadora/or específica/o, com experiência de vida e trabalho ligada ao tema do módulo. O curso reveza entre troca de conhecimento por meios técnicos como apresentação de slides, planilhas, gráficos e exercícios e meios narrativos: histórias de vida e de práticas cotidianas. As aulas acontecem com interatividade entre os participantes e momentos para práticas e partilha de questões. 
   
@@ -34,17 +34,17 @@ Abaixo o cronograma:
 **Módulo 1: Gestão - 21, 22 e 23 de setembro de 16:00 à 18:00h**
 * **Dia 21** - Trabalho cooperativado e produção ecológica de média e larga escala - Cooperativa de Produção Agropecuária Nova Santa Rita (Coopan), MST Rio Grande do Sul - com Indiane Rubenich (Coopan)
 * **Dia 22** - Como criar e trabalhar a partir do [recurso] que se tem - MST Santa Catarina - com Neiva Vieira (MST)
-* **Dia 23** - Metodologias para organização de grupos e tomada de decisão - com a especialista em Pedagogia da Cooperação e Metodologias Colaborativas, Mari do Espírito Santo.
+* **Dia 23** - Metodologias para organização de grupos e tomada de decisão - com a especialista em Pedagogia da Cooperação e Metodologias Colaborativas, Mari do Espírito Santo
 
 
 **Módulo 2: Finanças - 28, 29, 30 de setembro de 16:00 à 18:00h**
 * **Dia 28** - Cadernetas agroecológicas e fortalecimento das mulheres agricultoras - GT Mulheres da Articulação de de Agroecologia do Rio de Janeiro - com Renata Solto, Yasmim Villaseca e Vanessa Schottz. 
 * **Dia 29** - Análise Econômico-Ecológica de Agroecossistemas - Método LUME - com Paulo Neto 
-* **Dia 30** - Organização da produção agrícola: custos, valores e logística: aprendizados de uma Comunidade que Sustenta a Agricultura (CSA-Brasil) - com Ariel Molina.
+* **Dia 30** - Organização da produção agrícola: custos, valores e logística: aprendizados de uma Comunidade que Sustenta a Agricultura (CSA-Brasil) - com Wagner Santos
 
 **Módulo 3: Comunicação - 05, 06 e 07 de outubro de 16:00 à 18:00h**
-* **Dia 05** - Identidades e comunicação afetiva  - ANA - Articulação Nacional de Agroecologia - com Nathália Almeida.
-* **Dia 06** - Criação de peças gráficas e divulgação nas redes sociais - Campanha Permanente Contra os Agrotóxicos - com Angélica Almeida 
+* **Dia 05** - Identidades e comunicação afetiva  - ABA - Associação Brasileira de Agroecologia - com Nathália Almeida.
+* **Dia 06** - Criação de peças gráficas e divulgação nas redes sociais - Campanha Permanente Contra os Agrotóxicos - com Angélica Almeida
 * **Dia 07** - Produção e edição de imagens e vídeos - Silo - Arte e Latitude Rural - com Sara Lana  
 
 **Encontro de Encerramento – Dia 08 de outubro**
@@ -87,7 +87,7 @@ No momenta da inscrição via formulário a pessoa interessada pode optar por co
 * mercado estabelecido (mínimo 1 ano) 
 * residir na região de abrangência do Vale do Rio Paraíba e Serra da mantiqueira
 
-**O candidato à bolsa se compromete a:**
+**O candidato à bolsa se compromete à:**
 * participar integralmente dos 3 módulos do curso
 * estar disponível para acompanhamento nos 9 meses posteriores ao curso: responder emails, mensagens, formulários, entrevistas e eventualmente receber visitas de nossas/os pesquisadoras/es;
 * se comprometer a replicar os aprendizados, levando-os para comunidade/grupo por meio de conversas, oficinas ou práticas cotidianas;
@@ -125,4 +125,4 @@ O programa se materializa por meio de três frentes:
   
 Conheça nossa campanha de incentivo aos alimentos produzidos em nossa região acessando nosso site e nossas redes sociais na internet.   
   
-Esse projeto está sendo realizado com o apoio do Instituto Ibirapitanga.
+Esse projeto está sendo realizado com o apoio do **Instituto Ibirapitanga**.
