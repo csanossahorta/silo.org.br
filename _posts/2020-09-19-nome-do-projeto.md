@@ -2,6 +2,10 @@
 published: true
 layout: post
 title: nome do projeto
+category:
+  - silo
+lang: pt
+ref: hhhhh
 ---
 ## jhgjhg
 
