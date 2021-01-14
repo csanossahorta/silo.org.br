@@ -1,6 +1,6 @@
 ---
 title: Sara Lana
-link: https://touca.ninja
+link: https://saralana.xyz
 cover: media/images/people/pb_sara.jpg
 category: associadas
 published: true
