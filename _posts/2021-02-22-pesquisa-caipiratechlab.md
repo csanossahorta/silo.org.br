@@ -41,8 +41,7 @@ Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e
  
 * **Se você se identificou, inscreva-se preenchendo o formulário disponível neste link:** [https://forms.gle/2jUaZamW8gU3w42Z7](https://forms.gle/2jUaZamW8gU3w42Z7){:target="_blank"}
 
-<a href="https://forms.gle/2jUaZamW8gU3w42Z7" class="button">Link Button</a>
- 
+  
 Após uma primeira seleção de currículos, faremos uma entrevista com as/os candidatas/os.
  
 Daremos atenção aos currículos de pessoas pretas, pardas e indígenas.  
