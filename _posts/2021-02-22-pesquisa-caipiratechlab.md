@@ -19,7 +19,9 @@ Buscamos pessoas que vivam nas seguintes regiões: Serra da Mantiqueira, Vale do
  
 Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de no máximo cinco horas diárias e será organizada por demandas e cumprimento de tarefas.
  
-   
+     
+---
+  
 ### Buscamos pessoas que:
    
 * Tenham interesse multidisciplinar e intercultural, interessadas na diversidade como caminho de construção de um mundo melhor. Gente curiosa que gosta de contar e ouvir histórias, aprender e desaprender coisas.
@@ -39,8 +41,9 @@ Após uma primeira seleção de currículos, faremos uma entrevista com as/os ca
 Daremos atenção aos currículos de pessoas pretas, pardas e indígenas.  
  
 Vamos receber currículos até o dia **20/03/2021**.
- 
-
+  
+---
+  
 ### Apresentação do programa
  
 CaipiraTechLab é um programa da Silo que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
@@ -50,7 +53,9 @@ Sistemas agroalimentares envolvem todos os processos relacionados à alimentaç�
 Consideramos que as formas de organização participativas, orientadas pela agroecologia, colaboram para a democratização do acesso a alimentos sem agrotóxicos,, a redução do consumo de alimentos ultraprocessados e a constituição de circuitos locais de distribuição e de instrumentos alternativos de regulação política e institucional.
  
 Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos indígenas e tradicionais como quilombolas e a agricultura familiar camponesa pode alterar os fluxos de distribuição da riqueza nas cadeias alimentares e prevenir a degradação das culturas alimentares locais.
- 
+   
+---
+  
    
 ### O programa se materializa por meio de três frentes:
   
