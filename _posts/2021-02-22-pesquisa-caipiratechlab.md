@@ -40,6 +40,8 @@ Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e
 * Estejam dispostas a trabalhar com uma grande diversidade de pessoas, áreas de interesse, modos de ser, agir e pensar. Não aceitamos expressões de ódio ou intolerância em temas de gênero, raça, etnia, posição social, orientação sexual, religiosa, ou de outra procedência.
  
 * **Se você se identificou, inscreva-se preenchendo o formulário disponível neste link:** [https://forms.gle/2jUaZamW8gU3w42Z7](https://forms.gle/2jUaZamW8gU3w42Z7){:target="_blank"}
+
+<a href="https://forms.gle/2jUaZamW8gU3w42Z7" class="button">Link Button</a>
  
 Após uma primeira seleção de currículos, faremos uma entrevista com as/os candidatas/os.
  
