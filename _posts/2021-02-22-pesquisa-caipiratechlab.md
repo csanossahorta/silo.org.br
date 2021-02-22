@@ -79,6 +79,6 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
 
 * Criação de uma comunidade - composta de produtores, consumidores e prestadores de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
  
- <br><br><br>
+ <br>
  
 Este projeto é realizado com o apoio do [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}.
