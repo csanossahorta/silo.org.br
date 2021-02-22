@@ -13,16 +13,19 @@ ref: pesquisa_caipiratechlab
 
 ![](/media/images/c21_banner.png)
 
+<br><br>
+
 A Silo oferece três vagas para pesquisadoras e pesquisadores dentro do programa CaipiraTechLab.
  
 Buscamos pessoas que vivam nas seguintes regiões: Serra da Mantiqueira, Vale do Rio Paraíba do Sul, Serra da Bocaina e Serra do Mar. Elas se juntarão à equipe da SILO para pesquisar aspectos dos sistemas agroalimentares dessas quatros regiões citadas com o objetivo de organizar e sistematizar dados e informações para nutrir um mapeamento, uma campanha de divulgação e um curso livre oferecido gratuitamente. Além disso, a/o pesquisadora/or irá colaborar para o processo de criação de uma plataforma virtual para produtoras e produtores. 
  
 Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de no máximo cinco horas diárias e será organizada por demandas e cumprimento de tarefas.
+
 <br>
      
 ---
   
-  <br>
+<br>
   
 ### Buscamos pessoas que:
    
@@ -45,6 +48,7 @@ Daremos atenção aos currículos de pessoas pretas, pardas e indígenas.
 Vamos receber currículos até o dia **20/03/2021**.
   
   <br>
+  
 ---
   
   <br>
@@ -60,6 +64,7 @@ Consideramos que as formas de organização participativas, orientadas pela agro
 Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos indígenas e tradicionais como quilombolas e a agricultura familiar camponesa pode alterar os fluxos de distribuição da riqueza nas cadeias alimentares e prevenir a degradação das culturas alimentares locais.
   
   <br>
+    
 ---
   
    <br>
