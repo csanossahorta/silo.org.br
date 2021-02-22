@@ -55,7 +55,7 @@ Vamos receber currículos até o dia **20/03/2021**.
   
 ### Apresentação do programa
  
-CaipiraTechLab é um programa da Silo que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
+**CaipiraTechLab** é um programa da **Silo** que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
  
 Sistemas agroalimentares envolvem todos os processos relacionados à alimentação - produção, processamento, comercialização, preparação e consumo. A maneira como nos organizamos, em nossos territórios, para produzir, distribuir e consumir alimentos tem profundo impacto na saúde das pessoas e do meio ambiente, nas relações sociais e ecológicas - podemos contribuir tanto para a regeneração e nutrição da vida como para a deterioração das suas condições no planeta. 
  
@@ -77,7 +77,7 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
 
 * Criação de uma plataforma que venha a complementar práticas presenciais já estabelecidas para convergir produtoras/es, prestadoras/es de serviço (dentro do mercado de infraestrutura, manufatura, beneficiamento e distribuição de alimentos) oferecendo comunicação, espaço seguro para venda/compra, assessoria e uma consciência de rede de co-responsabilidade.
 
-* Criação de uma comunidade - composta de produtores, consumidores e prestadores de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
+* Criação de uma comunidade - composta de produtoras/es, consumidoras/es e prestadoras/es de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
  
  <br>
  
