@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'CaipiraTechLab – Convocatória para pesquisadoras/es'
 cover: media/images/cover10.jpg
