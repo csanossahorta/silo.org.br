@@ -18,10 +18,11 @@ A Silo oferece três vagas para pesquisadoras e pesquisadores dentro do programa
 Buscamos pessoas que vivam nas seguintes regiões: Serra da Mantiqueira, Vale do Rio Paraíba do Sul, Serra da Bocaina e Serra do Mar. Elas se juntarão à equipe da SILO para pesquisar aspectos dos sistemas agroalimentares dessas quatros regiões citadas com o objetivo de organizar e sistematizar dados e informações para nutrir um mapeamento, uma campanha de divulgação e um curso livre oferecido gratuitamente. Além disso, a/o pesquisadora/or irá colaborar para o processo de criação de uma plataforma virtual para produtoras e produtores. 
  
 Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e remuneração de acordo com a realidade local. A jornada de trabalho será de no máximo cinco horas diárias e será organizada por demandas e cumprimento de tarefas.
- 
+<br>
      
 ---
   
+  <br>
 ### Buscamos pessoas que:
    
 * Tenham interesse multidisciplinar e intercultural, interessadas na diversidade como caminho de construção de um mundo melhor. Gente curiosa que gosta de contar e ouvir histórias, aprender e desaprender coisas.
@@ -42,8 +43,10 @@ Daremos atenção aos currículos de pessoas pretas, pardas e indígenas.
  
 Vamos receber currículos até o dia **20/03/2021**.
   
+  <br>
 ---
   
+  <br>
 ### Apresentação do programa
  
 CaipiraTechLab é um programa da Silo que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
@@ -53,10 +56,11 @@ Sistemas agroalimentares envolvem todos os processos relacionados à alimentaç�
 Consideramos que as formas de organização participativas, orientadas pela agroecologia, colaboram para a democratização do acesso a alimentos sem agrotóxicos,, a redução do consumo de alimentos ultraprocessados e a constituição de circuitos locais de distribuição e de instrumentos alternativos de regulação política e institucional.
  
 Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos indígenas e tradicionais como quilombolas e a agricultura familiar camponesa pode alterar os fluxos de distribuição da riqueza nas cadeias alimentares e prevenir a degradação das culturas alimentares locais.
-   
+  
+  <br>
 ---
   
-   
+   <br>
 ### O programa se materializa por meio de três frentes:
   
 * Mapeamento e campanha de divulgação das/os produtoras/es rurais da região e de pequenos estabelecimentos de manufatura/beneficiamento de produtos locais. 
@@ -66,5 +70,6 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
 * Criação de uma plataforma que venha a complementar práticas presenciais já estabelecidas para convergir produtoras/es, prestadoras/es de serviço (dentro do mercado de infraestrutura, manufatura, beneficiamento e distribuição de alimentos) oferecendo comunicação, espaço seguro para venda/compra, assessoria e uma consciência de rede de co-responsabilidade.
 
 * Criação de uma comunidade - composta de produtores, consumidores e prestadores de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
-  
+ 
+ <br><br><br>
 Este projeto é realizado com o apoio do [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}.
