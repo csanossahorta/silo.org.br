@@ -23,6 +23,7 @@ Oferecemos um primeiro contrato de seis meses com possibilidade de renovação e
 ---
   
   <br>
+  
 ### Buscamos pessoas que:
    
 * Tenham interesse multidisciplinar e intercultural, interessadas na diversidade como caminho de construção de um mundo melhor. Gente curiosa que gosta de contar e ouvir histórias, aprender e desaprender coisas.
@@ -47,6 +48,7 @@ Vamos receber currículos até o dia **20/03/2021**.
 ---
   
   <br>
+  
 ### Apresentação do programa
  
 CaipiraTechLab é um programa da Silo que tem por objetivo colaborar com o fortalecimento dos sistemas agroalimentares locais garantindo assim a perenidade da produção e da distribuição de alimentos saudáveis, justos e sustentáveis.
@@ -61,6 +63,7 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
 ---
   
    <br>
+   
 ### O programa se materializa por meio de três frentes:
   
 * Mapeamento e campanha de divulgação das/os produtoras/es rurais da região e de pequenos estabelecimentos de manufatura/beneficiamento de produtos locais. 
@@ -72,4 +75,5 @@ Os sistemas agroalimentares também expressam cultura e valor. Valorizar grupos 
 * Criação de uma comunidade - composta de produtores, consumidores e prestadores de serviço - que seja corresponsável e de confiança para fortalecer a economia local e garantir a perenidade da produção e da distribuição de alimentos.
  
  <br><br><br>
+ 
 Este projeto é realizado com o apoio do [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}.
